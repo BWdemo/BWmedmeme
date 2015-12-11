@@ -1,0 +1,1001 @@
+﻿PresentationID|Seq|Year|Source|First Name|Middle|Last Name|Organization|City|State|Country|Email|CoAuthor
+5659857|1|10/16/2009|Medmeme|M.E.A.||Abdalsalam|Department of Clinical Pathology & Immunology, Institute of Endemic Diseases, University of Khartoum|||Sudan||Khalil_E.A.G.
+14177953|1|06/19/2015|Medmeme|N.||Abdelkafi|Hôpital Sahloul|Sousse||Switzerland||Jemni_S.:Frioui_S.:Wannes_W.:Moncer_R.:Bel Haj Youssef_I.:Frigui_S.:Zaoui_A.:Khachnaoui_F.
+14177690|1|06/19/2015|Medmeme|M.||Abolhasani|Tehran University Of Medical Sciences|Tehran||||Hosseini_S.:Rajabi_H.:Sahraian_M. A.:Mehri_K.:Moradi_M.
+14174116|1|04/30/2015|Medmeme|Khaldoon||Abudaqqa||Markgroningen||||Buchin-Emunds_P.:Schall_H.:Krebs_S.:Schatz_C.R.
+14172931|1|07/05/2015|Medmeme|David||Ackerley|Victoria University of Wellington|||||
+14174980|1|06/29/2015|Medmeme|Gbenga A||Adefolaju|University of Limpopo|||South Africa||Thabethe_Kutlwano R:Hosie_Margot J
+14177621|1|06/19/2015|Medmeme|B.||Adeyemo|Emory University|Atlanta||Switzerland||Andriotakis_J.:Adeyemo_A.:Iroro_A.:Siao_P.
+14177706|1|06/19/2015|Medmeme|B.||Adeyemo|Emory University|Atlanta, GA||United States||Wililams_C.
+14177272|1|06/19/2015|Medmeme|B.||Adeyemo|Emory University|||||Wilcots_G.
+14170026|1|04/04/2014|Medmeme|Sabrina||Adkins||||||Wolfe_George
+14170314|1|03/25/2015|Medmeme|Sumita||Agarkar|Medical Research Foundation, Sankara Nethralaya 18, College Road|Nungambakkam, Chennai, Tamilnadu||India||Desai_Roshni
+14169631|1|06/11/2015|Medmeme|A||Ahamad|Century 21|||United States||Salenius_S:Paucar_E:Ross_R:Fernandez_E
+14169698|1|12/26/2014|Medmeme|Nadeem||Ahmed|Combined Military Hospital Attock|||||Ahmed Ansari_Moin:Rehman_Razaur
+14172262|1|09/17/2014|Medmeme|Sadiyya||Ahmed-Hassen|Department of Pharmacy and Pharmacology, School of Therapeutic Sciences, University of Witwatersrand|||||Miot_Jacqui:Moch_Shirra
+14177909|1|06/19/2015|Medmeme|A.||Al Khayer|Al-Ahli Hospital|Doha||Switzerland||Anwar_F.:Weir_A.
+14178361|1|06/19/2015|Medmeme|K.||Alabbadi||Amman||Jordan||
+14173013|1|07/02/2015|Medmeme|Aiste||Aleliunaite|Department of Cellular and Molecular Medicine, University of Copenhagen|||||Minocherhomji_Sheroy:Hickson_Ian D.
+14170391|1|03/25/2015|Medmeme|Shatha H||Alfreihi|UCLA|Los Angeles, CA||||Pineles_Stacy:McCannel_Tara:McCannel_Colin:Glasgow_Ben:Velez_Federico
+14177968|1|06/19/2015|Medmeme|O. J.||Alí Morell|Fundación Purísima Concepción|||||Zurita Ortega_F.:Fernández Estévez_B.:Padilla Obispo_B.:Martínez Porcel_R.
+14177697|1|06/19/2015|Medmeme|F.||Alibrahim|King Saud University|Riyadh, SA||||
+14173688|1|12/04/2014|Medmeme|Elham||Alizadeh Pasdar|School of Medical Science, Griffith University|Southport||Australia||Smits_Michael:Zobalova_Renata:Dong_Lan-Feng:Neuzil_Jiri
+14177766|1|06/19/2015|Medmeme|E.||Allart|Lille University Hospital|Lille||France||Benoit_A.:Blanchard-Dauphin_A.:Tiffreau_V.:Thevenon_A.:Zéphir_H.:Outteryck_O.:Lacour_A.:Vermersch_P.
+14177792|1|06/19/2015|Medmeme|E.||Allart|Lille University Hospital|Lille||France||Benoit_A.:Thevenon_A.:Tiffreau_V.:Vermersch_P.:Blanchard-Dauphin_A.
+14173875|1|04/20/2015|Medmeme|Ana||Allende|CSIC|Murcia||Spain||
+14169922|1|05/14/2014|Medmeme|Jacob||Al-Saleem|Department of Veterinary Biosciences, The Ohio State University|||||Green_Patrick L.
+14172919|1|07/05/2015|Medmeme|Eliz||Amar-Lewis|Department of Chemical Engineering, Ben-Gurion University of the Negev|Beer-Sheva, 84105||Israel||Chintakunta_Ramesh:Cohen_Limor:Goldbart_Riki:Traitel_Tamar:Gheber_Levi A.:Kost_Joseph
+14173220|1|05/19/2014|Medmeme|Ruchi||Amin|Wayne State University School of Medicine|||||Celeste Simon_M.
+14173238|1|05/19/2014|Medmeme|Katie L.||Anderson|HHMI-BWF, University of Minnesota College of Veterinary Medicine|||||Modiano_Jaime:Mescher_Matthew
+14178346|1|06/19/2015|Medmeme|M.||Anđic|Institute for Rehabilitation|Belgrade, RS||||Spiroski_D.:Ilic Stojanovic_O.:Vidakovic_T.:Burazor_I.:Lazovic_M.
+14172655|1|07/17/2015|Medmeme|Sandra||Andorf|Sean N. Parker Center for Allergy Research at Stanford University, Stanford University School of Medicine, Lucile Packard Children's Hospital, Stanford Hospital and Clinics|||United States||Ryan_John F.:Graham_Michelle T.:Medina_Carlos O.:Nygaard_Unni C.:Nadeau_Kari C.
+14173375|1|06/08/2015|Medmeme|Nicolas||André|Service d'hématologie et Oncologie Pédiatrique, CHU Timone Enfants, AP-HM, Marseille CLIP, AP-HM, Aix-Marseille Université, INSERM, CRO2 UMR_S 911, Marseille 13385 Metronomics Global Health Initiative|||||
+14177791|1|06/19/2015|Medmeme|E.||Andrenelli|Politecnica delle Marche University|Ancona||Italy||Latini_L.:Ceravolo_M. G.:Capecci_M.
+14177863|1|06/19/2015|Medmeme|E.||Andrenelli|Politecnica delle Marche University|||||Capecci_M.:Monsù_A. M.:Cosimi_A.:Marchegiani_M.:Ceravolo_M. G.
+14177682|1|06/19/2015|Medmeme|M.||Andriana|Airlangga University|||||Subadi_I.:Yuanita_I.
+14172105|1|09/17/2014|Medmeme|Carol||Ann Benn|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||Mokgatle_Lungile:Rayne_Sarah
+14163603|1|05/14/2015|Medmeme|Aziz||Anteena|Handicap International Bangladesh|Dhaka||Bangladesh||
+14163650|1|05/14/2015|Medmeme|Aziz||Anteena|Handicap International Bangladesh|Dhaka||Bangladesh||
+14177127|1|06/19/2015|Medmeme|F.||Anwar|Addenbrooke's Hospital|Cambridge||Switzerland||Al Khayer_A.:Asafu Adajay_K.:Makh-doom_R.
+14177824|1|06/19/2015|Medmeme|L.||Ao||Kunming||||Zhou_N.
+14178307|1|06/19/2015|Medmeme|M.||Arias Franco|Universidad Nacional de Colombia|Bogota||Switzerland||Madera_G.:Ortiz_F.
+14177788|1|06/19/2015|Medmeme|M.||Arias Franco|Universidad Nacional de Colombia|Bogota||||Valencia_D.:Guio_L.
+14172581|1|07/30/2015|Medmeme|A.||Arnal|CREEC and MIVEGEC, UMR IRD/CNRS/UM Montpellier|||France||Jaqueline_C.:Casali_A.:Roche_B.:Moreno_C.:Mery_F.:Thomas_F.
+14170546|1|03/04/2015|Medmeme|Pravit||Asawanonda|Faculty of Medicine, Chulalongkorn University|Bangkok||Thailand||
+14169712|1|12/26/2014|Medmeme|Muhammad||Ashar Malik|Dept. of Community Health Sciences (CHS)|||||Moosa Khan_Murad:Zaman_Muhammad
+14177457|1|06/19/2015|Medmeme|A.||Askin|İzmir Katip Celebi University|İzmir||Switzerland||Inci_R.:Akan_O.:Demirdal_S.:Bayram_K.:Kocyigit_H.
+14178439|1|06/19/2015|Medmeme|A.||Assucena||Valencia, Requena||Spain||Navarro_R.
+14177917|1|06/19/2015|Medmeme|E.||Atabas|ZPRM|Bonn||Germany||
+14173810|1|12/04/2014|Medmeme|Md||Atiqur Rahman|Cancer Molecular Pathology Group, Griffith Health Institute, Griffith University|Gold Coast||Australia||Salajegheh_Ali:Anthony Smith_Robert:King-yin Lam_Alfred
+14173630|1|12/04/2014|Medmeme|C.||Atkinson|Griffith Health Institute and School of Medical Science, Griffith University|Gold Coast||Australia||Munn_AL.:Wiegmans_A.:Khanna_KK:Wei_MQ.
+14170267|1|03/25/2015|Medmeme|Robert A||Avery|Children's National Medical Center|Washington, DC||||Rajjoub_Raneem:Trimboli-Heidler_Carmelina:Packer_Roger J
+14177398|1|06/19/2015|Medmeme|D.||Avramescu|National Institute of Physical Medicine and Rehabilitation|Bucharest, Bucuresti, RO||Romania||Poenaru_D.:Cinteză_D.
+14177013|1|06/19/2015|Medmeme|S. B.||Ayaz|Armed Forces Institute of Rehabilitation Medicine|Rawalpindi||||Rathore_F.:Ahmad_K.:Akhtar_N.:Wa-heed_A.
+14169671|1|06/08/2015|Medmeme|David||Aylor|North Carolina State University|||||
+14170468|1|03/04/2015|Medmeme|A||Azminingrum|Department of Dermato-Venereology. Faculty of Medicine. Airlangga University Dr. Soetomo General Hospital Surabaya|||Indonesia||Listiawan_M. Y.
+14169636|1|06/11/2015|Medmeme|A.||Backredee|University of the West Indies, San Fernando General Hospital|||Trinidad and Tobago||
+14178073|1|06/19/2015|Medmeme|S.||Baek|Kangwon National University Hospital|||||Kang_E. K.:Park_H.- W.:Lee_S.- A.:Moon_J.:Yang_J. E.:Kim_K. S.:Kim_J. Y.
+14173250|1|05/19/2014|Medmeme|Robert||Bai|Jefferson Medical College of Thomas Jefferson University|||||Green_Michael
+14177628|1|06/19/2015|Medmeme|D.||Bakalidou|Technological Educational Institution of Athens|Egaleo||||Gasparinatos_G.:Antonelou_R.:Voumvourakis_K.
+14173712|1|12/04/2014|Medmeme|M||Bakr|School of Dentistry and Oral Health, Gold Coast Campus Griffith University|QLD 4405||Australia||George_R:Khan_U:Skerman_E
+14169892|1|05/14/2014|Medmeme|Subhasree||Balakrishnan|Department of Molecular and Cellular Biochemistry, College of Medicine|||||Sizemore_Gina:Trimboli_Anthony J.:Wallace_Julie A.:Woelke_Sarah:Leone_Gustavo
+14156020|1|05/09/2015|Medmeme|A.||Baldi|Servio Immnunotrasfusionale, AUSL|Massa Carrara||||Lorenzetti_D.:Pecori_F.:Rosaia_B.:Casani_A.
+14165751|1|06/21/2015|Medmeme|K||Balihar|'st Medical Department, Charles University Medical Faculty and Teaching Hospital|Plzen||Czech Republic||Kozeluhova_J:Hejda_V:Krcma_M:Lysak_D:Gorcikova_J:Hes_O:Matejovic_M
+14169621|1|06/11/2015|Medmeme|V||Bandoo|Eric Williams Medical Sciences Complex|Trinidad||||Byam_J:Bahadur Singh_S:Pran_L:Maharaj_R
+14173376|1|06/08/2015|Medmeme|Ayuna||Barlukova|Aix-Marseille University|||||Honoré_S.:Hubert_F.:Petit_M.
+14156025|1|05/09/2015|Medmeme|F.||Barone|UOC di Medicina d'Urgenza, Accettazione e PSA, Ospedale di Lagonegro (PZ), ASP Potenza|||Italy||Barone_N.:Pietro_C.:Minervini_G.:Schiava_A.:Tripodi_B.:Cimmino_G.:Pietrafesa_E.:Colarusso_D.
+14170351|1|03/25/2015|Medmeme|Gerard P||Barry|Albany Medical College 47 New Scotland Ave|Albany, NY 12208||||Herrmann_Alyssa S:Simon_John W
+7205197|1|10/28/2011|Medmeme|Sivasubramanian||Baskar|Experimental Transplantation and Immunology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health|Bethesda, MD||||Wiestner_Adrian:Wilson_Wyndham H.:Pastan_Ira:Rader_Christoph
+14156031|1|05/09/2015|Medmeme|C.||Bassino|UO di Medicina, AO Sant'Anna di Como|||Italy||Tettamanzi_D.:Gerosa_P.F.:Scollo_G.:Limido_E.
+14173693|1|12/04/2014|Medmeme|L.||Baumann-Birkbeck|Griffith Health Institute, Griffith University|Gold Coast||Australia||Khan_S.:Anoopkumar-Dukie_S.:Klopper_C.J.:Faichney_J.:Grant_GD.
+14172416|1|09/17/2014|Medmeme|Brendan||Bebington|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||
+14172252|1|09/17/2014|Medmeme|Mags||Beksinska|Department of Obstetrics and Gynaecology, School of Clinical Medicine, University of the Witwatersrand|||||Smit_Jennifer:Greener_Ross:Pienaar_Jaqueline:Milford_Cecilia:Mabude_Zonke:Rambally_Letitia:Drace_Melanie:Sithole_Kedibone
+14173649|1|12/04/2014|Medmeme|K||Bell|Health Sciences & Medicine, Bond University|Robina||Australia||Del Mar_C:Wright_G:Dickinson_J:Glasziou_P
+14172408|1|09/17/2014|Medmeme|Trevor||Bell|Department of Internal Medicine, School of Clinical Medicine, University of Witwatersrand|||||Yousif_Mukhlid:Kramvis_Anna
+14178116|1|06/19/2015|Medmeme|Y.||Benchikh El Fegoun|Ipsen|Paris||France||Ottaviani_J.:McMurdo_H.:Cresswell_K.
+14156037|1|05/09/2015|Medmeme|C.||Bentivenga|UOS Reumatologia, Dipartimento di Medicina Interna e dell'Invecchiamento, Alma Mater Studiorum, Ospedale S. Orsola|Bologna||||Magnani_L.:Pavesi_A.:Rinaldi_R.:Zompatori_M.:Passarini_B.:Malavolta_N.:Borghi_C.
+14173380|1|06/08/2015|Medmeme|Sebastien||Benzekry|INRIA|||||Lamont_C.:Hlatky_L.:Hahnfeldt_P.
+14170537|1|03/04/2015|Medmeme|Mark||Berneburg|Department of Dermatology, University Hospital|Regensburg||Germany||
+14170378|1|03/25/2015|Medmeme|Shauna E||Berry|Larkin Community Hospital|Miami, FL||||Kay_Matthew D:Lal_Garima:Ireland_Kathryn E:Kellogg_Clint W:Tran_Hang M
+14173716|1|12/04/2014|Medmeme|A||Bezawork-Geleta|Department of Biochemistry, La Trobe Institute for Molecular Science, La Trobe University|Melbourne||Australia||Dougan_DA:Neuzil_J:Truscott_KN
+14170536|1|03/04/2015|Medmeme|Thomas||Bieber|Department of Dennatology and Allergy, University of Bonn|||Germany||
+14173997|1|04/20/2015|Medmeme|Angeliki||Birmpa|University of Patras|Patras||Greece||Dedes_Christos:Vantarakis_Apostolos
+14177772|1|06/19/2015|Medmeme|S. D.||Birsan||Oradea, RO||||
+14177477|1|06/19/2015|Medmeme|S. D.||Birsan||Oradea, RO||||Mircea_I.
+14173717|1|12/04/2014|Medmeme|SR.||Bista|School of Pharmacy, Griffith Health Institute, Griffith University|Gold Coast||Australia||Hardy_J.:Tapuni_A.:Fu_J.:Gibbons_K.:Good_P.:Norris_R.:Haywood_A.
+14172232|1|09/17/2014|Medmeme|Duane||Blaauw|Centre for Health Policy, School of Public Health, University of the Witwatersrand|||||Lagarde_Mylene
+14173232|1|05/19/2014|Medmeme|John J.||Black|University of Pittsburgh School of Medicine|||||Villanueva_Flordeliza
+14174806|1|06/29/2015|Medmeme|Rosa E||Blanco|Institute of Neurobiology and Department of Anatomy University of Puerto Rico|||Puerto Rico||Duprey-Díaz_Mildred V:Vega-Melendez_Giam S:Blagburn_Jonathan M
+14156045|1|05/09/2015|Medmeme|E.||Blasi|Medicina per la Complessità Assistenziale I, AOU Careggi|Firenze||Italy||Bacci_F.:Baroncelli_S.:Rocchi_F.:Ciervo_D.:Antonielli_E.:Crociani_A.:Degl'Innocenti_G.:Vannucchi_V.:Nozzoli_C.
+14169956|1|04/04/2014|Medmeme|Rachel||Blevins||||||Grace Fulmer_Anna:Stott_Jonathan:Doss_Josie
+14177003|1|06/19/2015|Medmeme|L.||Boaventura||Maia||||Campolargo_A.
+14177577|1|06/19/2015|Medmeme|L.||Boaventura||Maia||||Campolargo_A.
+14177576|1|06/19/2015|Medmeme|L.||Boaventura||Maia||||Campolargo_A.:Correia_R.
+14173385|1|06/08/2015|Medmeme|Magdalena||Bogdaska|Institute of Applied Mathematics and Mechanics University of Warsaw and Mathematical Oncology Laboratory Universidad de Castilla-La Mancha|||||Bodnar_M.:Belmonte-Beitia_J.:Murek_M.:Schucht_P.:Beck_J.:Pérez-García_V. M.
+14173185|1|09/09/2014|Medmeme|Lennart||Bogg|Malaradalen University|Eskilstuna, Vasteras||||Soderback_Maja:Tillgren_Per
+14163699|1|05/14/2015|Medmeme|Marc||Bolliger|Spinal Cord Injury Center Balgrist, Forchstrasse 340|Zurich||Switzerland||Curt_Armin:Zoerner_Bjoern
+14156047|1|05/09/2015|Medmeme|C.||Bologna|AORN A. Cardarelli|Napoli||Italy||Giordano_M.:Paladino_F.
+14156049|1|05/09/2015|Medmeme|M.||Bongiovanni|UO Medicina I, PO Bollate, AO G. Salvini|Bollate (MI)||||Veronese_R.:Botta_A.:Giuliani_G.:Carnovali_E.:Caldarulo_T.:Porro_A.
+14156051|1|05/09/2015|Medmeme|R.||Boni|UOC Medicina I, Ospedale A. Cardarelli|Napoli||Italy||Bernaudo_D.:Fico_F.:Pesce_S.
+14173386|1|06/08/2015|Medmeme|Dana-Adriana||Botesteanu|University of Maryland|||||
+14177794|1|06/19/2015|Medmeme|J.- B.||Bouee|Fondation ILDYS|Roscoff||||Remy-Neris_O.:Medee_B.
+14172354|1|09/17/2014|Medmeme|Tarryn||Bourhill|Department of Molecular Medicine and Haematology, School of Pathology, University of Witwatersrand|||||
+14156058|1|05/09/2015|Medmeme|A.||Bovero|Medicina Interna, Ospedale Santa Corona|Pietra Ligure (SV)||Italy||Briatore_L.:Artom_P.:Mela_D.:Artom_A.
+14169927|1|05/14/2014|Medmeme|David P.||Bowles|OSBP, Ohio State University|||||Ramasubramanian_Brinda:Porter_Ely:Heberling_Matthew
+14172091|1|09/17/2014|Medmeme|Martin||Brand|Cardiovascular Pathophysiology and Genomics Research Unit School of Physiology|||||Woodiwiss_Angela:Michel_Frederic:Booysens_Hendrik:Majane_Olebogeng:Maseko_Muzi:Naylor_Simon:Veller_Martin:Norton_Gavin
+14177742|1|06/19/2015|Medmeme|V.||Brás da Silva|Hospital Curry Cabral, CHLC - EPE|Lisbon||Switzerland||Amaral Silva_M.:Miguéns_A. C.:Lopes_M. E.:Veiga_E.
+14174431|1|04/30/2015|Medmeme|Andreas||Breil-Wirth||Neuss||||Engelhardt_L.V. v.:Jerosch_J.
+14173036|1|07/02/2015|Medmeme|Zacharias||Brimnes Visby Damholt|Department of Systems Biology, Technical University of Denmark|||||
+14156061|1|05/09/2015|Medmeme|L.||Brugioni|Medicina Interna Area Critica, AOU Policlinico|Modena||Italy||Ognibene_C.:Gozzi_C.:Rosa_M.C.
+14172907|1|07/05/2015|Medmeme|N.||Buaron|Ben-Gurion University of the Negev, Department of Chemical Engineering|Beer-Sheva||Israel||Chintacunta_R.:Goldbart_R.:Traitel_T.:Brem_H.:Kost_J.
+14156067|1|05/09/2015|Medmeme|N.||Buccianti|UOC Medicina Interna, Ospedale Madonna delle Grazie|Matera||Italy||Aulenti_G.:Clemente_R.:Dentamaro_G.:La Masa_T.:Lo Nigro_L.:Lascaro_V.:Santarcangelo_P.
+14174241|1|04/30/2015|Medmeme|Petra||Buchin-Emunds||Markgroningen||||Schall_H.:Gossel_L.:Krebs_S.:Schatz_C.R.
+14177448|1|06/19/2015|Medmeme|T.||Bućma|"Institute for Physical Therapy and Rehabilitation ""Dr Miroslav Zotovic"" Banjaluka"|||||Bajić_Z.:Stajić-Aksentić_V.:Grubiša-Vujasinović_S.
+14177921|1|06/19/2015|Medmeme|E.||Bukreeva|Child Health Care Research Clinic|Moscow||Switzerland||Petrichenko_A.:Ivanova_N.:Sharoev_T.:Prityko_A.
+14177922|1|06/19/2015|Medmeme|E.||Bukreeva|Child Health Care Research Clinic|Moscow||Switzerland||Petrichenko_A.:Ivanova_N.:Sharoev_T.:Prityko_A.
+14173387|1|06/08/2015|Medmeme|Svetlana||Bunimovich-Mendrazitsky|Ariel University|||||Kronik_N.
+14174496|1|06/29/2015|Medmeme|Warren||Burggren|University of North Texas|||United States||Flores Santin_Josele
+14164965|1|06/10/2015|Medmeme|T.||Burkard|Cardiology, University Hospital|Basel||Switzerland||Trendelenburg_M.:Daikeler_Th.:Hess_Ch.:Bremerich_J.:Brinkert_M.:Buser_P. T.:Zellweger_M. J.
+14177599|1|06/19/2015|Medmeme|D.||Burke|Emory University|Atlanta, GA||United States||
+14173903|1|04/20/2015|Medmeme|Sophie||Butot|Nestle Research Centre|Lausanne||Switzerland||
+14177422|1|06/19/2015|Medmeme|R.||Cadilha||Viana do Castelo||||Amorim_H.:Barroso_J.
+14177430|1|06/19/2015|Medmeme|R.||Cadilha||Viana do Castelo||||Amorim_H.:Machado Vaz_I.:Barroso_J.
+14177913|1|06/19/2015|Medmeme|R.||Cadilha||Viana do Castelo||||Amorim_H.:Marques_C.:Barroso_J.
+14172836|1|07/08/2015|Medmeme|J.M.F.||Caeiro||||||
+14173251|1|05/19/2014|Medmeme|Kirk E.||Cahill|The University of Chicago Pritzker School of Medicine|||||Yamini_Bakhtiar
+14170269|1|03/25/2015|Medmeme|Julie K||Calderwood|St. Jude Children's Research Hospital|Memphis, Tennessee||||Hoehn_Mary E:Armstrong_Greg
+14173274|1|05/09/2015|Medmeme|Julia||Caldwell|Department of Anesthesiology, Penn State Hershey Medical Center|||||Afilaka_Babatunde:Moss_Caitlyn:Bezinover_Dmitri:Vaida_Sonia:Iskandarani_Khaled
+14156069|1|05/09/2015|Medmeme|R.||Calvi|SC Medicina Interna, Ospedale di Mondovì ASL CN1|Cuneo||Italy||Brignone_C.:Galletto_L.:Nallino_M.G.
+14172191|1|09/17/2014|Medmeme|Geoffrey||Candy|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||Naidoo_Annastasia:Ruiz_Julien
+14173713|1|12/04/2014|Medmeme|R.||Cant|School of Nursing and Midwifery, Monash University, Melbourne Australia|||||Ball_L.
+14173390|1|06/08/2015|Medmeme|Vincenzo||Capasso|ADAMSS Università degli Studi di Milano|||||
+14164955|1|06/10/2015|Medmeme|D.||Carballo|Cardiology, University Hospital|Genève||||Noble_St.:Carballo_S.:Stirnemann_J.:Muller_H.:Burri_H.:Sunthorn_H.:Vuilleumier_N.:Keller_P.-F.:Mach_F.:Shah_D.
+14177888|1|06/19/2015|Medmeme|O.||Cardoso|Centro Hospitalar do Alto Ave|Porto||Switzerland||
+14177889|1|06/19/2015|Medmeme|O.||Cardoso|Centro Hospitalar do Alto Ave|Porto||Switzerland||
+14156082|1|05/09/2015|Medmeme|P.||Carfagna|Medicina Interna, AO San Giovanni Addolorata|||Roma||Russo_A.:Falcone_M.:Fantoni_M.:Murri_R.:Masucci_L.:Ghezzi_M.C.:Posteraro_B.:Sanguinetti_M.:Venditti_M.
+14178336|1|06/19/2015|Medmeme|A. B.||Carli|Gölcük Military Hospital|Kocaeli||||Tekin_L.:Mian_B.:Liying_Z.:Jing_L.
+14178339|1|06/19/2015|Medmeme|A. B.||Carli|Gölcük Military Hospital|Kocaeli||||Turgut_H.:Kaplan_C.:Durmus_M.:Bozkurt_Y.
+14178338|1|06/19/2015|Medmeme|A. B.||Carli|Gölcük Military Hospital|Kocaeli||||Turgut_H.:Kaya_E.
+14169909|1|05/14/2014|Medmeme|Randall S.||Carpenter|Neuroscience Graduate Studies Program, The Ohio State University|Columbus, Ohio||||Kigerl_Kristina A.:Niewiesk_Stefan:Popovich_Phillip G.
+14173391|1|06/08/2015|Medmeme|Cècile||Carrére|I2M, Aix-Marseille Université|||||Benabdallah_A.:Carrè_M.:Chapuisat_G.
+14173694|1|12/04/2014|Medmeme|A.||Carter|Griffith Health Clinics, School of Dentistry and Oral Health/Griffith Health Institute, Griffith University|Gold Coast||Australia||Kroon_J.
+14177392|1|06/19/2015|Medmeme|Y.||Castañeda|Universidad Autónoma del Estado de México|Distrito Federal||Switzerland||Trujillo_A.:Gutierrez_J.
+14156095|1|05/09/2015|Medmeme|L.||Castelnovo|UOC Medicina Interna, PO Saronno, AO Busto Arsizio (VSA)|||Italy||Romualdi_E.:Novati_P.:Ghiringhelli_P.
+13477492|1|08/27/2014|Medmeme|Liliana||Cattenazzi|"Hospital Gral.de Agudos""Dr. J.M. Penna""del GCABA"|Ciudad de B. ss.||Republica Argentina||Elefoso_Adriana:Cecilia Linardi_María:Susana Manfredi_Martha
+14156096|1|05/09/2015|Medmeme|M.||Cavaliere|Medicina I|Savona||Italy||Michelis_G.L.:Venturino_C.:Rebella_L.:Tassara_R.
+14169623|1|06/11/2015|Medmeme|C||Cave|Department of Surgery, University of the West Indies|||Trinidad and Tobago||Rampersad_B
+14172202|1|09/17/2014|Medmeme|Eleanor||Cave|School of Pathology, University of Witwatersrand|||||Crowther_Nigel
+13477268|1|08/27/2014|Medmeme|Carlos||Celentano||Buenos Aires, San Martín||Argentina||
+13477675|1|08/27/2014|Medmeme|Liliana||Celman|Htal. Gral. De Agudos Dr. Cosme Argerich|Buenos Aires, CABA||Argentina||Jesús Lobato_María:Crispino_Laura:Frigerio_Susana:Filardo_Melisa
+14156100|1|05/09/2015|Medmeme|G.||Cerasari|Epatologia Clinica, AO S. Camillo-Forlanini|||Roma||Alimonti_A.:Chiodi_R.:Corsi_F.M.:Cozzolino_V.:Gerace_C.:Gimignani_G.:Luna_R.:Piazza_G.:Cerasari_S.:Struglia_C.:Clementi_C.
+14177787|1|06/19/2015|Medmeme|M. G.||Ceravolo|Politecnica delle Marche University|Ancona||Italy||Capecci_M.:Verdini_F.:Leo_T.:Pepa_L.
+14173178|1|09/09/2014|Medmeme|Nattineeporn||Chantaranothai|Borommarajonani College of Nursing Nakhonratchasima|Pakatip||Singkhom||Jarupisitpaiboon_Chatthong:Aunprom-Me_Sinsakchon
+14173392|1|06/08/2015|Medmeme|Mark||Chaplain|School of Mathematics and Statistics University of St Andrews|||||Ptashnyk_M.:Sturrock_M.
+14177982|1|06/19/2015|Medmeme|C.||Chen|Huashan Hospital, Fudan University|||||Zhu_Y.- L.:Li_Q.- Y.:Xu_J.:Gao_T.- H.:Du_C.:Li_L.:Li_F.
+14178272|1|06/19/2015|Medmeme|C.- H.||Chen||Kaohsiung||||Chen_Y.- J.:Huang_M.- H.
+14173222|1|05/19/2014|Medmeme|Evan C.||Chen|Stanford University School of Medicine|||||Clarke_Michael
+14177132|1|06/19/2015|Medmeme|S.- Y.||Chen|National Taiwan University Hospital and National Taiwan University College of Medicine|Taipei||Switzerland||Wang_S.- S.:Hu_R.- H.:Lan_C.:Chen_Y.- S.:Dorsch_A. K.:Lai_J.- S.:Dobkin_B. H.
+14177801|1|06/19/2015|Medmeme|F.- Y.||Cheng||Taipei||||Wang_R.- Y.:Yang_Y.- R.:Cheng_S.- J.:Wu_Y.- R.
+14172884|1|07/05/2015|Medmeme|Jinwoo||Cheon|Department of Chemistry, Yonsei University|||South Korea||
+14178117|1|06/19/2015|Medmeme|H.||Cheong|Jeonju Jeollabukdo|||South Korea||
+14169953|1|05/14/2014|Medmeme|Douglas G.||Cheung|Department of Molecular Immunology, Virology and Medical Genetics, Ohio State University|Columbus, OH 43210||United States||Di Leva_Gianpiero:Fassan_Matteo:Kumar_Arpan:Patel_Krishna:Wernicke_Dorothee:Volinia_Stefano:Ciomei_Marina:Croce_Carlo M.
+14170433|1|03/25/2015|Medmeme|Michael F||Chiang||||||Repka_Michael X:Morse_Christie:Wiggins_Robert:Tarczy-Hornoch_Kristina
+14172652|1|07/17/2015|Medmeme|Lou||Chitkushev|Boston University|||||Reinherz_Ellis:Bruisic_Vladimir
+14173784|1|12/04/2014|Medmeme|Pradeep||Cholan|Critical Care Research Group and Intensive Care Unit, Gold Coast University Hospital|Southport||Australia||Bakrania_Bhavisha:Beck_Belinda:Wagner_Karl-Heinz:Panchal_Sunil:Brown_Lindsay:Winearls_James R.:Du Toit_Eugene F.:Bulmer_Andrew C.
+14173141|1|09/09/2014|Medmeme|Pleumjit||Chotiga|Boromarajonani College of Nursing Chiangmai|Chiangmai||Thailand||Wanchaitanawong_Waraporn
+14177352|1|06/19/2015|Medmeme|L.||Christophe|Centre de Recherche en Neurosciences de Lyon|Bron||||Delporte_L.:Revol_P.:Dodane_E.:Jacquin-Courtois_S.:Rossetti_Y.
+14178083|1|06/19/2015|Medmeme|M.||Christova|Medical University Graz|Graz||Switzerland||De Blasi_P.:Höller_Y.:Tezzon_F.:Trinka_E.:Brigo_F.:Nardone_R.
+14172640|1|07/30/2015|Medmeme|T. H.||Chung|Department of Family Medicine, College of Medicine, Ulsan University Hospital, University of Ulsan|||South Korea||
+14169657|1|06/08/2015|Medmeme|Gary||Churchill|The Jackson Laboratory|||||Morahan_Grant
+14165710|1|06/21/2015|Medmeme|R||Ciccocioppo|University of Pavia|||Italy||Gallia_A:Avanzini_MA:Cangemi_GC:Buonacera_A:Brusamolino_E:Racca_F:Picone_C:Vanoli_A:Alvisi_C:Biagi_F:Bergamaschi_G:Kruzliak_P:Maccario_R:Corazza_GR
+14156111|1|05/09/2015|Medmeme|C.||Cicognani|UO Medicina, Ospedale Bellaria|||||Plasmati_R.:Arienti_V.
+14173393|1|06/08/2015|Medmeme|Tomasz||Cielak|IMPAN|||||
+14156112|1|05/09/2015|Medmeme|D.||Ciervo|Medicina per la Complessità Assistenziale I, AOU Careggi (FI)|||Italy||Vannucchi_V.:Baroncelli_S.:Crociani_A.:Blasi_E.:Degl'Innocenti_G.:Antonielli_E.:Para_O.:Pieralli_F.:Nozzoli_C.
+14156113|1|05/09/2015|Medmeme|D.||Ciervo|Medicina per la Complessità Assistenziale I, AOU Careggi (FI)|||Italy||Vannucchi_V.:Blasi_E.:Degl'Innocenti_G.:Sammicheli_L.:Para_O.:Turchi_V.:Mancini_A.:Pieralli_F.:Nozzoli_C.
+14156120|1|05/09/2015|Medmeme|R.||Cimino|SOC Medicina Generale|||||Pintaudi_C.:Mazzuca_S.
+14173180|1|09/09/2014|Medmeme|Annika||Claesson||||||Bruhn_Anders:Brunnberg_Elinor:Jess_Kari
+14173394|1|06/08/2015|Medmeme|Jean||Clairambault|INRIA|||||Chisholm_R.:Escargueil_A.:Lorenzi_T.:Lorz_A.:Perthame_B.:Trélat_E.
+14156123|1|05/09/2015|Medmeme|C.D.S.G.||Cleo Daas|CLEO Rome|||Italy||
+14172117|1|09/17/2014|Medmeme|Elize||Cloete|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||Ann Benn Sarah Rayne_Carol
+14174785|1|06/29/2015|Medmeme|Sheron||Cogo|PUCPR|||Brazil||Elifio-Esposito_Selene:Vieira_Priscilla:Netipanjy_Marcela:França_Nilton:Camara_Diana:Costa_André:Porcacchia_Allan:Kerkis_Irina:Mendonça_Ronaldo:Moreno-Amaral_Andréa:Sá-Junior_Paulo:Somons_Simone
+14173639|1|12/04/2014|Medmeme|NJ.||Colson|Griffith Health Institute, Griffith University|Gold Coast||Australia||Naug_HL.:Schwarz_L.:Tucakovic_L:Amiet_B
+14173641|1|12/04/2014|Medmeme|S.||Conroy|Medical Oncology Department, Gold Coast University Hospital|Queensland||Australia||Mason_R.:Sanmugarajah_J.
+14172087|1|09/17/2014|Medmeme|Demitri||Constantinou|Department of Centre for Exercise Science and Sports Medicine, School of Therapeutic Sciences, University of the Witwatersrand|||||Holliday_Devin:Coopoo_Yoga
+14173905|1|04/20/2015|Medmeme|Nigel||Cook|The Food and Environment Research Agency|York||United Kingdom||
+14169844|1|05/14/2014|Medmeme|Grace L.||Cooper|Department of Molecular and Cellular Biochemistry, The Ohio State University College of Medicine|Columbus, Ohio||United States||Funk_Kristen E.:Schafer_Kelsey N.:Thomas_Stefani N.:Liao_Dongping:Clark_David J.:Yang_Austin J:Kuret_Jeff
+14173252|1|05/19/2014|Medmeme|Jonathan A.||Copp|University of California, School of Medicine|||||Zhang_Liangfang
+14173336|1|05/09/2015|Medmeme|Matthew M.||Corriveau|Geisinger Anesthesiology Residency Program|||||Wu_Xianren:Entrup_Michael H.:Lahet_Bradley S.
+14156132|1|05/09/2015|Medmeme|M.||Costa|SC Medicina Interna, Presidio Ospedaliero Unico del Levante Ligure, ASL 5|La Spezia||Italy||Bonanni_P.:Marchese_G.:La Regina_M.:Corsini_F.:Pacetti_E.:Scuotri_L.:Orlandini_F.
+14156133|1|05/09/2015|Medmeme|N.||Costantini|Medicina Interna ed Emocoagulopatie|Monserrato (CA)||Italy||Mameli_A.:Marongiu_F.
+14178475|1|06/19/2015|Medmeme|M. B.||Cotter|Hospital de Braga|Guimarães||||Cruz_C. M.:Martins_M. M.:Pereira_T.:Santos_C. P.:Pereira_F.:Matias_A. C.
+14169799|1|11/28/2014|Medmeme|Victor||Crivianu-Gaita|University of Toronto|||||
+14156139|1|05/09/2015|Medmeme|A.||Crociani|Medicina Interna per la Complessità Assistenziale I, AOU Careggi|Firenze||Italy||Vannucchi_V.:Rocchi_F.:Degl'Innocenti_G.:Blasi_E.:Ciervo_D.:Antonielli_E.:Para_O.:Pieralli_F.:Nozzoli_C.
+14169602|1|06/11/2015|Medmeme|W||Crookendale|Heritage Surgical Services, Erdiston Road|St. Michael||Barbados||
+14169947|1|05/14/2014|Medmeme|Brandon||Crowe||||||Eidahl_Jocelyn:Larue_Ross:Kvaratskhelia_Mamuka:Foster_Mark
+14177840|1|06/19/2015|Medmeme|A.||Cruz|Centro Hospitalar Lisboa Central, Negreiros - Barcelos|||||Felix_T.:Miranda_C.:Trêpa_A.
+14177117|1|06/19/2015|Medmeme|A.||Cruz|Centro Hospitalar Lisboa Central, Negreiros - Barcelos|||||Pinto_C.:Andrade_M. J.
+14177625|1|06/19/2015|Medmeme|C.||Cruz|Hospital de Braga|Braga||Switzerland||Cotter_M.:Oliveira_M.:Matias_A. C.
+14177627|1|06/19/2015|Medmeme|C.||Cruz|Hospital de Braga|Braga||Switzerland||Cotter_M.:Oliveira_M.:Matias_A. C.
+14177884|1|06/19/2015|Medmeme|L.||Cruz||||||Bocchi_E.:Guimaraes_G.
+14165595|1|09/08/2014|Medmeme|Anna||Cseke|Medical University of Vienna, MFPL|||Austria||Khunweeraphong_Narakorn:Klein_Cornelia:Telbisz_Ágnes:Özvegy-Laczka_Csilla:Zainab_Mahdi:Stieger_Bruno:Sarkadi_Balázs:Kuchler_Karl
+14177793|1|06/19/2015|Medmeme|I.||Cunha|Rio Tinto|||||Moreira_C.:Trêpa_A.
+14173332|1|05/09/2015|Medmeme|Michelle||Da Costa|Department of Anesthesiology, Allegheny Health Network|Pittsburgh, PA||||Singh_Saket
+14173331|1|05/09/2015|Medmeme|Michelle||Da Costa|Department of Anesthesiology, Allegheny Health Network|Pittsburgh, PA||||Troianos_Christopher:Cardenas_Ricardo
+14173200|1|05/19/2014|Medmeme|George Q.||Daley|Howard Hughes Medical Institute, Stem Cell Transplantation Program, Boston Children's Hospital, Biological Chemistry and Molecular Pharmacology and Pediatrics, Harvard Medical School|||||
+14172810|1|07/09/2015|Medmeme|Amanda||Damasceno de Souza|School of Information Science, Federal University of Minas Gerais|Belo Horizonte||Brazil||Barcellos Almeida_Maurício:Caetano de Aguirre Neto_Joaquim
+14174795|1|06/29/2015|Medmeme|Louise||Damgaard Thomasen|Aarhus University Department of Bioscience|||Denmark||Kulhmann Andersen_Mads:Damsgaard_Christian:Tind Hvas_Malthe:Ishimatsu_Atsushi:Thi Thanh Huong_Do:Wang_Tobias:Bayley_Mark
+14165062|1|05/31/2015|Medmeme|Kužílková||Daniela|Childhood Leukemia Investigation Prague (CLIP), Klinika dětské hematologie a onkologie, 2.lékařská fakulta UK a FN Motol|||||Veronika_Kanderová:Tomáš_Kalina:Ondřej_Hrušák:Ester_Mejstříková
+14165758|1|06/21/2015|Medmeme|P||Das|All India Institute of Medical Sciences|New Delhi||India||Rawat_R:Verma_AK:Singh_G:Vallonthaiel_AG:Gahlot_GPS:Dinda_AK:Ahuja_V:Agrawal_SK:Datta Gupta_S:Makharia_GK
+14177125|1|06/19/2015|Medmeme|A.||Datta Gupta|University of Adelaide|Adelaide||Australia||
+14178486|1|06/19/2015|Medmeme|A.||Datta Gupta|University of Adelaide|Adelaide||Australia||
+14173253|1|05/19/2014|Medmeme|Alejandro||De Feria-Alsina|Vanderbilt University School of Medicine|||||Becker_Jason:Scott Baldwin_H.
+14177907|1|06/19/2015|Medmeme|C.||De Miguel Benadiba|Hospital Ramón y Cajal|||||Martín López de Abajo_M.:Sánchez Tarifa_P.:Velasco Escribano_D.:González Seiz_E.:Sánchez Navarro_E.
+14170189|1|10/24/2013|Medmeme|Ann||De Rice|Hennepin County Medical Center|||||Nguyen_Kim
+14173275|1|05/09/2015|Medmeme|Julie E.||De Vore|University of Pittsburgh Medical Center|||||Kamarchik_Anne:Saba_Samir F.:Bazaz_Raveen R.:Subramaniam_Kathirvel
+14177298|1|06/19/2015|Medmeme|P.||De Vriendt|Vrije Universiteit Brussel|Brussels||Switzerland||Gorus_E.
+14172607|1|07/30/2015|Medmeme|F.||De Wolfe Miller|John A Burns School of Medicine, University of Hawaii|Honolulu||Hawaii, United States||
+14156155|1|05/09/2015|Medmeme|G.||Degl'Innocenti|Medicina della Complessita Assistenziale I, AOU Careggi|Firenze||Italy||Crociani_A.:Ciervo_D.:Vannucchi_V.:Blasi_E.:Baroncelli_S.:Rocchi_F.:Bacci_F.:Pieralli_F.:Nozzoli_C.
+14156157|1|05/09/2015|Medmeme|M.T.||Del Genio|UOSC Medicina Interna III, AORN Cardarelli|Napoli||Italy||Buono_R.:Parisi_A.:Pirozzi_G.:Russo_R.:Uomo_G.
+13477170|1|08/27/2014|Medmeme|María||Del Pilar Vendrell|Profesionales Latinoamericanos/as c/ el Abuso de Poder|CABA||Argentina||María Martorella_Ana:Patricia Rizzo_Mónica
+14173398|1|06/08/2015|Medmeme|Marcello||Delitala|Politecnico di Torino|||||Lorenzi_T.:Melensi_M.
+14156159|1|05/09/2015|Medmeme|E.||Delsignore|Medicina Interna, Ospedale S. Andrea|Vercelli||Italy||Barasolo_G.:Cantone_R.:Francese_M.:Manfrinato_C.:Olivetto_L.:Bertoncelli_M.C.
+14156158|1|05/09/2015|Medmeme|E.||Delsignore|Medicina Interna, Ospedale S. Andrea|Vercelli||||Guazzotti_G.:Lo Giudice_G.:Moscotto_M.:Barasolo_G.:Manfrinato_C.:Olivetto_L.:Bertoncelli_M.C.
+14172294|1|09/17/2014|Medmeme|Aurelie||Deroubaix|Department of Internal Medicine, School of Clinical Sciences, University of the Witwatersrand|||||Singh_Lanish:Kramvis_Anna
+14169894|1|05/14/2014|Medmeme|Ray||Devine|Nationwide Research Institute|||||Stevens_Sarah:Jing_Runfeng:McCarthy_Donna:Youtz_Dane:Velten_Markus
+14173142|1|09/09/2014|Medmeme|Wilawan||Dhanawan|Boromarajonani College of Nursing Suphanburi|||||Pethmani_Jintana:Sangpeag_Pichaya
+14156163|1|05/09/2015|Medmeme|I.||Di Milo|SC Medicina Interna, Ospedale Mondovì (CN), ASLCN1|Cuneo||Italy||Brignone_C.:Nallino_M.G.
+14156169|1|05/09/2015|Medmeme|A.||Diana|UO Medicina d'Urgenza, Ospedale Civile di Legnano (MI)|||Italy||Cardani_F.:Bosani_M.:Parodi_M.
+14177799|1|06/19/2015|Medmeme|A.||Diaz|Federal University of Santa Catarina|||||Freitas_F.:Oliveira_M. E.:Cavallazzi_T.:Arêas_F.:Vieira_P.:Guarnieri_R.:Prediger_R.:Lin-hares_M.:Walz_R.
+14177491|1|06/19/2015|Medmeme|A.||Dikici|Afyon State Hospital|||||Dikici_O.:Ulasli_A. M.:Eroglu_M.:Eroglu_S.
+14170497|1|03/04/2015|Medmeme|||Djohan|Division of Dermatology. Faculty of Medicine. H. Adam MalikGeneral Hospital. Sumatera Utara University|||Indonesia||Mona_L:Lakswinar_S
+14175267|1|06/29/2015|Medmeme|Gunther||Döhlemann|University of Cologne|||Germany||
+14177646|1|06/19/2015|Medmeme|S.||Domingues|Hospital de Santa Maria|Lisboa||Switzerland||Alves_M.:Sampaio_F.
+14170457|1|03/25/2015|Medmeme|Sean P||Donahue||||||Buckley_Ed:Pineles_Stacy:Cruz_Oscar:Dagi_Linda:Greenberg_Marc
+14177359|1|06/19/2015|Medmeme|P.||Doruk|Baskent University|Adana||Switzerland||Adam_M.:Leblebici_B.:Yılmaz_E. E.
+14177458|1|06/19/2015|Medmeme|P.||Doruk|Baskent University|Adana||Switzerland||Yilmaz_E. E.:Adam_M.:Leblebici_B.
+14177871|1|06/19/2015|Medmeme|Y.||Dovgalyuk|Ivanovo State Medical Academy|Ivanovo||Switzerland||
+14172641|1|07/30/2015|Medmeme|C.||Doyle|Department of Biology, Indiana University Southeast|New Albany||United States||Swain_W.:Swain Ewald_H.:Cook_C.:Ewald_P. W.
+14172254|1|09/17/2014|Medmeme|Melanie||Drace|Department of Obstetrics and Gynaecology, University of Witwatersrand|||||Beksinska_Mags:Rambally_Letitia:Scorgie_Fiona:Molefe_Kedibone:Mabude_Zonke:Pienaar_Jacqueline:Greener_Ross:Smit_Jennifer
+14172407|1|09/17/2014|Medmeme|Timothy||Dreyer|Department of Molecular Medicine and Haematology, School of Pathology, University of Witwatersrand|||||Nicholson_Samantha:Bloom_Kristie:Ely_Abdullah:Cathomen_Tony:Mussolino_Claudio:Arbuthnot_Patrick
+14172671|1|07/17/2015|Medmeme|Sybille||Dühring|Department of Bioinformatics, Friedrich Schiller University Jena|||Germany||
+14173402|1|06/08/2015|Medmeme|Dominique||Duncan|UC Davis, Department of Mathematics|||||Strohmer_T.
+14172362|1|09/17/2014|Medmeme|Vania||Duxbury|Brain Function Research Group, School of Physiology, University of the Witwatersrand|||||Redman_Kirsten:Benjamin_Daniela:Kay_Patti:Suchard_Melinda:Scheuermaier_Karine
+14169637|1|06/11/2015|Medmeme|S||Edwards-Bennett|21st Century Oncology|||United States||Ahamed_A:Fernandez_E:Fitch_D.
+14177630|1|06/19/2015|Medmeme|E.- A.||Efstratiadou|Iatriki Askisi|Athens, GR||||Manthos_P.:Kentros_Z.
+14173242|1|05/19/2014|Medmeme|Daniel||Eichberg|University of Maryland School of Medicine|||||Weis-Amon_Angelika
+14169757|1|11/28/2014|Medmeme|Hala||El Asmy|INRS|||||
+14169866|1|05/14/2014|Medmeme|Mohamad||Elbaz|Pathology- OSU|||||Nasser_Mohd W:Ravi_Janani:Wani_Nissar:Ahirwar_Dinesh:Zhao_Helong:Ganju_Ramesh K
+14173129|1|09/09/2014|Medmeme|Dean||Elizabeth|Department of Physical Therapy, Faculty of Medicine, University of British Columbia|||Canada||
+14165733|1|06/21/2015|Medmeme|MH||Emami|Poursina hakim research institution|Isfahan||Iran||Jamali_N
+14173647|1|12/04/2014|Medmeme|B.B.||Endaya|School of Medical Science, Griffith Health Institute, Griffith University|Gold Coast, QLD, 4222||Australia||Lam_Y.P.:Neuzil_J.
+14178115|1|06/19/2015|Medmeme|S.||Ergul|Ankara PM&R Training, Research Hospital|Ankara||Switzerland||Aras_M.:Unsal-Delialioglu_S.
+14177785|1|06/19/2015|Medmeme|S.||Eroglu|Afyon Kocatepe University|Afyonkarahisar||Turkey||Erkol Inal_E.:Eroglu_M.:Oruc_S.:Ulaşlı_A.:Cevik_H.:Demirci_S.:Solak_O.:Dundar_U.:Toktas_H.:Yaman_M.
+14173374|1|06/08/2015|Medmeme|Afenya||Evans|Elmhurst College|||||
+14173935|1|04/20/2015|Medmeme|Ellen||Evans|Cardiff Metropolitan University|Cardiff||United Kingdom||Peters_Adrian:Dawson_Simon:Redmond_Elizabeth
+14173734|1|12/04/2014|Medmeme|O||Evans|Heart Foundation Research Centre, Griffith Health Institute, Griffith University|QLD||Australia||Donner_DG:Beck_B:Vanderlelie_J:Du Toit_EF.
+14172546|1|07/30/2015|Medmeme|P.||Ewald|Department of Biology, University of Louisville|||United States||
+14174427|1|04/30/2015|Medmeme|Marco||Ezechieli||Hannover||||Foller_M.:Calliess_T.
+14156173|1|05/09/2015|Medmeme|A.||Fabbri|Medicina per la Complessità Assistenziale IV, Azienda Ospedaliera-Universitaria Careggi|Firenze||||Grifoni_E.:Ciuti_G.:Sansone_T.:Crescioli_E.:Grazzini_M.:Marchiani_C.:Fedi_R.:Moggi Pignone_A.
+14156175|1|05/09/2015|Medmeme|P.||Faggioli|UO Medicina Interna, Presidio Legnano, AO Ospedale Civile di Legnano|Legnano (MI)||Italy||Tamburello_A.:Sciascera_A.:Gilardi_A.G.:Rondena_M.:Giani_L.:Mazzone_A.
+14170211|1|10/24/2013|Medmeme|Gennae||Falconer||||||Murray_Kyle:Haynes_Laura
+14173735|1|12/04/2014|Medmeme|Sora||Fallaha|Cancer Research Center, Griffith Health Institue, School of Medical Science, Griffith University, Gold Coast Campus|Southport, QLD||Australia||Clarke_Daniel:McMillan_Nigel
+14173314|1|05/09/2015|Medmeme|Rano||Faltas|Sidney Kimmel Medical College of Thomas Jefferson University Hospital|||||Huffnagle_Suzanne
+14172492|1|02/19/2014|Medmeme|Ni||Fan|Laboratory of Mechanistic Glycobiology, Department of Chemistry|||||Talaga_Melanie L.:Brown_Robert K.:Fueri_Ashli L.:Bandyopadhyay_Purnima:Andre_Sbine:Kaltner_Herbert:Gabius_Hans-Joachim:Dam_Tarun K.
+14173648|1|12/04/2014|Medmeme|S||Farr|Faculty of Health Science and Medicine, Bond University|Gold Coast QLD||||McDermott_C:Chess-William_R
+14177918|1|06/19/2015|Medmeme|H.||Fernandes||Porto||||Romano_O.
+14177802|1|06/19/2015|Medmeme|K.||Ferrat|CRSTDLA|Algiers||Switzerland||
+14172417|1|06/05/2014|Medmeme|||Ffrench-Constant||||||
+14156184|1|05/09/2015|Medmeme|M.||Fiorani|UOC Medicina Interna II, Ospedale Sandro Pertini|||Roma||Perretti_M.A.:Zaccaria_M.C.:Lepore_P.:Santoro_A.:Fiorani_A.:Marcoccia_A.:Zippi_M.:Terracina_D.
+14156189|1|05/09/2015|Medmeme|S.||Fiorino|Unità Operativa di Medicina Interna, Ospedale di Budrio (BO)|||||Debiase_D.:Fornelli_A.:Bacchi-Reggiani_M.L.:Masetti_M.:Zanello_M.:Lombardi_R.:Mastrangelo_L.:Bondi_A.:Visani_M.:Cuppini_A.:Jovine_E.:Pession_A.
+14172316|1|09/17/2014|Medmeme|Gregory||Firth|Department of Orthopaedics, School of Clinical Medicine, University of the Witwatersrand|||||Brien_Michael O:Ramguthy_Yammesh:Camacho_Monique:Groome_Michelle:Madhi_Shabir:Robertson_Anthony
+14172587|1|07/30/2015|Medmeme|J.||Floris|Department of Economics, University of Zurich|||Switzerland||Staub_K.:Woitek_U.
+14172683|1|07/16/2015|Medmeme|Joanna AM||Flynn|Medical Board of Australia|||||
+14169986|1|04/04/2014|Medmeme|Kyle||Foerster||||||Cossey_Kimberly
+14173737|1|12/04/2014|Medmeme|Oladayo S||Folasire|Faculty of Health Sciences& Medicine. Bond University|Gold Coast, Queensland||Australia||Chess- Williams_Russ:Sellers_Donna
+14170466|1|03/04/2015|Medmeme|YW||Foong|Dermatology Service. KK Women's and Children's Hospital|||Singapore||Marie_KJ
+14173406|1|06/08/2015|Medmeme|Urszula||Fory|Faculty of Mathematics, Informatics and Mechanics University of Warsaw|||||Bodnar_M.:Kogan_Y.
+14169575|1|06/11/2015|Medmeme|W||Francis||||||
+14178140|1|06/19/2015|Medmeme|G.||Francisco|University of Texas Health Science Center and TIRR Memorial Hermann|Houston||Switzerland||Bandari_D.:Manack Adams_A.:Dreyer_N.:Velentgas_P.:Esquenazi_A.
+14169603|1|06/11/2015|Medmeme|R||Francois|Cave Hill Campus, University of the West Indies|Bridgetown||Barbados||Huggins_C:Siwaju_K:Grosvenor_EM:Rosin_RD
+14172878|1|07/08/2015|Medmeme|S.||Freitas|Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Rua dos Bragas 289|4050-123 Porto||Portugal||Urbatzka_R.:Campos_A.:Osório_H.:Costa_M.:Barros_P.:Vasconcelos_V.:Martins_R.
+14173407|1|06/08/2015|Medmeme|Avner||Friedman|Ohio State University|||||
+14177585|1|06/19/2015|Medmeme|S.||Frioui|Medecine Sousse|Sousse||Switzerland||Abdelkefi_N.:Jemni_S.:Zaoui_A.:Bel Haj Youssef_I.:Moncer_R.:Ouanes_W.:Frigui_S.:Rejeb_N.:Khachnaoui_F.
+14173408|1|06/08/2015|Medmeme|Krzysztof||Fujarewicz|Silesian University of Technology|||||
+14174447|1|04/30/2015|Medmeme|Philipp||Funovics||Wien||||
+14170278|1|03/25/2015|Medmeme|Eva||Gajdosova|Manchester Royal Eye Hospital, Manchester Academic Health Science Centre|Manchester||United Kingdom||Biswas_Susmito:Ashworth_Jane L:Lloyd_Christopher I
+14156202|1|05/09/2015|Medmeme|S.||Galliazzo|Medicina Interna I, Ospedale Ca' Foncello, Dipartimento di Medicina, Università degli Studi di Padova|Treviso||||Pagliara_V.:Tonello_S.:Villalta_S.:Zilli_C.:Tartaglia_L.:Rattazzi_M.:Pauletto_P.
+14156203|1|05/09/2015|Medmeme|S.||Galliazzo|Medicina Interna I, Ospedale Ca' Foncello, Dipartimento di Medicina, Università degli Studi di Padova|Treviso||||Scotton_P.G.:Carniato_A.:Facchini_C.:Macchini_L.:Tartaglia_L.:Rattazzi_M.:Pauletto_P.
+14177911|1|06/19/2015|Medmeme|M.||Gamauf|LKNOE Mistelbach|Vienna||Switzerland||Wewalka_M.:Uher_E. M.
+14178320|1|06/19/2015|Medmeme|O.||Ganenko|Federal Medical Investigation Almazov's Center|||||Demchenko_E.:Lelavina_T.:Kutuzova_A.
+14172558|1|07/30/2015|Medmeme|J.||Garcia Gomez|University of Almeria|||Spain||Puche Gil_J.:Trescastro Lopez_E.
+14156209|1|05/09/2015|Medmeme|E.||Garlatti Costa|Dipartimento Medicina Interna|||||Crovatto_M.:Gava_G.:Ghersetti_M.:Grazioli_S.:Casarin_P.
+14156207|1|05/09/2015|Medmeme|E.||Garlatti Costa|"Dipartimento Medicina Interna, AO ""Santa Maria degli Angeli"""|Pordenone||Italy||Ghersetti_M.:Imbalzano_M.L.:Dal Mas_M.:Balbi_M.:Casarin_P.
+14156208|1|05/09/2015|Medmeme|E.||Garlatti Costa|"Dipartimento Medicina Interna, AO ""Santa Maria degli Angeli"""|Pordenone||Italy||Millevoi_C.:Ghersetti_M.:Grazioli_S.:Boscato_N.:Casarin_P.
+14177129|1|06/19/2015|Medmeme|H.||Gassner|Universitätsklinikum Erlangen|||||Schlachetzki_J.:Gossler_J.:Devan_S.:Pasluosta_C.:Steib_S.:Barth_J.:Pfeifer_K.:Winkler_J.:Eskofier_B.:Klucken_J.
+14172916|1|07/05/2015|Medmeme|Shachar||Gat|Department of Chemical Engineering, Ben-Gurion University of the Negev|Beer-Sheva||Israel||Chintakunta_Ramesh:Jopp_Juergen:Goldbart_Riki:Traitel_Tamar:Kost_Joseph
+14172253|1|09/17/2014|Medmeme|Maradona||Gatara|Department of Information Systems, School of Economic and Business Sciences (SEBS), University of the Witwatersrand|||||
+14156212|1|05/09/2015|Medmeme|A.||Gatti|"Department of Metabolic Diseases, ""San Gennaro"" Hospital, ASL NA1 Centro"|Naples||||Carleo_D.
+14173740|1|12/04/2014|Medmeme|R||George||||||Good_P:Afshariman_B:Movva_R:Haywood_A:Khan_S:Hardy_J
+14173283|1|05/09/2015|Medmeme|Andrius||Giedraitis|Department of Anesthesiology, University of Pittsburgh Medical Center|Pittsburgh, PA||||Emerick_Trent:Nelson_David:Hudson_Mark
+14178165|1|06/19/2015|Medmeme|Z. A.||Gill|CMH Hospital Malir Cantt|Karachi||||Ayaz_S. B.:Khan_A. A.
+14177581|1|06/19/2015|Medmeme|M.||Giménez Alcántara|Hospital Universitario Virgen del Rocío|Sevilla||Spain||Alarcón Mora_L. E.:Fernandez Torrico_J. M.:Linares Gago_M.:Lopez Lozano_A. M.:Echevarría Ruiz de Vargas_C.
+14177248|1|06/19/2015|Medmeme|F.||Gimigliano|Second University of Naples|Naples||Italy||de Sire_A.:Ariano_M. R.:Calafiore_D.:Russo_F.:Iolascon_G.
+14156225|1|05/09/2015|Medmeme|R.||Giorgio|Azienda Ospedaliera S. Anna e S. Sebastiano|Caserta||Italy||Gargiulo_A.:Guida_I.:Nuzzo_M.G.
+14169588|1|06/11/2015|Medmeme|A||Glasgow|Department of Surgery, Eric Williams Medical Sciences Complex, Mt. Hope, Champs Fleurs|Trinidad||||Ayoung-Chee_P
+14177143|1|06/19/2015|Medmeme|I.||Głowacka|Ludwik Rydygier's Collegium Medicum, Nicolaus Copernicus University in Torun|Bydgoszcz||Switzerland||Nowacka_K.:Pietkun_K.:Hagner_W.:Zegarski_W.:Nowikiewicz_T.
+14172296|1|09/17/2014|Medmeme|Bridgette||Goeieman|Right to Care, University of the Witwatersrand|||||Firnhaber_Cynthia:Michelow_Pam:Smith_Jennifer:Wilkins_Tim
+14176999|1|06/19/2015|Medmeme|Z.||Gok Metin|Hacettepe University|Ankara||Switzerland||Ozdemir_L.
+14173650|1|12/04/2014|Medmeme|JM.||Goldstein|Cardiology Department, Gold Coast University Hospital|Queensland||Australia||Jayasinghe_R.:Sabaratnam_M.
+14172609|1|07/30/2015|Medmeme|F.||Gonzalez Candelas|Unidad Mixta Infección y Salud Pública FISABIO-Univ|Valencia||||
+14173741|1|12/04/2014|Medmeme|V||Gopalan|Cancer Molecular Pathology, Griffith Health Institute, Griffith University|Gold Coast||||Lam_AK
+14173742|1|12/04/2014|Medmeme|Louisa G||Gordon|Prostate Cancer Foundation of Australia|Sydney||||Mervin_Merehau C:Lowe_Anthony
+14177136|1|06/19/2015|Medmeme|M.||Goruleva|Federal Medical Investigation Almazov's Center|||||Kutuzova_A.:Kovaltcova_R.:Ganenko_O.:Katunina_A.:Kolesnikova_I.
+14173920|1|04/20/2015|Medmeme|Hazel||Gowland|Allergy Action|St Albans||United Kingdom||
+14170256|1|03/25/2015|Medmeme|Sara F||Grace|Bascom Palmer Eye Institute|Miami, Florida||||Cavuoto_Kara M:Capo_Hilda
+14173652|1|12/04/2014|Medmeme|H.||Green|Griffith Health Institute, Griffith University|Gold Coast||Australia||King_S.
+14173280|1|05/09/2015|Medmeme|Michael||Green|Drexel University College of Medicine- Department of Anesthesiology|||||Aman_Mansoor M.:Woodland_Mark
+14173254|1|05/19/2014|Medmeme|Benjamin A.||Greenberger|Massachusetts Institute of Technology|||||Yaffe_Michael
+14169626|1|06/11/2015|Medmeme|C.||Greenidge||St. Lucia||||
+14173215|1|05/19/2014|Medmeme|Andrew M.||Gregg|The Rockefeller University|||||Tessier-Lavigne_Marc
+14172653|1|07/17/2015|Medmeme|Victor||Greiff|ETH Zürich, Department of Biosystems Science and Engineering|Basel||Switzerland||Bhat_Pooja:Cook_Skylar C.:Menzel_Ulrike:Kang_Wenjing:Reddy_Sai T.
+14173409|1|06/08/2015|Medmeme|Fabio||Grizzi|Humanitas Clinical and Research Hospital|||||
+14173201|1|05/19/2014|Medmeme|Nan||Guo|Stanford University School of Medicine|||||Weissman_Irving
+14173145|1|09/09/2014|Medmeme|Annelie||Gusdal|Malardalen University|||||Josefsson_Karin:Thors Adolfsson_Eva:Martin_Lene
+14173184|1|09/09/2014|Medmeme|Lena-Karin||Gustafsson|Malardalen University|||||Mattsson_Karin:Snoljung_Asa
+14173889|1|04/20/2015|Medmeme|Edward||Guy|Public Health Wales|Swansea, Wales||||
+14172792|1|07/10/2015|Medmeme|Aram||Gyulkhandanyan|Department of Pathological Biochemistry of the Institute of Biochemistry of the National Academy of Sciences of Armenia|||||Gyulkhandanyan_Grigor
+14173345|1|05/09/2015|Medmeme|Rachel||Hadler|Hospital of the University of Pennsylvania|||||Gutsche_JT:Vernick_WJ:Laudanski_Krzysztof
+14177408|1|06/19/2015|Medmeme|N.||Haga|The University of Tokyo Hospital|Tokyo||Switzerland||
+14177446|1|06/19/2015|Medmeme|S.||Hajialiasgar||Tehran||||Vahedian_V.:Hashemi_Z.
+14173745|1|12/04/2014|Medmeme|Susan||Hall|School of Pharmacy, Griffith University|Queensland||Australia||Anoopkumar-Dukie_Shailendra:McDermott_Catherine:Grant_Gary D
+14174061|1|04/20/2015|Medmeme|William||Hallman|Rutgers University|New Brunswick, NJ||||Godwin_Sandria:Senger-Mersich_Angela:Stone_Richard:Schaffner_Donald W:Chen_Fur-Chi
+14173342|1|05/09/2015|Medmeme|BM||Hammond|Temple University School of Medicine|Philadelphia PA||||Erkmen_CP:Schartel_SA:Keresztury_M:Salamanca_YY
+14170523|1|03/04/2015|Medmeme|DA||Handamari|Department of Dermatology and Venereology, Faculty of Medicine, Airlangga University, Dr. Soetomo General Hospital|Surabaya||Indonesia||Indramaya_DM
+14173410|1|06/08/2015|Medmeme|Leonid||Hanin|Idaho State University|||||
+14172937|1|07/05/2015|Medmeme|Lawrence||Harris|The Ferrier Research Institute, Victoria University of Wellington|||||
+14172467|1|02/19/2014|Medmeme|Morton H.||Harwood||||||Durocher_Bridget E.:Drum_Scott N.:Watts_Phillip B.:Moore_Marguerite T.:Durocher_John J.
+14172092|1|09/17/2014|Medmeme|Muzamil||Hassan|Department of Internal Medicine, School of Clinical Medicine|||||Duarte_Raquel:Dix-Peek_Therese:Vachiat_Ahmed:Grinter_Sacha:Manga_Pravin:Naidoo_Sagren:Naicker_Saraladevi
+14173411|1|06/08/2015|Medmeme|Haralampos||Hatzikirou|TU Dresden|||||
+14177687|1|06/19/2015|Medmeme|Z.||Hawamdeh||Amman||Jordan||
+14174336|1|04/30/2015|Medmeme|Steffen||Heck||Koln||||Gick_S.:Penning_P.
+14170268|1|03/25/2015|Medmeme|Gena||Heidary|Boston Children's Hospital|Boston, MA||||Weng_Frank:Dagi_Linda R.
+14170435|1|03/25/2015|Medmeme|Gena||Heidary||||||Avery_Robert:Pineles_Stacy:Edmond_Jane
+14169669|1|06/08/2015|Medmeme|Sebastian||Heise|Humboldt-Universitat zu Berlin|||||
+14177857|1|06/19/2015|Medmeme|I.||Henchiri|Farhat Hached|Ariana||||Alaya_Z.:Nouira_A.:Abdelkefi_N.:Baccouche_K.:Belghali_S.:Zeglaoui_H.:Bouajina_E.
+14172368|1|09/17/2014|Medmeme|Olivia||Herd|Radiobiology, Dept Radiation Sciences, WITS University|Johannesburg||South Africa||Zita Francies_Flavia:Kotzen_Jeffrey:Smith_Trudi:Nxumalo_Zwide:Petrus Slabbert_Jacobus:Baeyens_Ans
+13477525|1|08/27/2014|Medmeme|Beatriz||Hernàndez|Universidad Nacional de San Luis|San Luis||Argentina||Elena Funez_Maria
+14177906|1|06/19/2015|Medmeme|A.||Hernandez-Rivera|Universidad Nacional de Colombia|Bogota D.C||Switzerland||
+14174559|1|06/29/2015|Medmeme|Anthony JR||Hickey|University of Auckland|||New Zealand||Iftikar_Fathima I
+14173413|1|06/08/2015|Medmeme|Thomas||Hillen|University of Alberta|||||Swan_A.
+14173412|1|06/08/2015|Medmeme|Thomas||Hillen|University of Alberta|||||Swan_A.:Painter_K.
+14177122|1|06/19/2015|Medmeme|T.||Hinrichs|Swiss Paraplegic Research|||||Lay_V.:Arnet_U.:Eriks-Hoogland_I.:Koch_H. G.:Rantanen_T.:Reinhardt_J. D.:Brinkhof_M.
+14173199|1|05/19/2014|Medmeme|Helen H.||Hobbs|Howard Hughes Medical Institute, Eugene McDermott Center for Human Growth and Development, Internal Medicine and Molecular Genetics, University of Texas Southwestern Medical Center|||||
+14173317|1|05/09/2015|Medmeme|Christopher||Hoffman|Department of Anesthesiology, Drexel University College of Medicine|Philadelphia, PA||||Brodsky_Melissa:Green_Michael
+14177070|1|06/19/2015|Medmeme|K.||Hojan|Greater Poland Cancer Centre|Poznan||Switzerland||
+14177146|1|06/19/2015|Medmeme|K.||Hojan|Greater Poland Cancer Centre|||||Milecki_P.:Kwiatkowska-Borowczyk_E.:Molinska-Glura_M.
+14172402|1|09/17/2014|Medmeme|Shamillah||Holland|Department of Pharmacology, School of Therapeutic Sciences, University of Witwatersrand|||||Van Zyl_Robyn:Khakhlary_Prithiviraj:Baruah_Jubaraj
+14172561|1|07/30/2015|Medmeme|E.||Hollox|Department of Genetics, University of Leicester|Leicester||United Kingdom||Polley_S.:Louzada_S.:Forni_D.:Balaskas_T.:Hains_D.:Yang_F.:Prescott_N.:Nimmo_E.:Veal_C.:Vind_I.:Munkholm_P.:Fode_P.:Mansfield_J.:Andersen_P.:Satsangi_J.:Mathew_C.:Sironi_M.
+14172420|1|06/05/2014|Medmeme|||Holmes||||||
+14170533|1|03/04/2015|Medmeme|KL||Hon|Department of Paediatrics, The Chinese Univeristy of Hong Kong|||Hong Kong||Chow_CM:Luk_DCK
+14177661|1|06/19/2015|Medmeme|K.||Honggeum|Catholic University|Seoul||South Korea||
+14169915|1|05/14/2014|Medmeme|Sarah C.||Hopp|Neuroscience, The Ohio State University|||||DAngelo_Heather M.:Royer_Sarah E.:Kaercher_Roxanne M.:Adzovic_Linda:Crockett_Alexis M.:Wenk_Gary L.
+14172459|1|02/19/2014|Medmeme|Sarah||Hopson||||||
+14173116|1|06/26/2015|Medmeme|Hadley||Horch|Bowdoin College|Brunswick, ME||||Hobbs_John:Saidenberg_Lucy:Chong_Megan
+14177197|1|06/19/2015|Medmeme|T.||Hornik-Lurie||Jerusalem||Switzerland||Lerner_Y.
+14173202|1|05/19/2014|Medmeme|Charles R.||Horres|Duke University School of Medicine|||||Blobe_Gerard
+14173099|1|06/26/2015|Medmeme|Steven||Houser|Temple University, School of Medicine|Philadelphia, PA||||
+14174720|1|06/29/2015|Medmeme|Cheng-ying||Hsieh|Department of pharmacology College of Medicine Taipei medical university|||Taiwan||Wang_Yi-hsuan:Pan_Si-han:Lin_Yu-xiang:Sheu_Joen-Rong
+14177141|1|06/19/2015|Medmeme|W.- Y.||Hsu|Taipei Medical University, Wan Fang Hospital|||||Chen_S.- Y.:Lan_C.:Wu_C.- H.:Chang_K.- V.:Lee_H.- P.:Hsu_C.- J.:Lai_J.- S.
+14169950|1|05/14/2014|Medmeme|Xiaomeng||Huang|MCDB|||||Schwind_Sebastian:Eisfeld_Ann-Kathrin:Santhanam_Ramasamy:Chiang_Chi-ling:Yu_Bo:Lee_Rober J:Bloomfield_Clara D.:Garzon_Ramiro:Marcucci_Guido:James Lee_L.
+14173414|1|06/08/2015|Medmeme|Florence||Hubert|University of Aix-Marseille|||||Swan_A.:Painter_K.
+14172615|1|07/30/2015|Medmeme|T.||Huellein|Asia-Orient-Institute, URPP Asia and Europe, University of Zurich|||Switzerland||
+14169968|1|04/04/2014|Medmeme|Andrew||Huggins||||||Simonavice_Emily:Childs_Laura
+14173319|1|05/09/2015|Medmeme|Andrew||Hulme|UPMC|||||Hache_John
+14169724|1|12/26/2014|Medmeme|N||Husain|Lancashire Care NHS Foundation Trust|||||Chaudhry_IB:Kiran_T:Mehmood_N:Fayyaz_H:Saeed_S:Rehman_R:Hamarani_M:Kazmi_A:Ansari_S:Naeem_F
+14177746|1|06/19/2015|Medmeme|A.||Iliadis|Euromedica Arogi Thessaloniki|Thessaloniki, GR||||Vanakas_T.:Rebelakos_G.:Xatzoglou_N.:Mihut_C.:Bikos_G.:Loizidis_T.
+14177002|1|06/19/2015|Medmeme|O.||Ilic Stojanovic|Institute for Rehabilitation, Faculty of Medicine, University of Belgrade|Belgrade, RS||||Lazovic_M.:Hrkovic_M.:Andjic_M.:Spiroski_D.:Filipovic_T.:Ostrahovich_E.
+14178352|1|06/19/2015|Medmeme|K.||Imene|Ariana|||||Maoui_R.:Rahali Khachlouf_H.
+14172100|1|09/17/2014|Medmeme|Andrew||Immelman|Carbohydrate and Lipid Metabolism Research Unit, School of Clinical Sciences, University of the Witwatersrand|||||Pilcher_Gillian:Raal_Frederick
+14165659|1|09/08/2014|Medmeme|Muhammad||Imran Sohail|Medical University of Vienna|||Austria||Khunweeraphong_Narakorn:Rudashevskaya_Elena L.:Montanari_Floriane:Stockner_Thomas:Trauner_Michael:Ecker_Gerhard F.:Chiba_Peter
+14178048|1|06/19/2015|Medmeme|R.||Irzmanski|Medical University of Lodz|Łodz||Switzerland||Andrzejczak_M.:Kowalski_J.:Pawlicki_L.
+14173753|1|12/04/2014|Medmeme|Farhadul||Islam|Cancer Molecular Pathology, Griffith Health Institute, Griffith University|Gold Coast||||Gopalan_Vinod:Wahab_Riajul:Lam_Alfred K-Y
+14172317|1|09/17/2014|Medmeme|Hajira||Ismail|Division of Infectious Diseases, Department of Medicine, Chris Hani Baragwanath Hospital, University of the Witwatersrand|||||Sahid_Faieza:Seetharam_Sharona:Wadula_Jeanette:Karstaedt_Alan
+14172413|1|09/17/2014|Medmeme|Zeenat||Ismail|Department of Pharmacy and Pharmacology, School of Therapeutic Sciences|||||De Koning_Charles:Dam_Jean:Harmse_Leonie
+14173273|1|05/09/2015|Medmeme|Venkataraman||Iyer|Department of Anesthesiology, Penn State Hershey Medical Center|Hershey, PA||||Chinchilli_Vernon:Iskandarani_Khaled:Bezinover_Dmitri
+14178211|1|06/19/2015|Medmeme|Y.||Izaki|Kanazawa Medical University Hospital|Ishikawa||||Kyoda_K.:Kagechika_K.
+14169897|1|05/14/2014|Medmeme|Aishwarya G||Jacob|Center for Childhood cancer, Nationwide Childrens Hospital|||||Singh_Ravi K:Mohammad_Fuad:Chandler_Dawn S
+14172179|1|09/17/2014|Medmeme|Nicole||Jaff|Department of Chemical Pathology, School of Pathology, University of Witwatersrand|||||Snyman_Tracy:Toman_Marketa:Norris_Shane:Crowther_Nigel
+14173415|1|06/08/2015|Medmeme|Harsh||Jain|Florida State University|||||Jackson_T. L.
+14173093|1|06/26/2015|Medmeme|Rajan||Jain|Department of Cell and Developmental Biology, Penn Cardiovascular Institute, Institute of Regenerative Medicine, Perelman School of Medicine at the University of Pennsylvania|Philadelphia, PA||||Li_Deqiang:Gupta_Mudit:Poleshko_Andrey:Epstein_Jonathan A.
+14165086|1|05/31/2015|Medmeme|Novák||Jan|IHK FNKV Praha|||||Jan_Dobrovolný:Jitka_Brožová:Tomáš_Kozák
+14177386|1|06/19/2015|Medmeme|S.||Jandric|University of Banjaluka|Banja Luka, BA||||Jovicic_Z.
+14173755|1|12/04/2014|Medmeme|S.||Jansen|Centre for Health Practice Innovation, Griffith Health Institute, Griffith University|Queensland||||Ball_L.:Lowe_C.
+13477664|1|08/27/2014|Medmeme|Yanny||Jaritonsky|AASM|CABA||Argentina||Beatriz Tornese_Elba:Sala_Viviana:Bertinatti_Silvia
+14165723|1|06/21/2015|Medmeme|M||Jatla|Texas A& M/McLane Childrens Baylor Scott & White|Georgetown||United States||Angirekula_A
+14173661|1|12/04/2014|Medmeme|Afraa M.||Jawad|Cancer Molecular Pathology, Griffith Health Institute, Griffith University|Gold Coast||||Jawad Al Mukhtar_Entisar:Hasan Sahib_Zena:Naji_Hamid:Gopalan_Vinod:Lam_Alfred KY
+14169723|1|12/26/2014|Medmeme|Azmat||Jehan Khan|Aga Khan University|Karachi||Pakistan||Karmaliani_Rozina:Saeed Ali_Tazeen:Asad_Nargis:Madhani_Farhana
+14176991|1|06/19/2015|Medmeme|M.||Jensen|University of Washington|Seattle, WA||United States||Dillworth_T.:Garcia_C.:George_H.:Gertz_K.:Johnson_L.:Mendoza_M. E.
+14177442|1|06/19/2015|Medmeme|H. R.||Jeon|NHIS Ilsan Hospital|Gouang-si||||Goo_H. R.:Jung_S. J.:Kim_S. M.
+14169898|1|05/14/2014|Medmeme|Young-Jun||Jeon|Department of Molecular Virology, Immunology and Medical Genetics, Wexner Medical Center, The Ohio State University|Columbus, Ohio||United States||Middleton_Justin:Kim_Taewan:Lagana_Alessandro:Piovan_Claudia:Secchiero_Paola:Nuovo_Gerard:Cui_Ri:Romano_Giulia:Di Leva_Gianpiero:Lee_Bum-Kyu:Sun_Hui-lung:Alder_Hansjuerg:Garofalo_Michela
+14178074|1|06/19/2015|Medmeme|D.||Jesus|Funchal Central Hospital|Santa Cruz||||Lima_L.:Fernandes_G.
+14172527|1|02/19/2014|Medmeme|Jingfeng||Jiang||||||Wang_Yu
+14177806|1|06/19/2015|Medmeme|I. M.||Jimenez Cubero|Hospital 2 de Octubre|Madrid||Spain||Gumersindo Godoy_F. A.:Higuera Garcia_M. V.:Machota Blas_E. N.
+14170214|1|03/25/2015|Medmeme|Kim||Jiramongkolchai|Duke University Eye Center|Durham, NC||||Freedman_Sharon F:El-Dairi_Mays A
+14173444|1|06/08/2015|Medmeme|Monika||Joanna Piotrowska|Faculty of Mathematics, Informatics and Mechanics, Institute of Applied Mathematics and Mechanics, University of Warsaw|||||
+14170348|1|03/25/2015|Medmeme|Ann M||John|The Institute of Ophthalmology and Visual Science, Rutgers New Jersey Medical School|Newark, NJ||||John_Elizabeth S:Hansberry_David R:Guo_Suqin
+14174565|1|06/29/2015|Medmeme|Lisa B||Jørgensen|Aarhus University|||Denmark||Overgaard_Johannes:MacMillan_Heath A
+14169949|1|05/14/2014|Medmeme|Pooja||Joshi|Department of Molecular Virology, Immunology and Medical Genetics and Comprehensive Cancer Center, Ohio State University|||||Jeon_Young-Jun:Middleton_Justin:Secchiero_Paola:Garofalo_Michela:Croce_Carlo M.
+14173658|1|12/04/2014|Medmeme|L.||Jubair|School of Medicine, Griffith University|Gold Coast||Australia||Sun_J.
+14177642|1|06/19/2015|Medmeme|K.- I.||Jung|Gwangju Veterans Hospital|Kwang-Ju||South Korea||Choi_C.- M.:Yoon_S.- R.
+14177839|1|06/19/2015|Medmeme|K.||Kagechika|Kanazawa Medical University|Uchinada||Switzerland||
+14170547|1|03/04/2015|Medmeme|Natta||Kajatanavin|Division of Dermatology, Department of Medicine, Faculty of Medicine Ramathibodi Hospital, Mahidol University|Bangkok||Thailand||
+14177561|1|06/19/2015|Medmeme|B.||Kara|Gulhane Military Medical Academy|Ankara||Switzerland||Celik_A.
+14177602|1|06/19/2015|Medmeme|G.||Kara|Pamukkale University|Denizli||Switzerland||Cavlak_U.:Altuğ_F.
+14174591|1|06/29/2015|Medmeme|Anna||Karpeta|Department of Physiology and Toxicology of Reproduction Jagiellonian University in Krakow|||Poland||Gregoraszczuk_Ewa
+14169867|1|05/14/2014|Medmeme|Jenna R.||Karras|Molecular virology, immunology and medical genetics, The Ohio State University|||||Schrock_Morgan:Miuma_Satoshi:Huebner_Kay
+14173419|1|06/08/2015|Medmeme|Eugene||Kashdan|University College Dublin|||||
+14177860|1|06/19/2015|Medmeme|S.||Katpattil|Yenepoya University|Mangalore||Switzerland||
+14169941|1|05/14/2014|Medmeme|Balveen||Kaur||||||
+14173255|1|05/19/2014|Medmeme|Mark||Kavesh|Northwestern University, Feinberg School of Medicine|||||Paller_Amy:Mirkin_Chad
+14163592|1|05/14/2015|Medmeme|Soya||Kawabata|Department of Orthopaedic Surgery, Keio University School of Medicine, 35 Shinanomachi Shinjuku-ku|Tokyo||Japan||Takano_Morito:Numasawa_Yuko:Iwanami_Akio:Okano_Hideyuki:Nakamura_Masaya
+14169660|1|06/08/2015|Medmeme|Samir||Kelada|University of North Carolina|||||
+14173763|1|12/04/2014|Medmeme|M||Kelly|Griffith Health Institute, Griffith University|Gold Coast||Australia||McMillan_N.:Clarke_D.
+14172421|1|06/05/2014|Medmeme|||Keshav||||||
+14177957|1|06/19/2015|Medmeme|S.||Kesikburun||Ankara||||Yaşar_E.:Tan_A. K.
+14177126|1|06/19/2015|Medmeme|F.||Khan|Royal Melbourne Hospital|Parkville||Australia||Amatya_B.:Kesselring_J.:Galea_M. P.
+14177786|1|06/19/2015|Medmeme|F.||Khan|Royal Melbourne Hospital|||||Amatya_B.:Galea_M. P.
+14169716|1|12/26/2014|Medmeme|Qurat||Khan|Aga Khan University Karachi|||||
+14165594|1|09/08/2014|Medmeme|Narakorn||Khunweeraphong|Medical University of Vienna-MFPL|||Austria||Stockner_Thomas:Kuchler_Karl
+14173768|1|12/04/2014|Medmeme|Can J.||Kiessling|Bond University|QLD||Australia||Reichelt_Melissa E.:Headrick_John P.:Peart_Jason:Ashton_Kevin J.
+14170402|1|03/25/2015|Medmeme|Anna||Kim|University of California Los Angeles; Stein Eye Institute|Los Angeles, California||||Pineles_Stacy:Velez_Federico
+14173337|1|05/09/2015|Medmeme|D.||Kim|Temple University Hospital|Philadelphia, PA||||Sethi_A.
+14178108|1|06/19/2015|Medmeme|J. H.||Kim||Daejeon||South Korea||Lee_S. G.:Choi_E. S.
+14173422|1|06/08/2015|Medmeme|Peter||Kim|University of Sydney|||||Choi_I.-K.:Crivelli_J.:Gevertz_J.:Wares_J.:Yoon_A.:Yun_C.-O.
+14178269|1|06/19/2015|Medmeme|S. H.||Kim|Yonsei University Wonju College of Medicine|Wonju||||Lee_J. Y.:Lee_Y. H.:Kim_J. H.:Lee_J. H.:Park_T. J.
+14177596|1|06/19/2015|Medmeme|Y.- H.||Kim|Samsung Medical Center, Sungkyunkwan University School of Medicine|Seoul||South Korea||Chang_W. H.:Cho_J. H.:Kim_M.- S.:Youn_J.:Kim_Y. K.:Kim_S. W.
+14173423|1|06/08/2015|Medmeme|Yangjin||Kim|Department of Mathematics Konkuk University|||||Powathil_G.:Kang_H.:Trucu_D.:Kim_H.:Lawler_S.:Chaplain_M.
+14173118|1|06/26/2015|Medmeme|Benjamin L.||King|Graduate School of Biomedical Sciences and Engineering, University of Maine|Orono, ME||||Carlisle_Heather R.:Yin_Viravuth P.
+14173703|1|12/04/2014|Medmeme|J||King|Department of Urology, Gold Coast University Hospital|Southport, Queensland||||O'Kane_D:Tsing_V
+14173769|1|12/04/2014|Medmeme|J||King||||||O'Kane_D:How_E:McClintock_S:Smith_N:Pisko_J:McDougall_P:Tracey_C
+14173770|1|12/04/2014|Medmeme|J||King||||||Strahan_A:McClintock_S
+14173771|1|12/04/2014|Medmeme|K.||Knox||||||Mey_A.:Todd_J.:Low_P.:Ralph_S.
+14178037|1|06/19/2015|Medmeme|M.-J.||Ko|CHI-MEI Medical Center|||||Hsu_Y.-F.:Lin_W.-C.:Chou_W.:Wu_H.-M.:Wang_T.-G.
+14174437|1|04/30/2015|Medmeme|Franz-Walter||Koch||Troisdorf||||
+14176996|1|06/19/2015|Medmeme|F.||Kocyigit||Denizli||||Kuyucu_E.
+14177845|1|06/19/2015|Medmeme|F.||Kocyigit||Denizli||||Kuyucu_E.:Kocyigit_A.
+14170539|1|03/04/2015|Medmeme|Mark||Koh Jean Aan|Dermatology Service, KK Women's & Children's Hospital, Singapore Visiting Consultant, National Skin Centre|||Singapore||
+14165600|1|09/08/2014|Medmeme|Sebastian||Köhler|University of Bonn|||Germany||Wiese_Michael
+14177914|1|06/19/2015|Medmeme|T.||Koleganova|"FGBI ""Treatment - Rehabilitation Center"""|Moscow||Switzerland||
+14165599|1|09/08/2014|Medmeme|Karin||Komposch|Institute for Cancer Research, Department of Medicine I, Medical University of Vienna|||Austria||Traxl_Alexander:Wanek_Thomas:Langer_Oliver:Trauner_Michael:Sibilia_Maria
+14172082|1|09/17/2014|Medmeme|Pierre||Kondiah|Department of Pharmacy and Pharmacology, School of Pharmacy, University of Witwatersrand|||||Pillay_Viness:Choonara_Yahya:Kumar_Pradeep:Du Toit_Lisa:Kumar_Lomas:Tyagi_Charu
+14169679|1|06/08/2015|Medmeme|Genevieve||Konopka|University of Texas Southwestern Medical Center|||||Hunter_Kent
+14169670|1|06/08/2015|Medmeme|Genevieve||Konopka|University of Texas Southwestern Medical Center|||||Ostrander_Elaine
+14177259|1|06/19/2015|Medmeme|K.- I.||Koo|University of Ulsan|||||Cho_S. D.:Chee_Y.:Heo_S.:Park_D. K.:Hwang_C. H.
+14177895|1|06/19/2015|Medmeme|B.||Kopliku|Ospedale Santa Maria Nuova|Reggio Emilia||Italy||Fugazzaro_S.:Piro_R.:Rapicetta_C.:Tenconi_S.:Bardelli_R.
+14176992|1|06/19/2015|Medmeme|D. J.||Kopsky|VU University Medical Center|Amsterdam||Switzerland||van de Ven_L. N. M.:Stolwijk-Swuste_J.:van der Leeden_M.:Dekker_J.
+14178234|1|06/19/2015|Medmeme|N.||Kos|University Medical Centre Ljubljana|||Slovenia||Sedej_B.
+14154613|1|06/23/2015|Medmeme|Vasiliki||Kosmidou|Information Technologies Institute (ITI), Centre for Research & Technology Hellas|||||Tsolaki_Anthoula:Kompatsiaris_Ioannis:Tsolaki_Magda
+14172823|1|07/09/2015|Medmeme|Swapnil||Kothari|Laboratory of Neuro Imaging, USC Stevens Neuroimaging and Informatics Institute, Keck School of Medicine of USC, University of Southern California, 2001 N Soto Street|Los Angeles||United States||
+14172107|1|09/17/2014|Medmeme|Daisy||Kotsane|Department of General Dental Practice, School of Oral Health Sciences, University of Witwatersrand|||||
+14174265|1|04/30/2015|Medmeme|Athanosios||Koulousakis||Koln||||Chatzikalfas_A.:Richter_R.
+14177456|1|06/19/2015|Medmeme|S.||Kozomara||Nis||||Stoickov_M.:Markovic_K.:Filipov_R.:Mitic_S.:Mandic_N.:Jevtic_Z.
+14165602|1|09/08/2014|Medmeme|Stefanie||Kraege|University of Bonn|||Germany||Stefan_Katja:Wiese_Michael
+14169969|1|04/04/2014|Medmeme|Anna||Kranzlein||||||Mills_Chavonda
+14165604|1|09/08/2014|Medmeme|Michael||Krapf|University of Bonn|||Germany||Willmes_Thomas:Wiese_Michael
+14173772|1|12/04/2014|Medmeme|J.||Kroon|Griffith Health Institute/School of Dentistry and Oral Health, Griffith University|Gold Coast||Australia||
+14173425|1|06/08/2015|Medmeme|Yang||Kuang|Arizona State University|||||Baez_J.
+14165584|1|09/08/2014|Medmeme|Ralf||Kubitz|Bethanien Krankenhaus Moers|||Germany||Stindt_Jan:Kluge_Stefanie:Dröge_Carola:Häussinger_Dieter
+14172423|1|06/05/2014|Medmeme|||Kudryck||||||
+14163557|1|05/14/2015|Medmeme|Naveen||Kumar|Robert Jones & Agnes Hunt Orthopaedic Hospital, / Midland Centre for spinal Injuries (MCSI)|Oswestry||United Kingdom||Lamb_Alison
+14177202|1|06/19/2015|Medmeme|P.||Kumar|Jawaharlal Nehru University|New Delhi||Switzerland||Baquer_N.
+14173660|1|12/04/2014|Medmeme|Avinash R.||Kundur|Heart Foundation Research Centre, Griffith Health Institute, Griffith University|Gold Coast, Queensland||Australia||Santhakumar_Abishek B.:Bulmer_Andrew C.:Singh_Indu
+14172173|1|09/17/2014|Medmeme|Tsholofelo||Kungoane|Department of Oral Pathology, School of Oral Health Sciences, University of Witwatersrand|||||Meer_Shabnum:Mahomed_Farzana
+14172169|1|09/17/2014|Medmeme|Taurai||Kurebwa|Department of Pharmacology, School of Therapeutic Sciences|||||De Koning_Charles:Harmse_Leonie:Dam_Jean
+14165585|1|09/08/2014|Medmeme|Hiroyuki||Kusuhara|University of Tokyo|||Japan||
+14174704|1|06/29/2015|Medmeme|Sabine L||Lague|University of British Columbia|||Canada||Chua_Beverly:Farrell_Anthony P:McCracken_Kevin G:Wang_Yuxiang:Milsom_William K
+14169899|1|05/14/2014|Medmeme|Aparna||Lakshmanan|PHYSIOLOGY AND CELL BIOLOGY, COLLEGE OF MEDICINE|||||Scarberry_Daniel:Green_Jill:Jhiang_Sissy
+14173775|1|12/04/2014|Medmeme|A||Lalji|Griffith university|Gold Coast, Queensland||Australia||Khiroya_N:Lalji_M
+14173776|1|12/04/2014|Medmeme|Alfred||Lam|Pathology, Gold Coast University Hospital|||Australia||
+14173338|1|05/09/2015|Medmeme|James||Lamberg|Department of Anesthesiology, Penn State Hershey Medical Center|Hershey, PA||||Pilipovic_Milena
+14172222|1|09/17/2014|Medmeme|Kim||Lamont|Julius Global Health, Julius Centre for Health Sciences and Primary Care, University Medical Centre Utrecht|Utrecht||The Netherlands||Klipstein-Grobusch_Kerstin:Stewart_Simon:Sliwa_Karen
+14178095|1|06/19/2015|Medmeme|D.||Lane|National Rehabilitation Hospital|Dublin||Ireland||
+14178232|1|06/19/2015|Medmeme|U.||Lange|Kerckhoff-Klinik, University of Gießen|Gießen||Germany||Müller-Ladner_U.
+14165562|1|09/08/2014|Medmeme|Oliver||Langer|MUW|||Austria||
+14173334|1|05/09/2015|Medmeme|Derek S.||Lauter|CA-1, University of Pittsburgh Medical Center Anesthesiology Residency|Pittsburgh, PA||||Forte_Patrick J.
+14178180|1|06/19/2015|Medmeme|J.||Leal|Centro Hospitalar Entre Douro Vouga|São João Madeira||Switzerland||Gomes_J.:Cunha_J.:Marques_R.:Branco_C.
+14172870|1|07/08/2015|Medmeme|P.N.||Leão|CIIMAR, University of Porto|||Portugal||Nakamura_H.:Costa_M.:Pereira_A.R.:Martins_R.:Vasconcelos_V.:Gerwick_W.H.:Balskus_E.P.
+14173427|1|06/08/2015|Medmeme|Urszula||Ledzewicz|Department of Mathematics and Statistics Southern Illinois University|||||Schaettler_H.
+14169900|1|05/14/2014|Medmeme|Cindy||Lee|Biomedical Informatics, The Ohio State University|||||Parvin_Jeffrey
+14177529|1|06/19/2015|Medmeme|J. H.||Lee|Wooridul Spine Hospital|Seoul||South Korea||Lee_S.- H.
+14173203|1|05/19/2014|Medmeme|Jaewon||Lee|Harvard Medical School|||||Haigis_Marcia
+14177973|1|06/19/2015|Medmeme|W.||Lee|Seoul National University|Seoul||South Korea||Seo_H.:Oh_B.-M.:Han_T.-R.
+14172892|1|07/05/2015|Medmeme|Jean-Paul||Lellouche|Department of Chemistry, Nanomaterials Research Center, Institute of Nanotechnology & Advanced Materials, Bar-Ilan University|Ramat-Gan 5290002||Israel||Limor Israel_Liron:Ostrovsky_Stella:Buchman-Kapilov_Katya:Lia Yarmiyaev_Valeria:Lellouche_Emmanuel:Michaeli_Shulamit
+14170478|1|03/04/2015|Medmeme|KF||Leong|Pediatric Institute|Kuala Lumpur||Malaysia||Ling_HN:Kho_WM
+14170479|1|03/04/2015|Medmeme|KF||Leong|Pediatric Institute|Kuala Lumpur||Malaysia||Ling_HN:Kho_WM
+14170486|1|03/04/2015|Medmeme|KF||Leong|Pediatric Institute Kuala Lumpur, Jakax Paliang|||Malaysia||Ong_US:Ling_HN
+14165790|1|06/21/2015|Medmeme|A||Lerner|Technion-Israel institute of Technology|Haifa||Israel||Jeremias_P:Matthias_T
+14169790|1|11/28/2014|Medmeme|Maxime||Leroy|UQAM|||||
+14172668|1|07/17/2015|Medmeme|Preston||Leung|UNSW Australia|||Australia||Bull_Rowena:Lloyd_Andrew:Luciani_Fabio
+14170439|1|03/25/2015|Medmeme|Alex V||Levin||||||Forbes_Brian J:Binenbaum_Gil:Rubin_Steve E
+14165386|1|05/17/2015|Medmeme|Gregory||Levin|FDA|||||Chow_Shein-Chung:Endrenyi_Laszlo:Lachenbruch_Peter:Chi_Eric
+14173429|1|06/08/2015|Medmeme|Doron||Levy|University of Maryland|||||Clapp_G.:Lepoutre_T.:Nicolini_F.
+14173245|1|05/19/2014|Medmeme|Andrew A.||Li|Harvard Medical School|||||Mootha_Vamsi
+14173204|1|05/19/2014|Medmeme|Michael||Li|Icahn School of Medicine at Mount Sinai|||||Friedman_Scott:Sikora_Andrew
+14169842|1|11/28/2014|Medmeme|Puzhen||Li|Concordia University|||||
+14178435|1|06/19/2015|Medmeme|Q.||Li||Tianjin||||Liu_L.
+14169872|1|05/14/2014|Medmeme|Ran||Li|Department of Chemistry and Biochemistry, The Ohio State University, 100 West 18th Avenue|Columbus, OH 43210||United States||Chen_Zhaomin:Coe_James V.:Allen_Heather C.:Miller_Barrie:Hitchcock_Charles L.:Povoski_Stephen P.:Martin_Edward W.
+14177800|1|06/19/2015|Medmeme|Y.- J.||Li|National Yang-Ming University|Taipei||Switzerland||Wang_R.- Y.:Huang_F.- Y.:Chen_J.- Y.:Ke_Y.- F.:Yang_Y.- R.
+14177874|1|06/19/2015|Medmeme|S.||Liao|Changhua Christian Hospital|Changhua||Switzerland||
+14172915|1|07/05/2015|Medmeme|Rinat||Lifshiz|Department of Chemical Engineering, Ben Gurion University of the Negev|||Israel||Lerman_Galya:Chintacunta_Ramesh:Goldbart_Riki:Traitel_Tamar:Avni_Dror:Sidi_Yechezkel:Kost_Joseph
+14174708|1|06/29/2015|Medmeme|Chun-Mao||Lin|College of Medicine Taipei Medical University|||Taiwan||Huang_Shih-Hao:Lee_Chi-Ming:Huang_Sheng-Tung
+14174967|1|06/29/2015|Medmeme|Wan-Wan||Lin|National Taiwan University|||Taiwan||
+14165971|1|05/20/2015|Medmeme|Yajuan||Lin|Earth and Ocean Sciences, Nicholas School of the Environment, Duke University|||||Cassar_Nicolas:Moreno_Carly:Marchetti_Adrian
+14173304|1|05/09/2015|Medmeme|James||Lincoln|Department of Anesthesiology & Perioperative Medicine, Drexel University College of Medicine|||||Patterson_Velvet:Gonzalez_Mario
+14169901|1|05/14/2014|Medmeme|Ta-Ming||Liu|Department of Internal Medicine, Division of Hematology, Wexner Medical Center|||||Ling_Yonghua:Phelps_Mitch A.:Woyach_Jennifer A.:Hertlein_Erin:MacMurray_Jessica:Salunke_Santosh B.:Chen_Ching-Shih:Byrd_John C.:Johnson_Amy J.
+14178019|1|06/19/2015|Medmeme|Z.||Liu|Nanhai Maternity and Children's Hospital Affiliated to Guangzhou University of Chinese Medicine|Foshan||Switzerland||
+14178012|1|06/19/2015|Medmeme|Z.||Liu||Foshan||Switzerland||
+14178016|1|06/19/2015|Medmeme|Z.||Liu||Foshan||Switzerland||
+14173205|1|05/19/2014|Medmeme|Billy J.||Lockhart|Yale School of Medicine|||||Bosenberg_Marcus
+14178135|1|06/19/2015|Medmeme|H.||Lohse-Busch|Rheintalklinik|Bad Krozingen||Germany||
+14177534|1|06/19/2015|Medmeme|M.||Longacre||Harvard, Cambridge||||Shcherbina_A.
+14177144|1|06/19/2015|Medmeme|K.||Loubani|Haifa University|Nazareth-illit||Switzerland||
+14170204|1|10/24/2013|Medmeme|Tony||Lourey||||||
+14175009|1|06/29/2015|Medmeme|Wan-Jung||Lu|Taipei Medical University|||Taiwan||Huang_Shih-Yi:Sheu_Joen-Rong:Lin_Kuan-Hung
+14177878|1|06/19/2015|Medmeme|X.||Lu||Nanjing||||Li_J.
+14173228|1|05/19/2014|Medmeme|Olivia M.||Lucero|University of Washington School of Medicine|||||Moon_Randall:Chien_Andy
+14165016|1|05/31/2015|Medmeme|Šemrová||Lucie|Hematologicko-onkologické oddělení FN Plzeň|||||Zdeňka_Hlinková:Dana_Kaucká:Iva_Chvojková:Veronika_Radová:Pavel_Hartl:Aneta_Němcová:Renata_Brandejsová:Maxová Klára_Kabátová:Eva_Bystřická:Alexandra_Jungová:Samuel_Vokurka:Pavel_Jindra
+14173216|1|05/19/2014|Medmeme|Ethan B.||Ludmir|HHMI-CURE, Duke University School of Medicine|||||McNamara_James
+14165122|1|05/31/2015|Medmeme|Smolej||Lukáš|IV. Interní hematologická klinika, Fakultní nemocnice a Lékařská fakulta UK|Hradec Králové||||
+14173321|1|05/09/2015|Medmeme|Amanda||Lukof||||||Huffnagle_Suzanne:Jane Huffnagle_H.:Mele_Michele:Beam_Michelle:Baptist_Justin
+14173267|1|05/19/2014|Medmeme|Emma||Lundsmith|Perelman School of Medicine at the University of Pennsylvania|||||Rustgi_Anil
+14173897|1|04/20/2015|Medmeme|Pieternel||Luning|Wageningen University|Wageningen||Netherlands||
+14172818|1|07/09/2015|Medmeme|Yinjiao||Ma|Department of Biostatistics, Saint Louis University|St. Louis, MO||United States||Damazyn_Kevin:Klinger_Jakob:Gong_Haijun
+14170489|1|03/04/2015|Medmeme|K.||Mabilin-Prieto|Department of Dermatology, East Axenue Medical Center|Quezon City||Philippines||Lavadia_MAM:Ongjoco_MCC:Cifra_CAP:Mendiola_LC
+14173983|1|04/20/2015|Medmeme|Andrea||Macaluso|Istituto Zooprofilattico Sperimentale della Sicilia|Palermo||Italy||Ferrantelli_Vincenzo:Mammina_Luigi:Porcarello_Claudia:Fiorista_Claudio:Aliotta_Emanuele:Palumbo_Silvia:Cammilleri_Gaetano:Cicero_Antonello
+14177275|1|06/19/2015|Medmeme|C.||MacDonell|CARF International|Washington||Switzerland||Raj_V.:May Moran de Brito_C.
+14165766|1|06/21/2015|Medmeme|P||Macinga|Institute for Clinical and Experimental Medicine|Prague||Czech Republic||Sticova_E:Hucl_T:Spicak_J
+14173327|1|05/09/2015|Medmeme|E||MacKay|Thomas Jefferson University Hospital|Philadelphia, PA||||Wilkerson_C:Kennedy_TL
+14169740|1|11/28/2014|Medmeme|Andrew||Macklin|Carleton University|||||
+14172318|1|09/17/2014|Medmeme|Hermenegilda||Madeira|School of Clinical Medicine, University of the Witwatersrand|||||Mbuya_Mike:Sahid_Faieza:Kaerstedt_Alan
+14172995|1|07/02/2015|Medmeme|Chris D.||Madsen|Biotech Research and Innovation Centre (BRIC), University of Copenhagen|||||
+14177592|1|06/19/2015|Medmeme|S.||Maeshima|Fujita Health University|Tsu||Switzerland||Okazaki_H.:Okamoto_S.:Mizuno_S.:Asano_N.:Maeda_H.:Masaki_M.:Matsuo_H.:Tsunoda_T.:Sonoda_S.
+14172212|1|09/17/2014|Medmeme|Mhlengi||Magubane|School of Physiology, University of Witwatersrand|||||Woodiwiss_Angela:Norton_Gavin:Michel_Frederic
+14172121|1|09/17/2014|Medmeme|Faiza||Mahomed|Department of Radiation Oncology, School of Nuclear Medicine and Radiation|||||Vangu_Mboyo-di-tamba:Kotzen_Jeffrey
+14172122|1|09/17/2014|Medmeme|Farzana||Mahomed|Department of Oral Pathology, School of Oral Health Sciences|||||Carim_Ridwaana:Ngwenya_Sizakele:Rikhotso_Ephraim
+14172153|1|09/17/2014|Medmeme|Nasreen||Mahomed|Department of Diagnostic Radiology, School of Clinical Medicine, University of Witwatersrand|||||Mahango_Kate:Wesgarth Taylor_Tracy
+14172209|1|09/17/2014|Medmeme|Kavita||Makan|Department of Internal Medicine, School of Clinical Medicine, University of the Witwatersrand|||||Tikly_Mohammed
+14177828|1|06/19/2015|Medmeme|S.||Makita|Saitama Medical University|Hidaka||Switzerland||Uchida_R.
+14177910|1|06/19/2015|Medmeme|D.||Makiura|Kobe University Hospital|||||Inoue_J.:Ono_R.:Sakai_Y.:Miura_Y.
+14174960|1|06/29/2015|Medmeme|Rui||Malhó|Universidade de Lisboa|||Portugal||Saavedra_Laura:Catarino_Rita:Heinz_Tobias:Heilmann_Ingo:Bezanilla_Magdalena
+14170311|1|03/25/2015|Medmeme|Yasmin P||Mali|Albany Medical College/Lions Eye Institute|Albany, New York||||Simon_John W:Chaudhri_Imran A:Zobal-Ratner_Jitka:Barry_Gerard P
+14172911|1|07/05/2015|Medmeme|R.||Malishev|Department of Chemistry, Ben Gurion University of the Negev|Beer Sheva 84105||Israel||Nandi_S.:Kolusheva_S.:Levi-Kalisman_Y.:Klärner_F. G.:Schrader_T.:Bitan_G.:Jelinek_R.
+14156287|1|05/09/2015|Medmeme|A.||Mameli|Medicina Interna ed Emocoagulopatie, AOU Monserrato|Cagliari||Italy||Marongiu_F.
+14178069|1|06/19/2015|Medmeme|J.||Mamo|Solent NHS|Southampton||||Gladman_J.
+14178460|1|06/19/2015|Medmeme|J.||Mamo|Solent NHS|Southampton||Switzerland||Hutchings_C.
+14172162|1|09/17/2014|Medmeme|Patience||Mapunda|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||Ann Benn_Carol:Rayne_Sarah
+14173157|1|09/09/2014|Medmeme|Norfjord Zidar||Maria|Malardalen University|||||Akhavan_Sharareh:Larm_Peter:Tillgren_Per
+14170500|1|03/04/2015|Medmeme|R||Maria|Division of dermatovenereology, Department of Medicine, Facility of Medicine, Hasan Sadikin Hospital, Padjadjaran University|Bandung||Indonesia||Hernowo_BS:Usman_HA:Diana_IA:Dwiyana_RF
+14172395|1|09/17/2014|Medmeme|Musa||Marimani|Department of Molecular Medicine, School of Therapeutic sciences, University of Witwatersrand|||||Ely_Abdullah:Buff_Maximilian CR.:Bernhardt_Stefan:Hean_Justin:Engels_Joachim:Arbuthnot_Patrick
+14170459|1|03/04/2015|Medmeme|S||Marin|Department of Pediatrics, Faculty of Medicine, Srinakharinwirot University, HRH Princess MahaChakriSirindhorn Medical Center|||Thailand||Trccsirichod_A
+14173785|1|12/04/2014|Medmeme|Hamidreza||Maroof|Cancer molecular pathology, School of Medicine, Griffith Health Institute (GHI), Griffith University|||Australia||Salajegheh_Ali:Lam_Alfred KY
+14172606|1|07/30/2015|Medmeme|S.||Marquez|Departments of Cell Biology & Otolaryngology, SUNY Downstate Medical Center|New York||United States||Pagano_A.:Feinman_R.:Markell_M.:Brown_C.
+14177076|1|06/19/2015|Medmeme|J.||Marsden|Plymouth University|Plymouth||Switzerland||Bunn_L.:Denton_A.:Wolstenholme_S.
+14178388|1|06/19/2015|Medmeme|J.||Marsden|Plymouth University|Plymouth||Switzerland||Ofori_J.:Zajieck_J.:Freeman_J.
+14178389|1|06/19/2015|Medmeme|J.||Marsden|Plymouth University|Plymouth||Switzerland||Ofori_J.:Zajieck_J.:Freeman_J.
+14177502|1|06/19/2015|Medmeme|M.||Martín López de Abajo|Hospital Ramón y Cajal|Madrid||Spain||Teixeira Taborda_A.:De Miguel Benadiba_C.:Sánchez Tarifa_P.
+14173323|1|05/09/2015|Medmeme|Natalia||Martinez Acero|Department of Anesthesia, Penn State Hershey Medical Center|Hershey, PA||||Cios_Theodore:Ng_Erina:Guvakov_Dmitri
+14172871|1|07/08/2015|Medmeme|T.||Martins|Biomedical Sciences Institute of Abel Salazar (ICBAS), University of Porto, Rua de Jorge Viterbo Ferreira 228|4050-313 Porto||Portugal||Ramos_V.:Costa_M.S.:Bessa_L.J.:Martins da Costa_P.:Urbatzka_R.:Hassouani_M.:Brahim_S.:Vasconcelos_V.:Leão_P.
+14172215|1|09/17/2014|Medmeme|Muzi||Maseko|Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, University of the Witwatersrand|||||Sibiya_Moekanyi:Norton_Gavin:Majane_Olebogeng:Woodiwiss_Angela
+14163426|1|05/14/2015|Medmeme|Roseline||Massicotte|Université du Québec à Montréal, Clinical psychologist, CP 8888 succ centre-ville|Montreal||Canada||Courtois_Frederique
+14175022|1|06/29/2015|Medmeme|Biena||Mathew|GoeUniversity Frankfurt|||Germany||Fischer_Sabine C:Stelzer_Ernst H.K
+14169881|1|05/14/2014|Medmeme|Anisha||Mathur|Molecular and Cellular Biochemistry, Ohio State University|||||Sizemore_Gina M.:Trimboli_Anthony J.:Leone_Gustavo:Ostrowski_Michael C.
+14177875|1|06/19/2015|Medmeme|C.||Matos|Hospital Santo António|Pedroso||||Cunha_I.:Fernandes_P.:Magalhaes_S.:Gonçalves_S.:Torres_S.
+14156316|1|05/09/2015|Medmeme|E.||Mauro|Depatment of Internal Medicine, Pordenone General Hospital|Pordenone||||Imbalzano_L.:Ermacora_A.:Pozzato_G.:Casarin_P.:Mazzaro_C.
+14178103|1|06/19/2015|Medmeme|B.||Mayer|Jewish Hospital Berlin|Berlin||Germany||Haas_J.
+14156320|1|05/09/2015|Medmeme|C.||Mazzaro|Department of Oncology-Haematology, CRO|Aviano||||Mauro_E.:Urraro_T.:Imbalzano_L.:Casarin_P.:Pozzato_G.:Zignego_A.L.
+14172487|1|02/19/2014|Medmeme|Connor||McCarthy||||||Goldman_Jeremy:Frost_Megan
+14172410|1|09/17/2014|Medmeme|Vuyokazi||Mcebula|Department of Chemical Pathology, School of Pathology, University of Witwatersrand|||||George_Jaya:Snyman_Tracy
+14173665|1|12/04/2014|Medmeme|A.J.||McFarland|School of Pharmacy, Griffith University|Gold Coast||Australia||Davey_A.K.:Arora_D.S.:Grant_G.D.:McDermott_C.M.:Lewohl_J.M.:Anoopkumar- Dukie_S.
+14173788|1|12/04/2014|Medmeme|F.A.||McLeary|Griffith Health Institute, Griffith University|Nathan||Australia||Khoo_T.K.:Chung_R.:Mellick_G.D.:Pountney_D.L
+14169638|1|06/11/2015|Medmeme|VV||McPhee|Princess Margaret Hospital|Nassau||Bahamas||Farquharson_D
+14177484|1|06/19/2015|Medmeme|I.||Mechlenburg||Aarhus C||||Jorgensen_P. B.:Stentz-Olesen_K.:Soballe_K.
+14177498|1|06/19/2015|Medmeme|I.||Mechlenburg||Aarhus C||||Nyengaard_J. R.:Gelineck_J.:Soballe_K.
+14172166|1|09/17/2014|Medmeme|Shabnum||Meer|Department of Oral Pathology, School of Oral Health Sciences, University of Witwatersrand|||||Kungoane_Tsholofelo:Dulabh_Shailen
+14173666|1|12/04/2014|Medmeme|George D.||Mellick|Eskitits Institute for Drug Discovery Griffith University|||||
+14172914|1|07/05/2015|Medmeme|M.||Menaker Raskin|Laboratory of Pharmaceutical Nanomaterials Science, Department of Materials Science and Engineering, Technion-Israel Institute of Technology|Haifa||Israel||Sosnik_A.
+14177264|1|06/19/2015|Medmeme|J.||Merritt|University of South Florida|||||Scott_S.:Mascarinas_R.:White_K.:Van Harlinger_W.:Gonzalez_Y.:Massengale_J.:Patel_N.
+14165071|1|05/31/2015|Medmeme|Macichová||Michaela|OLM - POKH, Univerzitná nemocnica L. Pasteura|Košice||||Monika_Grochová:Jozef_Firment:Jana_Šimonová:Štefan_Trenkler:Miriam_Mitníková:Štefan_Raffáč:Jozefína_Petrovičová
+14178250|1|06/19/2015|Medmeme|J. J.||Michiels|Goodheart Institute|Rotterdam||||Schroyens_W.:De Raeve_H.
+14177678|1|06/19/2015|Medmeme|H.||Migaou|University Hospital of Monastir|Monastir||Switzerland||Sghir_M.:Boudokhane_S.:Salah_S.:Jellad_A.:Ben Salah Frih_Z.
+14177755|1|06/19/2015|Medmeme|M.||Mikkelsson|Päijät-Häme Social and Health Care Group|Lahti, FI||||
+14172180|1|09/17/2014|Medmeme|Aletta||Millen|Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, University of Witwatersrand|||||Libhaber_Carlos:Majane_Harold:Libhaber_Elena:Woodiwiss_Angela:Norton_Gavin
+14172935|1|07/05/2015|Medmeme|John H.||Miller|School of Biological Sciences, Victoria University of Wellington|||||
+14175012|1|06/29/2015|Medmeme|Linda||Millyard|Durham University|||United Kingdom||Lee_Jack:Sadanandom_Ari
+14174007|1|04/20/2015|Medmeme|Seung||Min Kim|Korea Food Research Institute|Seongnam-si||South Korea||Young Oh_Tae:Jung Kim_Hyun
+14172127|1|09/17/2014|Medmeme|Jacqui||Miot|Department of Pharmacy and Pharmacology, School of Therapeutic Sciences, University of Witwatersrand|||||Smith_Susan:Bhimsan_Niri:Cornejo_Silvia
+14177853|1|06/19/2015|Medmeme|M.||Miura|Tsukuba University of Technology|Tsukuba City||||Kohzuki_M.:Ohwada_S.:Hirayama_A.:Ito_O.
+14177854|1|06/19/2015|Medmeme|M.||Miura|Tsukuba University of Technology|Tsukuba City||||Ohkoshi_N.:Kohzuki_M.:Kinoshita_H.:Matsushita_S.:Sakuma_T.:Matsui_Y.:Ito_O.
+14177613|1|06/19/2015|Medmeme|S.||Mlicevic|Clinic for Rehabilitation Dr M. Zotovic|||||Bukumiric_Z.:Karadzov Nikolic_A.:Sekulic_A.:Piscevic_V.
+14177317|1|06/19/2015|Medmeme|A.||Moghtaderi|Isfahan Medical University|Isfahan||Switzerland||
+14172400|1|09/17/2014|Medmeme|Rahaba||Mojakgomo|Department of Internal Medicine, School of Clinical Medicine, University of Witwatersrand|||||
+14172081|1|09/17/2014|Medmeme|Kealeboga||Mokolobate|Department of Pharmacy and Pharmacology, School of Therapeutic Sciences, University of the Witwatersrand|||||EChoonara_Yahya:Du Toit_Lisa:Pillay_Viness
+14170481|1|03/04/2015|Medmeme|L||Mona|Division of Dermatology, Faculty of Medicine, H. Adam Malik General Hospital, Siunatera Utara University|||Indonesia||Lakswinar_S:Paramita_DA
+14164342|1|06/10/2015|Medmeme|Lucia||Monici||||||Fornaciari_Rossano:Casoni_Carmen:Mozzanica_Stefania:Severi_Carla:Greci_Marina:Abdulaye_Conde:Nnaemeka_Noela:Riboldi_Benedetta
+14174036|1|04/20/2015|Medmeme|Silvia||Monteiro|Laboratorio Analises, Instituto Superior Tecnico|Lisbon||Portugal||Santos_Ricardo
+14172391|1|09/17/2014|Medmeme|Kiashanee||Moodley|Department of Internal Medicine, School of Clinical Medicine, University of the Witwatersrand|||||Valcárcel_Juan:Duarte_Raquel
+14172257|1|09/17/2014|Medmeme|Nishila||Moodley|School of Public Health, University of Witwatersrand|||||Gray_Glenda:Welte_Alex:Bertram_Melanie
+14177006|1|06/19/2015|Medmeme|A.||Mooventhan||Ujire||Switzerland||Shetty_G.:Anagha_P.
+14173437|1|06/08/2015|Medmeme|Cristian||Morales-Rodrigo|Univ. de Sevilla|||||
+14178134|1|06/19/2015|Medmeme|C.||Moreira||Porto||||Cunha_I.:Correia_A. R.:Andrade_M. J.
+14172855|1|07/08/2015|Medmeme|L.O.R.||Moreti|Universidade Estadual de Maringá, Departamento de Engenharia Química, Av. Colombo|Maringá, Paraná, 87020-900, 5790||Brazil||Camacho_F.P.:Silva_M.F.:Coldebella_P.F.:Nishi_L.:Cossich_E.S.:Amorim_M.T.S.P.:Bergamasco_R.
+14177604|1|06/19/2015|Medmeme|J.||Morgan|National Rehabilitation Hospital|||||Crinion_D.
+14178267|1|06/19/2015|Medmeme|Y.||Morishita|Saitama Prefectural University|Saitama, Saitama, Souka-shi||Japan||Kanemura_N.:Kokubun_T.:Murata_K.:Takayanagi_K.
+14173219|1|05/19/2014|Medmeme|Ramin A.||Morshed|The University of Chicago Pritzker School of Medicine|||||Lesniak_Maciej
+14172639|1|07/30/2015|Medmeme|D.||Moser|Institut fur Archaologie, Fachbereich Prahistorische Archaologie, Universitat Zurich|||Switzerland||Seiler_R.:Link_K.:Bertschi_M.:Ohnsorg_P.:Langenegger_E.:Boeni_T.:Haeusler_M.
+14172141|1|09/17/2014|Medmeme|Matshediso||Mothopi|Department of Oral Rehabilitation, School of Oral Health Sciences, University of the Witwatersrand|||||Owen_Peter:Howes_Dale:Naidoo_Lushen
+14177660|1|06/19/2015|Medmeme|E.||Moumtzi|Asklipieion General Hospital|GR, Voula-Athens||||Zacharis_D.:Koutsakis_T.:Solidaki_E.:Mitsiopoulos_C.:Roussos_N.:Patatoukas_D.
+14170191|1|10/24/2013|Medmeme|Lisa||Mouscher|Sogence Training and Consulting|||||
+14172372|1|09/17/2014|Medmeme|Buhle||Moyo|Antiviral Gene Therapy Research Unit, School of Pathology and African Network for Drugs and Diagnostics Innovation (ANDI) Centre of Excellence, Health Sciences Faculty, University of the Witwatersrand|Johannesburg||South Africa||Crowther_Carol:Ely_Abdullah:Bloom_Kristie:Cathomen_Toni:Mussolino_Claudio:Arbuthnot_Patrick
+14172344|1|09/17/2014|Medmeme|Ndaye||Mpangula|Department of Family Medicine, School of Clinical Medicine, University of Witwatersrand|||||
+14172405|1|09/17/2014|Medmeme|Thandiwe||Msibi|Department of Internal Medicine, School of Clinical Medicine, University of the Witwatersrand|||||
+14169693|1|12/26/2014|Medmeme|Shumaila||Muhammad Iqbal||||||Rahman_Raza-ur-:Abdul Qadir_Madiha:Ijaz Pervez_Muhammad:Syed Anis_Sara:Binte Rehman_Rahiya:Shabbir_Marium:Mehmood Khamisani_Aimen:Majeed_Rameen
+14177868|1|06/19/2015|Medmeme|N.||Mujovic|Faculty of Medicine, University of Belgrade|||||Nikcevic_L.:Milovanovic_A.:Jocic_N.:Tomanovic-Vujadinovic_S.
+14174113|1|04/30/2015|Medmeme|Michael||Muller||Berlin||||Dobrindt_O.:Trampuz_A.:Perka_C.
+14174342|1|04/30/2015|Medmeme|Jacques D.||Muller-Broich||Domagen||||
+14175272|1|06/29/2015|Medmeme|Fraser S||Murphy|James Hutton Institute|||United Kingdom||Armstrong_Miles:Boevink_Petra:Gilroy_Eleanor M:Birch_Paul RJ
+14172741|1|07/10/2015|Medmeme|Thommas||Musyoka|Research Unit in Bioinformatics (RUBi), Depart of Biochemistry and Microbiology, Forestry and Agricultural Biotechnology Institute (FABI) University of Pretoria|||||Kami_Aquillah:Lobb_Kevin:Tastan Bishop_Özlem
+14173709|1|12/04/2014|Medmeme|S||Nancarrow|School of Health and Human Sciences, Southern Cross University|Gold Coast, NSW||||Avila_C.:Bradbury_J.:Ackter_S.:Doran_F.
+14172912|1|07/05/2015|Medmeme|Sukhendu||Nandi|Department of Chemistry, Ben Gurion University of the Negev|Beer Sheva 84105||Israel||Jelinek_Raz
+14156332|1|05/09/2015|Medmeme|C.||Nardin|Dipartimento di Medicina, Università degli Studi di Padova|Treviso||Italy||Leoni_M.:Villalta_S.:Rattazzi_M.:Pauletto_P.
+14177461|1|06/19/2015|Medmeme|D. S.||Nasir Mansoor|CMH Pano Aqil Sindh Pakistan|Pano Aqil||Switzerland||
+14173796|1|12/04/2014|Medmeme|H.||Naug|Griffith Health Institute, Griffith University|Gold Coast||Australia||Roberts_M.:Colson_N.:Singh_I.:Kaur_A.:Kundur_A.:Tukovic_L.
+14175225|1|06/29/2015|Medmeme|Christin||Naumann|IPB|Halle||Germany||Faden_Frederik:Mai_Carolin:Hoehenwarter_Wolfgang:Dissmeyer_Nico
+14172160|1|09/17/2014|Medmeme|Ntombizodwa||Ndlovu|School of Public Health, University of Witwatersrand|||||Murray_Jill
+14177537|1|06/19/2015|Medmeme|I.- S.||Neagoie|National Institute of Rehabilitation, Physical Medicine and Balneology|||||Cinteza_D.:Petrusca_I.:Romila_A.- R.
+14177072|1|06/19/2015|Medmeme|U.||Nedeljkovic||||||Dubljanin Raspopovic_E.:Ilic_N.:Stojicic Dulic_S.:Tomanovic Vujadinovic_S.
+14172204|1|09/17/2014|Medmeme|Gill||Nelson|School of Public Health, University of the Witwatersrand|||||Sartorius_Benn:Murray_Jill:Chirwa_Tobias:Heitz_Markus:Tewaternaude_Jim
+14169985|1|04/04/2014|Medmeme|Kristopher||Nelson||||||Richards_Rosalie
+14170013|1|04/04/2014|Medmeme|Olivia||Newman||||||Mills_Chavonda
+14177659|1|06/19/2015|Medmeme|A.||Ng|UT MD Anderson Cancer Center|Houston, TX||United States||
+14172168|1|09/17/2014|Medmeme|Sizakele||Ngwenya|Department of Oral Pathology, School of Oral Health Sciences, University of Witwatersrand|||||Kotu_Monica
+14172401|1|09/17/2014|Medmeme|Samantha||Nicholson|Department of Molecular, Medicine and Haematology, School of Pathology, University of the Witwatersrand|||||Bloom_Kristie:Ely_Abdullah:Arbuthnot_Patrick:Mussolino_Claudio:Cathomen_Toni
+14156339|1|05/09/2015|Medmeme|V.||Nieswandt|Clinica Medica II, IRCCS Policlinico San Matteo|Pavia||||Sottotetti_F.:Palumbo_R.:Bernardo_A.:Cavallo_P.:Ghelfi_M.:Magnani_L.
+14177405|1|06/19/2015|Medmeme|L.||Nikcevic|"Spetial Hospital for Prevention and Treatment of Cerebrovascular Diseases ""St. Sava"""|||||Hrkovic_M.:Nikolić_D.:Tanasković_Z.:Brdareski_Z.:Plavsic_A.:Mujovic_N.
+14170284|1|03/25/2015|Medmeme|Philip||Niles|University of Iowa Department of Ophthalmology and Visual Sciences|Iowa City, IA||||Cohen_Ali R:Larson_Scott A:Olson_Richard J:Scott_William E
+14173862|1|04/20/2015|Medmeme|Estefanía||Noriega Fernández|KU Leuven|Leuven||Belgium||Van Impe_Jan
+14177856|1|06/19/2015|Medmeme|A.||Nouira|Farhat Hached|||||Alaya_Z.:Abdelkefi_N.:Henchiri_I.:Baccouche_K.:Belghali_S.:Zeglaoui_H.:Bouajina_E.
+14177858|1|06/19/2015|Medmeme|A.||Nouira|Farhat Hached|||||Alaya_Z.:Henchiri_I.:Abdelkefi_N.:Baccouche_K.:Belghali_S.:Zeglaoui_H.:Bouajina_E.
+14169662|1|06/08/2015|Medmeme|Richard||Nowakowski|Florida State University College of Medicine|||||
+14177269|1|06/19/2015|Medmeme|D.||Nowik|Hanover Medical School|Hanover||Germany||Zeisberger_M.:Meyer_T.
+14172093|1|09/17/2014|Medmeme|Henriette||Ntumba|Department of Internal Medicine/Rheumatology, School of Clinical Medicine, University of Witwatersrand|||||Tikly_Mohammed:Mvudi Nzuzi_Alain
+14170520|1|03/04/2015|Medmeme|S||Nugraeni|Division of Dermatology and venereology, Department of Medicine, Faculty of Medicine, WahidinSudirohusodo Hospital, Hasanuddin University|Makassar||Indonesia||Mappiasse_A:Ilyas_F:Wirdani_E
+14177492|1|06/19/2015|Medmeme|B. M.||Nuñez-Garcia|SAP Mataró - Maresme|Mataró||||Sanchez-Mato_M. D. C.:Taranu_M. A.:Gómez-Gil_A. M.:Company-Llimona_A.:Arnau-Garcia_N.:Montserrat-Carbonell_A.:Colomer-Giralt_M.
+14170521|1|03/04/2015|Medmeme|D||Nurasrifah|Department of Dermatovenereology. Faculty of Medicine. Airlangga University. Dr. Soetomo General Hospital|||Indonesia||Zulkarnain_I
+14177411|1|06/19/2015|Medmeme|T.||Ohmi|Tokyo Metropolitan University|Arakawa, Tokyo||Switzerland||Yamada_T.:Sato_Y.
+14173799|1|12/04/2014|Medmeme|M||Oi|Heart Foundation Research Centre, Griffith Health Institute, Griffith University|QLD||Australia||Peart_J:Donner_DG:Beck_B:Du Toit_EF.
+14173800|1|12/04/2014|Medmeme|A.||Olsen|Bond University Faculty of Health Sciences and Medicine|||||Sargeant_S.:Keogh_J.
+14172415|1|09/17/2014|Medmeme|Aadilah||Omar|Department of Internal medicine, School of Clinical Medicine, University of the Witwatersrand|||||Penny_Clement:Ruff_Paul
+14172337|1|09/17/2014|Medmeme|Michael||Onah|Wits Reproductive Health and HIV Institute (Wits RHI), University of Witwatersrand|Johannesburg||South Africa||Angela_Devine:Rosa_Legood:Sinead_Delany-Moretlwe:Philippe_Mayaud
+14178423|1|06/19/2015|Medmeme|C.||O'Riordan|University of Limerick|Macroom||Switzerland||
+14178167|1|06/19/2015|Medmeme|M. R.||Ortega|Universitary General Hospital Foundation Jiménez Díaz|||||Ariño_M.:García_C. F.
+14172994|1|07/05/2015|Medmeme|Taryn||Osmond|Malaghan Institute of Medical Research|||||Painter_Gavin
+14174421|1|04/30/2015|Medmeme|Semih||Ozdemir||Herne||||Hahn_P.:Komp_M.:Merk_H.:Godolias_G.:Rutten_S.
+14178082|1|06/19/2015|Medmeme|L.||Ozgonenel|Istanbul Bilim University|||||Cagırıcı_S.:Cabalar_M.:Durmusoglu_G.
+14175265|1|06/29/2015|Medmeme|Marina||Pais|Sainsbury Laboratory|||United Kingdom||Cano_Liliana M:Yoshida_Kentaro:EL Cooke_David:Witek_Kamil:Oliva_Ricardo:GAA Vleeshouwers_Vivianne:Kamoun_Sophien
+14177351|1|06/19/2015|Medmeme|J.||Palominos|Military Hospital|||||Ritter_P.:Berna_L.
+14156353|1|05/09/2015|Medmeme|O.||Para|Dipartimento Emergenza e Accettazione, Medicina Interna e d'Urgenza|||||Antonielli_E.:Crociani_A.:Laghai_I.:Panigada_G.:Fedeli_L.:Fintoni_T.:Vannucchi_V.:Pieralli_F.:Nozzoli_C.
+14156354|1|05/09/2015|Medmeme|O.||Para|Dipartimento Emergenza e Accettazione, Medicina Interna e d'Urgenza AOU Careggi|Firenze||Italy||Mancini_A.:Ciervo_D.:Vannucchi_V.:Blasi_E.:Antonielli_E.:Degl'Innocenti_G.:Baroncelli_S.:Pieralli_F.:Nozzoli_C.
+14173802|1|12/04/2014|Medmeme|S||Parekh|Centre of National Research on Disability and Rehabilitation, Griffith University|Logan||Australia||Kendall_E.
+14177564|1|06/19/2015|Medmeme|C.||Park|Yonsei University College of Medicine/Severance Hospital|Seoul||South Korea||Park_E. S.:Choi_J. Y.:Cho_Y.:Rha_D.- W.
+14164871|1|06/10/2015|Medmeme|Ch.-I.||Park|Cardiology, La Tour Hospital|Meyrin||||di Bernardo_St.:Bisch_L.:Pascale_P.:Schlaepfer_J.:Buss_G.:Prior_J.:Pruvot_E.
+14169883|1|05/14/2014|Medmeme|Dongju||Park|Molecular, Cellular and Developmental Biology, The Ohio State University|||||Shakya_Reena:Lee_Jonathan:Purde_Vedud:Ludwig_Thomas
+14172074|1|04/30/2015|Medmeme|Woong-Yang||Park|Samsung Genome Institute, SungKyunKwan University|||||
+14172821|1|07/09/2015|Medmeme|Arihant||Patawari|Laboratory of Neuroimaging, Keck School of Medicine of USC, Institute for Neuroimaging and Informatics, University of Southern California, 2001 N Soto Street|Los Angeles||United States||
+14170081|1|04/04/2014|Medmeme|David||Patch||||||Armstrong_Kirk
+14173082|1|06/30/2015|Medmeme|Salma||Patel|WMG, University of Warwick|||||Cain_Rebecca:Neailey_Kevin:Hooberman_Lucy
+14177116|1|06/19/2015|Medmeme|S.||Patil|University of Leeds|Leeds||||Osman_A.:Roy Chowdhury_J.:Kumar_N.
+14173340|1|05/09/2015|Medmeme|Velvet||Patterson|Department of Anesthesiology and Perioperative Medicine, Drexel University College of Medicine|||||Ahmad_Mian
+14177444|1|06/19/2015|Medmeme|P.||Peanpadungrat|Thammasat|Pathumthani||Switzerland||
+14177796|1|06/19/2015|Medmeme|L.||Pedro|Politecnic of Lisbon - ESTeSL|Lisbon||||Pais Ribeiro_J.:Páscoa Pinheiro_J.
+14169929|1|05/14/2014|Medmeme|Kevin J.||Peine|Molecular Cellular and Developmental Biology, The Ohio State University|||||Guerau-de-Arellano_Mireia:Lee_Priscilla W.:Severin_Mary:Peng_Haiyan:Kanthamnenthi_Naveen:Yang_Yuhong:Lovett-Racke_Amy E.:Bachelder_Eric M.:Ainslie_Kristy M.
+14178395|1|06/19/2015|Medmeme|M.||Pełczyńska|Institute of Immunology and Experimental Therapy|Wrocław||Switzerland||Milczarek_M.:Maciejewska_M.:Wietrzyk_J.
+14173330|1|05/09/2015|Medmeme|E||Penick|Thomas Jefferson University Hospitals|Philadelphia, PA||||MacKay_E:Kennedy_TL
+14156375|1|05/09/2015|Medmeme|V.||Perfetti|Fondazione IRCCS Policlinico San Matteo, SC Oncologia|Pavia||||Dalle Carbonare_S.:Vecchio_S.:Tringali_M.:Dellagiovanna_M.:Pedrazzoli_P.
+14169587|1|06/11/2015|Medmeme|S||Persaud||||||Gooden_K:Morrison_B
+14177919|1|06/19/2015|Medmeme|S.||Persoon|Academic Medical Center|||||China Paw_M.:Nollet_F.:Kersten_M. J.
+14174337|1|04/30/2015|Medmeme|Jorg||Petermann||Grosswallstadt||||
+14172190|1|09/17/2014|Medmeme|Vernice||Peterson|Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, University of the Witwatersrand|||||Norton_Gavin:Redelinghuys_Michelle:Libhaber_Carlos:Maseko_Muzi:Majane_Olebogeng:Brooksbank_Richard:Woodiwiss_Angela
+14164990|1|05/31/2015|Medmeme|Ticháková||Petra|Interní hematologická klinika, Fakultní nemocnice Královské Vinohrady, 3. Lékařská fakulta Univerzity Karlovy v Praze|||||Jan_Novák:Tomáš_Kozák
+14177920|1|06/19/2015|Medmeme|A.||Petrichenko|Child Health Care Research Clinic|Moscow||Switzerland||Bukreeva_E.:Ivanova_N.:Sharoev_T.:Prityko_A.
+14177890|1|06/19/2015|Medmeme|V.||Petukhova|Medical and Rehabilitation Center|Moscow||Switzerland||
+14156381|1|05/09/2015|Medmeme|G.A.||Piccillo|UOC di Medicina e Chirurgia d'Accettazione e d'Urgenza, Azienda Ospedaliera per l'Emergenza Cannizzaro|Catania||||Saitta_R.:Ampatzidis_K.:Mondati_E.G.M.:Polosa_R.:Gasbarrini_G.
+14156379|1|05/09/2015|Medmeme|G.A.||Piccillo|UOC di Medicina e Chirurgia d'Accettazione e d'Urgenza, Azienda Ospedaliera per l'Emergenza Cannizzaro|Catania||||Saitta_R.:Mondati_E.G.M.:Polosa_R.:Gasbarrini_G.
+14173807|1|12/04/2014|Medmeme|Suja||Pillai|Cancer Molecular Pathology, Griffith Health Institute, Griffith University|Gold Coast||||Gopalan_Vinod:Smith_Robert:Lam_Alfred
+14172189|1|09/17/2014|Medmeme|Venesa||Pillay|Deparment of Human Genetics, School of Pathology, Faculty of Health Sciences, National Health Laboratory Service & University of the Witwatersrand|Johannesburg||South Africa||Hendry_Liesl:Choudhury_Anayo:Crowther_Nigel:Soodyall_Himla:Ramsay_Michel:Norris_Shane:Lombard_Zane
+14170219|1|03/25/2015|Medmeme|Stacy L||Pineles|Jules Stein Eye Institute, University of California|Los Angeles, CA||||Demer_Joseph:Isenberg_Sherwin:Birch_Eileen:Velez_Federico
+14172875|1|07/08/2015|Medmeme|A.||Pinheiro|Interdisciplinary Centre of Marine and Environmental Research (CIIMAR/CIMAR), University of Porto, Rua dos Bragas 289|4050-123 Porto||Portugal||Bessa_L.J.:Vasconcelos_V.:Martins da Costa_P.:Leão_P.N.
+14177916|1|06/19/2015|Medmeme|M.||Pinto|"Istituto Nazionale Tumori ""Fondazione Giovanni Pascale""-IRCCS"|Naples||Italy||Nuzzo_F.:Landi_G.:Di Rella_F.:Gravina_A.:Pacilio_C.:de Laurentiis_M.
+14177470|1|06/19/2015|Medmeme|J.||Pires|Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais|Tocha||||Ferreira_A.:Eugénio_G.:Daniel_A.:Coutinho_M.:Malcata_A.:Silva_J.
+14177790|1|06/19/2015|Medmeme|A.||Pishgahi|Tabriz Medical Science University|Tabriz||Switzerland||Salekzamani_Y.:Shakouri_K.:Siahi_S.
+14173867|1|04/20/2015|Medmeme|János G.||Pitter|Syreon Research Institute|Budapest||Hungary||Vokó_Zoltán:Halmos_Ádám:Jozwiak_Akos
+14169851|1|05/14/2014|Medmeme|Matthew R||Plumb|Center for Retrovirus Research and College of Pharmacy, The Ohio State University|||||Larue_Ross C:Shkriabai_Nikoloz:Sharma_Amit:Di Fiore_Julia:Crowe_Brandon L:Foster_Mark P.:Malani_Nirav:Roth_Monica J.:Bushman_Frederic D.:Kvaratskhelia_Mamuka
+14172654|1|07/17/2015|Medmeme|Julia||Ponomarenko|La Jolla Institute for Allergy and Immunology|La Jolla||United States||Vaughan_Kerrie:Paul_Sinu:Haeussler_Maximilian:Maurer-Stroh_Sebastian:Peters_Bjoern:Sette_Alessandro
+14177730|1|06/19/2015|Medmeme|M.||Pontinha|Centro Hospitalar do Alto Ave|Braga||||Soares_T.:Lima e Sá_C.:Guimarães_F.
+14170066|1|04/04/2014|Medmeme|Brennan||Poonkwong||||||Rozier_Scott:Brannen_Lillie:Bachoon_Dave
+14172563|1|07/30/2015|Medmeme|E.||Postma|Institute of Evolutionary Biology and Environmental Studies, University of Zurich|||Switzerland||Waldvogel_D.
+14173023|1|07/02/2015|Medmeme|Houman||Pourhassan|Centre for Nanomedicine and Theranostics, Department of Micro and Nanotechnology, Technical University of Denmark|||||Østrem_Ragnhild G.:Clergeaud_Gael:Hansen_Anders E.:Andresen_Thomas L.
+14178168|1|06/19/2015|Medmeme|R.||Pramanik|University of Calcutta|Kolkata||Switzerland||Bhakat_D.
+14169589|1|06/11/2015|Medmeme|C||Prashad|Department of Surgery, Georgetown Public Hospital Corporation (GPHC)|Georgetown||Guyana||Rambaran_M:Alli_B
+14169974|1|04/04/2014|Medmeme|Christina||Preiss||||||Tierno_J. A.:Gleason_Michael
+14173311|1|05/09/2015|Medmeme|Kathryn||Price|Allegheny Health Network|||||Conermann_Till
+14172422|1|06/05/2014|Medmeme|||Prinja||||||
+14173346|1|05/09/2015|Medmeme|Caroline||Protin|Department of Anesthesiology, Penn State Hershey Medical Center|Hershey, Pennsylvania||||Bezinover_Dmitri
+14173445|1|06/08/2015|Medmeme|Krzysztof||Psiuk-Maksymowicz|Silesian University of Technology|||||
+14170471|1|03/04/2015|Medmeme|AT||Pujiastuti|Department of Dermatology and Venereology. Faculty of Medicine. Airlangga University. Dr. Soetomo General Hospital|Surabaya||Indonesia||Murtiastutik_D
+14170522|1|03/04/2015|Medmeme|D||Puspitorini|Department of Detviatology and Venereology, Faculty of Medicine, Airlangga University, Dr. Soetomo General Hospital|Surabaya||Indonesia||Sawitri_
+14172104|1|09/17/2014|Medmeme|Brooke||Puttergill|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||Ann Benn_Carol:Rayne_Sarah
+14178233|1|06/19/2015|Medmeme|M.||Pyrgeli|Medical Rehabilitation Center - Lamia's Clinic|||||Kalabokis_V.
+14156414|1|05/09/2015|Medmeme|F.||Quaglia|Department of Internal Medicine|||||Bertolino_G.:Scudeller_L.:Balduini_C.
+14172075|1|04/30/2015|Medmeme|Stephen||Quake|Departments of Applied Physics and Bioengineering, Stanford University and Howard Hughes Medical Institute|Stanford CA||||
+14177928|1|06/19/2015|Medmeme|F.||Quintas|Centro Hospitalar Baixo Vouga|Ponte de Lima||Switzerland||Félix_T.
+5659799|1|10/16/2009|Medmeme|Z.||Racil|Dept. of Internal Medicine Hemato-Oncology, Masaryk University and University Hospital Brno|||Czech Republic||Lengerova_M.:Toskova_M.:Winterova_J.:Volfova_P.:Weinbergerova_B.:Mayer_J.
+14173672|1|12/04/2014|Medmeme|R.||Radford|Griffith Health Institute, Griffith University|Gold Coast||Australia||Vieira_B.:Dickson_T.C.:Guillemin_G.J.:Chung_R.:Pountney_D.L.
+14169596|1|06/11/2015|Medmeme|R||Raghunanan|Orthopaedic Department, San Fernando General Hospital|San Fernando, Trinidad||||Seepaul_T:White_K:Partap_A
+14172404|1|09/17/2014|Medmeme|Somayya||Ragie|Department of Pharmacy and Pharmacology, School of Therapeutic Sciences|||||De Koning_Charles:Harmse_Leonie
+14177460|1|06/19/2015|Medmeme|R.||Rahman|Kaiser Franz Joseph Spital-SMZ Süd|||||Quittan_M.:Fenzl_K. H.:Dorner_T. E.
+14170498|1|03/04/2015|Medmeme|I||Rahmayunita|Department of Dermatovenereology, Faculty of Medicine University of Indonesia, Ciptomangunkusumo Hospital|Jakarta||Indonesia||Pusponegoro_EHD:Rihatmadja_R:Agastin_T:Astriningrum_R:Baros_CT:Prayitno_A:Muktiarti_D
+14177145|1|06/19/2015|Medmeme|V.||Raj|Carolinas Rehabilitation|Charlotte, NC||United States||Beardsley_L.:Jones_S.
+14170436|1|03/25/2015|Medmeme|Aparna||Ramasubramanian||||||Shields_Carol L:Levin_Alex V:Schnall_Bruce:Shields_Jerry A
+14169643|1|06/11/2015|Medmeme|A||Ramdin|San Fernando General Hospital|||Trinidad & Tobago||
+14175020|1|06/29/2015|Medmeme|David A||Rand|University of Warwick|||United Kingdom||
+14169902|1|05/14/2014|Medmeme|Janani||Ravi|Pathology, OSU|||||Nasser_Mohd W:Ganju_Ramesh K
+14172086|1|09/17/2014|Medmeme|Sarah||Rayne|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||
+14173673|1|12/04/2014|Medmeme|A.N.||Rcom-H'Cheo-Gauthier|Griffith Health Institute, Griffith University|Gold Coast||Australia||Weetman_W.:Sharry_S.:Meedeniya_A.C.B.:Pountney_D.L.
+14172109|1|09/17/2014|Medmeme|Denasha||Reddy|Department of Internal Medicine, School of Clinical Medicine, University of Witwatersrand|||||
+14173446|1|06/08/2015|Medmeme|Katarzyna||Rejniak|Moffitt Cancer Research Institute|||||
+14170236|1|03/25/2015|Medmeme|Michael X.||Repka|For the Pediatric Eye Disease Investigator Group|Tampa, Florida||||Dean_Trevano W.:Lazar_Elizabeth L.:Freedman_Sharon F.:Hug_Denise:Lenhart_Phoebe D.:Rahmani_Bahram:Wang_Serena X.:Yen_Kimberly G.:Kraker_Raymond T.
+14173297|1|05/09/2015|Medmeme|Natalya N.M.||Riek|Department of Anesthesiology, Penn State Hershey Medical Center|Hershey, PA||||Prozesky_Jansie
+14170043|1|04/04/2014|Medmeme|Anshika||Rimal||||||Wolfe_George
+14173448|1|06/08/2015|Medmeme|Kristine||Rinke|OVGU Magdeburg|||||Bartsch_R.:Fischer_T.:Schalk_E.:Sager_S.
+14172996|1|07/02/2015|Medmeme|Christine||Ritter|Niels Bohr Institute, University of Copenhagen|||||Brickman_Joshua M.:Oddershede_Lene B.
+14177912|1|06/19/2015|Medmeme|P.||Ritter|Hospital del Salvador|||||Fernández_R.:Berna_L.:Orellana_M.:Palominos_J.:Awad_H.
+14170180|1|04/21/2015|Medmeme|Susan||Robinson||||||Haymore_Seth
+14177883|1|06/19/2015|Medmeme|J. A.||Rocha|Centro Hospitalar São João/FMUP|||||Santoalha_J. M.:Rui_C.:Amorim_H.:Araujo_V.:Maciel_M. J.:Parada_F.
+14177614|1|06/19/2015|Medmeme|S.||Rodic|Clinic for Rehabilitation Dr M. Zotovic|||||Konstantinovic_L.:Filipovic_S.:Jelic_M.:Jeremic_A.
+14170461|1|03/04/2015|Medmeme|NR||Roem|Department oj'Dcrmatownereology, Medical Faculty of Hasamtddin University|||Indonesia||Anwar_AI:Idrus_I:Madjid_A
+14177004|1|06/19/2015|Medmeme|H.||Rogers|University of Deusto|Bilbao||Spain||Senra_H.:Leibach_G.:Olivera Plaza_S.:Perrin_P.:Segura Duran_M. A.:Peña Altamar_M.
+14178458|1|06/19/2015|Medmeme|O.||Rogoveanu||Craiova||||Traistaru_R.:Balsanu_A.:Streba_C. T.
+14173235|1|05/19/2014|Medmeme|Kaileen||Rohr|University of Washington School of Medicine|||||Jensen_Michael
+14174979|1|06/29/2015|Medmeme|Joen||Rong Sheu|Taipei Medical University|||Taiwan||
+14156431|1|05/09/2015|Medmeme|I.||Ronga|UOSC Medicina Interna III, AORN Cardarelli|Napoli||Italy||Buono_R.:Ferrara_L.:Gallucci_F.:Valentino_U.:Uomo_G.
+14173320|1|05/09/2015|Medmeme|John||Rossi|Department of Anesthesia, Penn State Hershey Medical Center|Hershey, PA 17033||||Verbeek_Thomas
+14178489|1|06/19/2015|Medmeme|E.||Rosulescu|University of Craiova|Craiova, RO||||Mehrhoff_F.:Bighea_A.
+14177869|1|06/19/2015|Medmeme|I.||Rudakov||Moscow||Switzerland||
+14169919|1|05/14/2014|Medmeme|Luke||Russell|Neurological Surgery; Ohio State University Wexner Medical Center|||||Haseley_Amy:Yu_Jianhua:Kaur_Balveen
+14156438|1|05/09/2015|Medmeme|V.||Russo|AOU Federico II|Napoli||||Ferrara_F.
+14173452|1|06/08/2015|Medmeme|Erica||Rutter|Arizona State University|||||Stepien_T. L.:Kuang_Y.:Kostelich_E. J.
+14172114|1|09/17/2014|Medmeme|Edrone||Rwakaikara|Department of Family Medicine, School of Clinical Medicine, University of the Witwatersrand|||||Erumeda_Neetha
+14169924|1|05/14/2014|Medmeme|Tiffiny D.||Rye-McCurdy|Ohio State University, Department of Chemistry and Biochemistry, OSBP, Centers for Retroviral Research and RNA Biology|Columbus, OH||||Nadaraia-Hoke_Shorena:Parent_Leslie J.:Rouzina_Ioulia:Musier-Forsyth_Karin
+14177632|1|06/19/2015|Medmeme|H.||Saadallah|Alexandria University|Alexandria, EG||||El Neanaey_W. E. N.:Achmawi_G.
+14156442|1|05/09/2015|Medmeme|C.||Sacco|Department of Internal Medicine, IRCCS Policlinico San Matteo Foundation, University of Pavia|Pavia||Italy||Zaninetti_C.:Russo_M.:Zane_F.:Bertolino_G.:Pieresca_C.:Invernizzi_R.:Balduini_C.L.
+14173817|1|12/04/2014|Medmeme|K.||Sachaphibulkij|Griffith Health Institute, Griffith University|Gold Coast||Australia||Dong_L.F.:Bezawork-Geleta_A.:Pasdar_E.A.:Endaya_B.:Yan_B.:Neuzil_J.
+14177898|1|06/19/2015|Medmeme|W.||Said|Unit of PRM Mahdia|Mahdia||||Sghir_M.:Jemni_S.:Haj Salah_A.:Kesomntini_W.
+14177432|1|06/19/2015|Medmeme|W.||Saïd Lahmar|Tahar Sfar Hospital of Mahdia|Mahdia||||Jemni_S.:Hadj Salah_A.:Sghuir_M.:Kessomtini_W.
+14177329|1|06/19/2015|Medmeme|W.||Saïd Lahmar|Tahar Sfar Hospital of Mahdia|Mahdia||||Jemni_S.:Sghuir_M.:Hadj Salah_A.:Kessomtini_W.
+14173322|1|05/09/2015|Medmeme|Alpana||Saini|Department of Anesthesiology and Perioperative Medicine, Drexel University College of Medicine|||||Gupta_Anita:Zheng_Lu:Ramanujam_Vendhan:Gallagher_John
+14169715|1|12/26/2014|Medmeme|Col||Sajjad|Attock|||||
+14177383|1|06/19/2015|Medmeme|S.||Salah|FB University Hospital|||||Sghir_M.:Toulgui_E.:Boudokhane_S.:Migaou_H.:Jellad_A.:Ben Salah Frih_Z.
+14178480|1|06/19/2015|Medmeme|P.||Sale|IRCCS San Raffaele Pisana|Rome||||Stocchi_F.:Galli_M.:Franceschini_M.
+14177803|1|06/19/2015|Medmeme|V. C.||Sales|University of São Paulo|São Paulo||Switzerland||Luna_N.:Alonso_A.:Rodrigues_R. B. M.:Peterson_M.:Fonoff_E. T.:Barbosa_E. R.:Teixeira_M. J.:Greve_J.
+14177716|1|06/19/2015|Medmeme|P.||Sánchez-Tarifa|Hospital Ramón y Cajal|Madrid||Spain||Varela-Lage_C.:Palomino Aguado_B.:De Miguel-Benadiba_C.
+14173156|1|09/09/2014|Medmeme|Susanna||Sandelius|Karolinska Institute, Department of Neurobiology, Care Sciences and Society|||||Mattiasson_Anne-Cathrine:Carin Wahlberg_Anna
+14173644|1|12/04/2014|Medmeme|J.||Sanmugarajah|Gold Coast University Hospital, Medical Oncology|Gold Coast||Australia||Hyde_M. K.:Crowe_B:Dunn_J.:Chambers_S. K.
+14177640|1|06/19/2015|Medmeme|J.||Santoalha|Centro Hospitalar de São João|Porto||Switzerland||Cadilha_R.:Amorim_H.:Rocha_A.:Parada_F.
+14177000|1|06/19/2015|Medmeme|A.||Saraf|Saraswati Institute of Medical Sciences|Ghaziabad||Switzerland||
+14178166|1|06/19/2015|Medmeme|A.||Saraf|Saraswati Institute of Medical Sciences|Ghaziabad||Switzerland||
+14173209|1|05/19/2014|Medmeme|Kapil||Saxena|Baylor College of Medicine|||||Estes_Mary:Conner_Margaret
+14173264|1|05/19/2014|Medmeme|Eli T.||Sayegh|Northwestern University, Feinberg School of Medicine|||||Parsa_Andrew
+14156452|1|05/09/2015|Medmeme|R.||Scagliola|Cardiology Division, University of Genoa|Genoa||Italy||Puppo_F.:Brunelli_C.:Balbi_M.
+14156455|1|05/09/2015|Medmeme|I.||Scalisi|"UO di Medicina Interna Ospedale ""Vittorio Emanuele II"""|Castelvetrano (TP)||Italy||Di Piazza_M.:Gioia_G.:Lo Sciuto_A.:Lucania_G.:Musiari_B.
+14177245|1|06/19/2015|Medmeme|F.||Schasfoort|Erasmus Medical Center|||||Pangalila_R.:Becher_J.:Dallmeijer_A.:Catsman_C.:Steyerberg_E.:Stam_H.:Bussmann_J.
+14172621|1|07/30/2015|Medmeme|H.||Scherf|Paleanthropology, Senckenberg Center for Human Evolution and Paleoenvironment, Eberhard Karls University|Tubingen||Germany||Francken_M.:Wahl_J.:Harvati_K.
+14163212|1|05/30/2015|Medmeme|Juliane||Schick|Vectura GmbH|||||Deml_Wolfgang:Hardung_Christine:Paulukat_Jens:Canisius_Sebastian:Linke_Andreas
+14172763|1|07/10/2015|Medmeme|Avner||Schlessinger|Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai|New York, NY 10029||||
+14177120|1|06/19/2015|Medmeme|K.||Schmitt|Swiss Paraplegic Center|Nottwil||||Scheel-Sailer_A.:Jenny_A.:Bigler_A.:Gmünder_H. P.
+14172224|1|09/17/2014|Medmeme|Kathryn||Schnippel|Health Economics & Epidemiology Research Office|||||Lince-Deroche_Naomi:Bruce_Suann:Van den Handel_Theo:Molefi_Seithati:Firnhaber_Cynthia
+14173309|1|05/09/2015|Medmeme|Nicholas J||Schott|Department of Anesthesiology, University of Pittsburg Medical Center|||||Leonelli_Dana:McElroy_Susan
+14172377|1|09/17/2014|Medmeme|Tristan||Scott|Department of Molecular Medicine and Haematology, School of Pathology, University of Witwatersrand|||||Arbuthnot_Patrick:Weinberg_Marco
+14172894|1|07/05/2015|Medmeme|E.||Segal|Russell Berrie Nanotechnology Institute, Technion – Israel Institute of Technology|Haifa 32000||Israel||Artzi_N.:Shazberg_Zohar:Beckerman_Margarita:Tzur-Balter_Adi
+14174245|1|04/30/2015|Medmeme|Tizian||Sehmsdorf||Greifswald||||Jablonowski_L.:Matthes_R.:Kocher_T.:Ekkernkamp_A.:Schell_A.
+14172646|1|07/30/2015|Medmeme|R.||Seiler|Institute of Evolutionary Medicine, Medical Faculty, University of Zurich|||Switzerland||Ruhli_F.
+14177334|1|06/19/2015|Medmeme|M.||Selas Armenteros||Seville||||Gonzalez Toro_M. J.
+14169893|1|05/14/2014|Medmeme|Yi||Seok Chang|Dept. of Molecular and Cellular Biochemistry, Molecular, Cellular and Developmental Biology program|||||Jalgaonkar_Swati:Wolford_Chris C.
+14173455|1|06/08/2015|Medmeme|Adélia||Sequeira|Instituto Superior Técnico, University of Lisbon|||||Silva_T.:Tiago_J.
+14178184|1|06/19/2015|Medmeme|S.||Serrano|Department of Physical and Rehabilitation Medicine – Coimbra Hospital and University Center|Coimbra||Switzerland||Figueiredo_P.:Pinheiro_J.
+14177373|1|06/19/2015|Medmeme|M.||Sezgin|Mersin University Medical Faculty|Mersin||||Tecer_D.:Kanık_A.:Kekik_F. S.:Yeşildal_E.:Akaslan_E.:Yıldırım_G.:Sahin_G.
+14177495|1|06/19/2015|Medmeme|M.||Sghir|Facuty of Medicine of Monastir|||||Haj Salah_A.:Said_W.:Jemni_S.:Kesomntini_W.
+14177452|1|06/19/2015|Medmeme|M.||Sghir|Unit of PRM Mahdia|Mahdia||Switzerland||Haj Salah_A.:Jemni_S.:Said_W.:Kesomntini_W.
+14177798|1|06/19/2015|Medmeme|A.||Sha|Mother Hospital|Thrissur||Switzerland||
+14169748|1|11/28/2014|Medmeme|Ahmed||Shabana|INRS|||||
+14173343|1|05/09/2015|Medmeme|Manish||Shah|Department of Anesthesiology, Penn State Milton S. Hershey Medical Center|||||Vaida_Sonia:Malhotra_Anita
+14169789|1|11/28/2014|Medmeme|Ron||Shah|University of Ottawa|||||
+14173296|1|05/09/2015|Medmeme|Ronak||Shah||||||Speck_Rebecca:Williams_Rebekah:Yianni_JG:Augoustides_MD:Noah Kornfield_Zev:Gutsche_Jacob T
+14173457|1|06/08/2015|Medmeme|Leili||Shahriyari|Mathematical Biosciences Institute Ohio State University|||||Komarova_N.
+14173458|1|06/08/2015|Medmeme|Leili||Shahriyari|Mathematical Biosciences Institute, Ohio State University|||||Komarova_N.
+14173822|1|12/04/2014|Medmeme|Mushfiq H.||Shaikh|Infectious Diseases and Cancer Research Group, School of dentistry and oral health, Griffith Health Institute, Griffith University|Gold coast||Australia||Clarke_Daniel:McMillan_Nigel:Johnson_Newel W.
+14177873|1|06/19/2015|Medmeme|S. K.||Shakouri|Tabriz Medical Sscience University|||||Eslamian_F.:Darbin_A.:Sadegi_H.
+14172175|1|09/17/2014|Medmeme|Vinay||Sharma|Department of Radiation Oncology, School of Clinical Medicine, University of Witwatersrand|||||Naidoo_Sudeshen
+14172418|1|06/05/2014|Medmeme|||Sharp||||||
+14174831|1|06/29/2015|Medmeme|Tim||Shaw|VIDRL|||Australia||Peel_Andrew
+14172462|1|02/19/2014|Medmeme|Emily||Shearier||||||Zhao_Feng
+14169852|1|05/14/2014|Medmeme|Vikram||Shettigar|Physiology and Cell Biology, The Ohio State University|||||Little_Sean:Zhang_Jianchao:Zhang_Bo:Roof_Steve:Xu_Zhaobin
+14170271|1|03/25/2015|Medmeme|Carol L||Shields|Wills Eye Hospital, 840 Walnut Street|Philadelphia, PA 19107||||Lally_Sara E:Shields_Jerry A
+14170215|1|03/25/2015|Medmeme|Jerry A||Shields|Wills Eye Hospital 840 Walnut Street|Philadelphia, PA 19107||||Kaliki_Swathi:Eagle_Ralph C:Shields_Carol L
+14170440|1|03/25/2015|Medmeme|Jerry A||Shields||||||Shields_Carol L
+14177943|1|06/19/2015|Medmeme|Y. B.||Shin|Pusan National University Hospital|||||Shin_M. J.:Lee_J.
+14170505|1|03/04/2015|Medmeme|N||Shoraya|Department of Dermatovenereology, Harapan Kita Women and Children Hospital|Jakarta||Indonesia||Setyorini_M:Ardhie_AM
+14170506|1|03/04/2015|Medmeme|WMU||Siahaan|Department of Dermatology and Venereology, Faculty of Medicine, Adam Malik Hospital, University of Sumatera Utara|Medan||Indonesia||Lakswinar_S
+14177879|1|06/19/2015|Medmeme|M.||Silva|Hospital da Prelada|Porto||Switzerland||Cunha_J.:Leal_J.:Aguiar Branco_C.
+14169632|1|06/11/2015|Medmeme|Y||Singh|Department of Surgery, General Hospital San Fernando|San Fernando||Trinidad and Tobago||Ramraj_PR:Kuruvilla_T:Kawal_T.
+14169574|1|06/11/2015|Medmeme|A||Smith||||||
+14173307|1|05/09/2015|Medmeme|Sadie||Smith|Department of Anesthesia, Penn State Hershey Medical Center|Hershey, PA, 17033||United States||Gadhok_Kavita:Guvakov_Dimitri
+14177662|1|06/19/2015|Medmeme|P.||Snopkov|FGBI|Moscow||Switzerland||
+14173329|1|05/09/2015|Medmeme|Neha M.||Soares|Department of Anesthesiology, Penn State Hershey Medical Center|Hershey, PA||||Carr_Zyad
+14173825|1|12/04/2014|Medmeme|Mohsen||Sohrabi|School of Medical Science, Griffith Health Institute, Griffith University|Gold Coast||Australia||Zulfiker_Abu Hasanat Md.:Zhang_Li:Nair_Raj G:Samaranayake_Lakshman P:Ahmetagic_Adnan:Andrew Good_David:Wei_Ming Q
+14169904|1|05/14/2014|Medmeme|Jieun||Song|Department of Neurological Surgery, OSU|||||Hyong Kim_Tae:Kim_Sung-Hak:Krishnavadan Parikh_Arav:Mo_Xiaokui:Palanichamy_Kamalakannan
+14173461|1|06/08/2015|Medmeme|Stefanie||Sonner|Felix-Klein-Zentrum für Mathematik TU Kaiserslautern|||||Kloeden_P.:Surulescu_C.
+14173019|1|07/02/2015|Medmeme|Christiane E.||Sørensen|Department of Biology, Section of Cell Biology and Physiology, August Krogh Building, University of Copenhagen|Copenhagen||Denmark||Novak_Ivana
+14164873|1|06/10/2015|Medmeme|K.||Sotiropoulos|Internal Medicine, CHUV|Lausanne||||Hullin_R.:Yerly_P.:Monney_P.:Meyer_Ph.:Garnier_A.:Hugli_O.:Antonietti_J.-Ph.
+14169854|1|05/14/2014|Medmeme|Randal J.||Soukup|Molecular virology, immunology and medical genetics, The Ohio State University|||||Fishel_Richard A.
+14156477|1|05/09/2015|Medmeme|L.||Spadaro|Dipartimento di Biomedicina Clinica e Molecolare, Ospedale Garibaldi Nesima|Catania||Italy||Privitera_G.:Fede_G.:Magliocco_O.:Russello_M.:Piro_S.:Rabuazzo_A.M.:Purrello_F.
+14173230|1|05/19/2014|Medmeme|Marko||Spasic|David Geffen School of Medicine at UCLA|||||Tumeh_Paul:Economou_James
+14156485|1|05/09/2015|Medmeme|A.||Sponchiado|Medicina Interna I, Ospedale Ca' Foncello, Dipartimento di Medicina, Università degli Studi di Padova|Treviso||Italy||Tartaglia_L.:Rattazzi_M.:Pauletto_P.
+14156486|1|05/09/2015|Medmeme|A.||Sponchiado|Medicina Interna I, Ospedale Ca' Foncello, Dipartimento di Medicina, Università degli Studi di Padova|Treviso||Italy||Zilli_C.:Pagliara_V.:Rattazzi_M.:Pauletto_P.
+14172603|1|07/30/2015|Medmeme|K.||Sprouffske|Institute of Evolutionary Biology and Environmental Studies, University of Zurich|||Switzerland||Aktipis_A.:Radich_J.:Carroll_M.:Nedelcu_A.:Maley_C.
+14172553|1|07/30/2015|Medmeme|S.||Stearns|Department of Ecology & Evolutionary Biology, Yale University|||United States||
+14165601|1|09/08/2014|Medmeme|Katja||Stefan|University of Bonn|||Germany||Kraege_Stefanie:Wiese_Michael
+14173462|1|06/08/2015|Medmeme|Tracy||Stepien|Arizona State University|||||Rutter_E.:Kuang_Y.
+14173629|1|12/04/2014|Medmeme|Michele||Sterling|Griffith Health Institute, Centre for National Research on Disability and Rehabilitation Medicine (CONROD)|||||
+14173465|1|06/08/2015|Medmeme|Christian||Stinner|Felix-Klein-Center for Mathematics TU Kaiserslautern|||||Meral_G.:Surulescu_C.:Winkler_M.
+14177880|1|06/19/2015|Medmeme|M.||Stoickov|"Institute For Treatment and Rehabilitation ""Niska Banja"""|||||Stoickov_V.:Kozomara_S.:Mitic_S.
+14177459|1|06/19/2015|Medmeme|E.- M.||Strasser|Kaiser Franz Joseph Spital|||||Dorner_T. E.:Fenzl_K. H.:Quittan_M.
+14177163|1|06/19/2015|Medmeme|E.- M.||Strasser|Social Medical Center South|||||Praschak_M.:Horvath-Mechtler_B.:Krammer_C.:Wessner_B.:Bachl_N.:Wagner_K.- H.:Quittan_M.
+14172342|1|09/17/2014|Medmeme|Nadhiya||Subramony|Department of Haematology and Molecular Medicine, School of Pathology, University of the Witwatersrand|||||
+14178296|1|06/19/2015|Medmeme|K.||Sugawara|Kanagawa University of Human Services|Yokosuka||||Yamaguchi_T.:Tanabe_S.:Suzuki_T.:Yonetsu_R.:Higashi_T.
+14177584|1|06/19/2015|Medmeme|R.||Suksathien|Maharat Nakhon Ratchasima Hospital|Nakhon Ratchasima||Switzerland||
+14173466|1|06/08/2015|Medmeme|Ilyssa||Summer|Arizona State University|||||Gumel_A.
+14169926|1|05/14/2014|Medmeme|Kruthika||Sundaram|Pulmonary, Allergy, Critical Care and Sleep Medicine, Davis Heart and Lung Research Institute, Department of Internal Medicine, Ohio State University Medical Center|Columbus, OH||||Das_Srabani:Gavrilin_Mikhail:Wewers_Mark D.
+14169905|1|05/14/2014|Medmeme|Benjamin||Sunkel|Department of Molecular and Cellular Biochemistry and the Comprehensive Cancer Center, The Ohio State University College of Medicine|||||Wu_Dayong:Liu_Xiangtao:Ye_Zhenqing:Jin_Victor:Wang_Qianben
+14177887|1|06/19/2015|Medmeme|M.||Supervía Pola|Miguel Servet Hospital|Zaragoza||Spain||Polo Royo_M.:Gimeno González_M.:Morata Crespo_B.
+14173463|1|06/08/2015|Medmeme|Christina||Surulescu|Felix-Klein-Zentrum für Mathematik TU Kaiserslautern|||||Engwer_C.:Hunt_A.:Knappitsch_M.
+14177797|1|06/19/2015|Medmeme|T.||Suzuki|Kansai University of Health Sciences|||||Bunno_Y.:Onigata_C.:Tani_M.:Yoneda_H.:Yoshida_S.
+14174991|1|06/29/2015|Medmeme|Marzena||Szwed|University of Lodz|||Poland||Kania_Katarzyna D:Jozwiak_Zofia
+14178060|1|06/19/2015|Medmeme|M.||Tabata|Toyohashi SOZO University|Toyohashi||Switzerland||
+14177666|1|06/19/2015|Medmeme|I.||Táboas|Centro Hospitalar Tondela Viseu, Oliveira de Azemeis|||||Torres_A.:Peixoto_I.:Serrano_S.:Lima_L.:Pais-Carvalho_M.:Teixeira_P.:Caldas_J.
+14170472|1|03/04/2015|Medmeme|FA||Tamarina|Department of Dermatology and Venereology. Faculty of Medicine. Airlangga University. Dr. Soetomo General Hospital|Surabaya||Indonesia||Zulkarnain_I
+14156500|1|05/09/2015|Medmeme|A.||Tamburello|UO Medicina Interna Legnano, AO Ospedale Civile di Legnano|Legnano (MI)||Italy||Faggioli_P.:Sciascera_A.:Gilardi_A.G.:Rondena_M.:Giani_L.:Mazzone_A.
+14156502|1|05/09/2015|Medmeme|C.||Tana|Unità Internistica Multidisciplinare (UIMD), AUSL Reggio Emilia|Guastalla, Reggio Emilia||||Rossi_S.:Silingardi_M.:Schiavone_C.
+14178222|1|06/19/2015|Medmeme|H.-W.||Tang|Changhua Christian Hospital|Changhua||Switzerland||Liao_S.-F.:Chang_T.-H.:Tsai_K.-Y.
+14165621|1|09/08/2014|Medmeme|Szabolcs||Tarapcsák|University of Debrecen|||Hungary||Simon_László:Szalóki_Gábor:Trencsényi_György:Márián_Teréz:Szabó_Gábor:Vereb_György:Goda_Katalin
+14169903|1|05/14/2014|Medmeme|Somayeh S.||Tarighat|The Ohio State University Comprehensive Cancer Center|Columbus, OH||United States||Radomska_Hanna:Lai_Hongshan:Mahasenan_Kiran:Li_Chenglong:Perroti_Danilo:Garzon_Ramiro:Caligiuri_Michael:Blum_William:Baiocchi_Robert
+14156505|1|05/09/2015|Medmeme|N.||Tarquinio|"UO Medicina Interna, Ospedale ""S.S. Benvenuto e Rocco"""|Osimo (AN)||||Falsetti_L.:Fioranelli_A.:Martino_M.:Capeci_W.:Catozzo_V.:Viticchi_G.:Pellegrini_F.
+14156507|1|05/09/2015|Medmeme|A.||Tarroni|Medicina Interna e Reumatologia|Rimini||Italy||Mascella_F.:Focherini_M.C.:Ballardini_G.
+14177124|1|06/19/2015|Medmeme|D.||Tate|University of Michigan|Novi, MI||United States||Forchheimer_M.:Pines_C.
+5659645|1|10/16/2009|Medmeme|G.D.||te Raa||||||Fischer_K.:Verweij_W.:Biesma_D.H.
+14177374|1|06/19/2015|Medmeme|D.||Tecer|Gazi University Medical Faculty|Ankara||||Sezgin_M.:Kanık_A.:Arıncı Incel_N.:Bölgen Cimen_O.:Biçer_A.:Sahin_G.
+14170538|1|03/04/2015|Medmeme|Leelawadee||Techasatian|Division of Dermatology. Department of Pediatrics, Faculty of Medicine, Khon Kaen University|Khon Kaen||Thailand||
+14172964|1|07/05/2015|Medmeme|Paul||Teesdale-Spittle|School of Biological Sciences, Victoria University of Wellington|||||
+14170357|1|03/25/2015|Medmeme|Daniel C||Terveen|University of South Dakota Sanford School of Medicine 1400 W 22nd St|Sioux Falls, SD 57105||||Hsu_Benson S:Tufty_Geoffrey T
+14163587|1|05/14/2015|Medmeme|Myriane||Tetrault|Services de santé et des services sociaux du Québec|Montreal||Canada||Courtois_Frederique
+14170458|1|03/04/2015|Medmeme|N||Thamsakulsirin|Division of Dermatology, Department of Pediatrics, Queen Sirikit National Institute of Child Health|Bangkok||Thailand||Singalavanija_S:Limpongsanurak_W
+14169906|1|05/14/2014|Medmeme|Katie||Thies|Department of Molecular and Cellular Biochemistry, The Comprehensive Cancer Center, The Ohio State University|||||Mathsyaraja_Haritha:Hans Meisen_W.:Kaur_Balveen:Liu_Tom:Timmers_Cynthia:Otero_Jose:Ostrowski_Michael C.
+14170504|1|03/04/2015|Medmeme|P||Thitthiwong|Division of Dermatofogy, Department Pediatrics|||||Prongchantuk_P:Boonyawat_B
+14170118|1|04/04/2014|Medmeme|Austin||Thompson||||||Wolfe_George
+14173339|1|05/09/2015|Medmeme|Michael S.||Thompson|Department of Anesthesiology, University of Pittsburgh School of Medicine|Pittsburgh, PA||||Gelzinis_Theresa A.
+14172130|1|09/17/2014|Medmeme|John||Thomson|Department of Surgery, School of Clinical Medicine, University of the Witwatersrand|||||Reid_Joanna:Ann Benn_Carol:Rayne_Sarah
+13477690|1|08/27/2014|Medmeme|Laura||Thorner|Universidad CAECE|Ciudad Autónoma de Buenos Aires||Argentina||
+14177606|1|06/19/2015|Medmeme|N.||Ticó-Falguera|Althaia Xarxa Assistencial Universitaria de Manresa|Manresa, SB||||Peña-Pitarch_E.:Romero-Culleres_G.:Sirvent-Batalla_G.:Abenoza-Guardiola_M.
+14175017|1|06/29/2015|Medmeme|Jens||Timmer|University of Freiburg|||Germany||Steiert_Bernhard:Merkle_Ruth:Raue_Andreas:Schilling_Marcel:Klingmuller_Ursula
+14163515|1|05/14/2015|Medmeme|Emily||Tinsley|MedStar National Rehabilitation Hospital, 102 Irving St|NW, Washington, DC||United States||Groah_Suzanne:Hasan_Ceylan:Betancourt_Luisa:Nash_Mark
+14156515|1|05/09/2015|Medmeme|D.||Tirotta|Medicina Interna, Ospedale Cervesi di Cattolica, AUSL Romagna|Cattolica||Italy||Eusebi_G.:Finazzi_M.G.:Giampaolo_L.:Durante_V.
+14174722|1|06/29/2015|Medmeme|Florine||Tissier|ORPHY laboratory EA4324 UBO|Brest||France||Mallem_Yassine:Goanvec_Christelle:Desfontis_Jean-Claude:Bourgeois_Nathalie:Theron_Michael:Roquefort_Philippe:Aubry_Thierry:Pichavant-Rafini_Karine:Mansourati_Jacques:Gilard_Martine
+14172568|1|07/30/2015|Medmeme|T.||Tissot|CREEC|Montpellier||France||Arnal_A.:Ujvari_B.:Nunney_L.:Solary_E.:Laplane_L.:Bonhomme_F.:Vittecoq_M.:Tasiemski_A.:Renaud_F.:Pujol_P.:Roche_B.:Thomas_F.
+14165061|1|05/31/2015|Medmeme|KUPSA||Tomáš|Katedra vojenského vnitřního lékařství a vojenské hygieny, Fakulta vojenského zdravotnictví Hradec Králové|||||Jan_Vaněk:Martina_Vašatová:Iva_Karešová:Ladislav_Jebavý:Pavel_Žák:Horáček Jan_M
+14173681|1|12/04/2014|Medmeme|J.||Toohill|Griffith Health Institute, School of Nursing & Midwifery, Griffith University|Meadowbrook||||Fenwick_J.:Gamble_J.:Creedy_DK.
+14172146|1|09/17/2014|Medmeme|Michele||Torlutter|Department of Family Medicine, School of Clinical Medicine, University of Witwatersrand|||||Mash_Bob
+14172476|1|02/19/2014|Medmeme|R.||Tortini||||||Carn_S.A.:van Wyk de Vries_B.:Grosse_P.
+14173029|1|07/02/2015|Medmeme|Marco||Tozzi|Department of Biology, University of Copenhagen|||||
+14177668|1|06/19/2015|Medmeme|R.||Traistaru|University of Medicine and Pharmacy of Craiova|Craiova, RO||||Bumbea_A. M.:Rogoveanu_O.:Kamal_D.
+14173834|1|12/04/2014|Medmeme|A.V.||Trinh|Griffith University, Molecular Basis of Disease Gold Coast|||Australia||Munn_A.L.
+14173325|1|05/09/2015|Medmeme|Amanda||Trommello-Lukof||||||Khetani_Nicole:Elia_Elia:Kang_Yoogoo
+14173335|1|05/09/2015|Medmeme|Albert||Tsai|Department of Anesthesiology and Critical Care, University of Pennsylvania|||||Sophocles_Aris:Patel_Prakash:Augoustides_John
+14177881|1|06/19/2015|Medmeme|S.- W.||Tsai|Tzu Chi University|Taichung||Switzerland||
+14170338|1|03/25/2015|Medmeme|Mai||Tsukikawa|Wills Eye Hospital|Philadelphia, Pennsylvania||||Lally_Sara E:Shields_Carol L:Eagle_Ralph C:Wasserman_Barry N
+14177431|1|06/19/2015|Medmeme|S.||Tuna|Akdeniz Üniversity|Antalya||Switzerland||Ozdemir_T.:Oz_H.
+14156524|1|05/09/2015|Medmeme|M.||Turrin|"UOC Medicina Interna, Ospedali Riuniti Padova Sud ""Madre Teresa di Calcutta"", Azienda ULSS n. 17, Regione del Veneto"|Monselice (PD)||||Martinelli_S.
+14173469|1|06/08/2015|Medmeme|Jack||Tuszynski|University of Alberta|||||Carels_N.:Tilli_T.
+14170529|1|03/04/2015|Medmeme|M||Udompataikul|Skin center, Faculty of Medicine, Srinakharinwirot University|Bangkok||Thailand||Sutapanit_P:Ophaswongse_S:Chalermchai_T
+14178137|1|06/19/2015|Medmeme|A. M.||Ulasli|Kocatepe University|Afyonkarahisar||Switzerland||Eyvaz_N.:Cevik_H.:Toktas_H.:Solak_O.:Dundar_U.
+14177350|1|06/19/2015|Medmeme|A. M.||Ulasli|Kocatepe University|||||Dikici_O.:Eroglu_S.:Dundar_U.
+14177969|1|06/19/2015|Medmeme|S.||Ullah|King Fahad Medical City|Riyadh, SA||||Ahmad_I.:Wunderlich_C. A.
+14170517|1|03/04/2015|Medmeme|S||Ullyana|Department of Dermatovenereology, Faculty of Medicine, University of Sumatera Utara H. Adam Malik General Hospital|Medan, North Sumatera||Indonesia||Aprita_I:Lakswinar_S.
+14178301|1|06/19/2015|Medmeme|S.||Unsal-delialioglu|Ankara Physical Medicine and Rehabilitation Training and Research Hospital|Ankara||Switzerland||Aras_M.:Baday_D.:Karakus_D.
+14165555|1|09/08/2014|Medmeme|Stephan||Urban|University of Heidelberg, Department of Infectious Diseases, Molecular Virology|||Germany||
+14170477|1|03/04/2015|Medmeme|R||Utami|Division of Dermatovenereology, Department of Medicine, Faculty of Medicine, Wahidhi Sudirohusodo Hospital, Hasanuddin University|Makassar||Indonesia||Widita_W:Tabri_F:Rohayati_A
+14172578|1|07/30/2015|Medmeme|B.||Uvjari|Faculty of Veterinary Sciences, University of Sydney|Camperdown, NSW||Australia||Kowarsky_M.:Wong_E.:Wu_C.:Pearse_A. M.:Taylor_R.:Warren_W.:Belov_K.:Papenfuss_A.
+14177908|1|06/19/2015|Medmeme|K.||Valkenet|University Medical Center Utrecht|Utrecht||Switzerland||Trappenburg_J.:Backx_F.:van Hillegersberg_R.
+14177822|1|06/19/2015|Medmeme|K.||Valkenet|University Medical Center Utrecht|Utrecht||Switzerland||Trappenburg_J.:Gosselink_R.:van Hillegersberg_R.:Backx_F.
+14172858|1|07/08/2015|Medmeme|S.||Valle|Universidad Autónoma de Madrid. Departamento de Biología. Campus de Cantoblanco|28049-Madrid||||Fernández-Freire_P.:Barón-Sola_A.:Sanz-Alférez_S.
+14174030|1|04/20/2015|Medmeme|Esther||van Asselt|RIKILT - Wageningen UR|Wageningen||Netherlands||Van der Fels-Klerx_Ine:Korsgaard_Helle:Bredsdorff_Lea:Nauta_Maarten:Poulsen_Morten:D'Agostino_Martin:Raley_Marian:Coles_David:Frewer_Lynn
+14178148|1|06/19/2015|Medmeme|H.||Van de Meent|Radboudumc University|Nijmegen||Switzerland||Frölke_J. P.
+14178149|1|06/19/2015|Medmeme|H.||Van de Meent|Radboudumc University|Nijmegen||Switzerland||Frölke_J. P.:Haket_L.
+14172411|1|09/17/2014|Medmeme|Wendy||Van der Spuy|School of Anatomical Sciences, University of Witwatersrand|||||Augustine_Tanya
+14172348|1|09/17/2014|Medmeme|Robyn||Van Zyl|Wits Research Institute For Malaria|||||Jansen van Vuuren_Natasha:Chen_Chien-Teng:Inam_Afreen:Azam_Amir
+14173248|1|05/19/2014|Medmeme|Bhavana S.||Vangara|University of Pittsburgh School of Medicine|||||Khan_Saleem:Grandis_Jennifer
+14177849|1|06/19/2015|Medmeme|K.||Vaníková|J.E. Purkyně University|Ústí nad Labem||Switzerland||Hrach_K.
+14177934|1|06/19/2015|Medmeme|S.||Varagic-Markovic||Belgrade||||Blagojevic_D.:Petronic Markovic_I.:Markovic_D.:Tomanovic Vujadinovic_S.
+14156537|1|05/09/2015|Medmeme|G.||Vassallo|Istituto di Medicina Interna, Università Cattolica|Roma||Italy||Antonelli_M.:Ferrulli_A.:Tarli_C.:Bernardini_F.:Mirijello_A.:Addolorato_G.
+14156533|1|05/09/2015|Medmeme|G.||Vassallo|Istituto di Medicina Interna, Università Cattolica|Roma||Italy||Tarli_C.:Antonelli_M.:Bernardini_F.:Mirijello_A.:Gasbarrini_A.:Addolorato_G.
+14169595|1|06/11/2015|Medmeme|PA||Vegt|Albert Schweitzer Hospital|Dordrecht||Netherlands||
+14177142|1|06/19/2015|Medmeme|H.||Verbelen|University of Antwerp|Wilrijk||Switzerland||Gebruers_N.:Tjalma_W.
+14177915|1|06/19/2015|Medmeme|H.||Verbelen|University of Antwerp|Wilrijk||Switzerland||Gebruers_N.:Tjalma_W.
+14173838|1|12/04/2014|Medmeme|B.||Vieira|Griffith Health Institute, Griffith University|Gold Coast||Australia||Radford_R.:Pountney_D.L
+14173704|1|12/04/2014|Medmeme|S||Vijayakumaran|Griffith Health Institute, School of Medical Science, Griffith University|Gold Coast||Australia||Wong_MB:Pountney_DL
+14172616|1|07/30/2015|Medmeme|P.||Vinodbhai|Indian Astrobiology Research Centre|||India||
+14156556|1|05/09/2015|Medmeme|C.||Virgillito|"UO Medicina Interna, Area Critica ARNAS ""Garibaldi"""|Catania||Italy||Di Mauro_C.:Tripiciano_A.:D'Amico_R.A.:Neri_S.:Morana_I.
+14174618|1|06/29/2015|Medmeme|Olga||Vitavska|University of Osnabrück|||Germany||Bartölke_Rabea:Heinisch_Jürgen:Wieczorek_Helmut
+14156557|1|05/09/2015|Medmeme|F.||Vitelli|Divisione di Medicina Interna V|||||Conterno_P.:Ficara_F.:Suman_F.:Nespoli_D.:Mestriner_M.:Martinelli_M.:Capello_T.:Fissore_F.:Giannella_R.:Guarnero_A.:Ferfoglia_G.:Lanzio_M.:Bruno_M.:Imperiale_E.:Marinone_C.
+14177194|1|06/19/2015|Medmeme|H.||Vogel|University of Wuerzburg|Wuerzburg||Germany||Neuderth_S.:Driesel_P.:Wolf_H.- D.:Gerlich_C.:Küffner_R.:Lukasczik_M.
+14173839|1|12/04/2014|Medmeme|Haleh||Vosgha|Cancer Molecular Pathology Group, School of Medicine, Griffith Health Institute (GHI), Griffith University|Queensland||Australia||Salajegheh_Ali:Smith_Robert A:Lam_Alfred KY
+14173017|1|07/02/2015|Medmeme|Ann-Katrine||Vransø West|Niels Bohr Institute, University of Copenhagen|||||Wullkopf_Lena:Leijnse_Natascha:Erler_Janine:Broeng Oddershede_Lene
+14174250|1|04/30/2015|Medmeme|Andreas||Wagner||Munchen||||
+14173840|1|12/04/2014|Medmeme|Riajul||Wahab|Cancer Molecular Pathology, Griffith Health Institute, Griffith University|Gold Coast||||Gopalan_Vinod:Islam_Farhadul:Lam_Alfred K-Y
+14172366|1|09/17/2014|Medmeme|Tasha||Wainstein|Department of Human Genetics, School of Pathology, University of Witwatersrand|||||Kerr_Robyn:Francies_Flavia:Baeyens_Ans:Cubasch_Herbert:Rayne_Sarah:Poppe_Bruce:Klaes_Kathleen:Krause_Amanda
+14165319|1|04/20/2015|Medmeme|Samson||Wakibi|Mbarara University|Mbarara Uganda||Uganda||
+14169663|1|06/08/2015|Medmeme|Graeme||Walker|QIMR Berghofer Medical Research Institute|||||
+14173278|1|05/09/2015|Medmeme|Jason D.||Walls||||||Abraham_Daniel:Nelson_Charles:Kamath_Atul:Elkassabany_Nabil:Liu_Jiabin
+14178268|1|06/19/2015|Medmeme|C.||Wan|Tianjin Medical University General Hospital|Tianjin||Switzerland||
+14178262|1|06/19/2015|Medmeme|C.||Wan|Tianjin Medical University General Hospital|||||Jia_J.
+14169907|1|05/14/2014|Medmeme|Chaojie||Wang|Ohio State Biochemistry Program|||||Mohd-Yusof_Adlina:McCarty_Samantha K.:Saji_Motoyasu:Ringel_Matthew D.
+14164693|1|06/10/2015|Medmeme|Ying-Syuan||Wang|Taipei City Hospital, Yangming Branch, No.105, Yusheng St.|Taipei||Taiwan||Lee_Jason Js:Ho_Chin- Yu:Yu_Wen-Ruey
+14170540|1|03/04/2015|Medmeme|Rungsima||Wanitphakdeedecha|Department of Dennatology, Faculty of Medicine Siriraj Hospital, Mahidol University|Bangkok||Thailand||
+14163344|1|05/14/2015|Medmeme|William||Waring|Medical College of Wisconsin, 9200 Wisconsin Avenue|Milwaukee, Wisconsin||United States||Rodriguez_Gianna M.:Waldren_Kristen:Bieringsørensen_Fin:Schuld_Christian:Rupp_Ruediger:Levin-Gleba_Jay
+14178349|1|06/19/2015|Medmeme|T.||Warlop|Cliniques Universitaires Saint-Luc|||||Detrembleur_C.:Stoquart_G.:Crevecoeur_F.:Jeanjean_A.:Lejeune_T.
+14172597|1|07/30/2015|Medmeme|N. J.||Warner|Warner Consulting|||United States||
+14170206|1|10/24/2013|Medmeme|Jonathan||Watson|Minnesota Association of Community Health Centers (MNACHC)|||||Johnson_Jinny
+14174052|1|04/20/2015|Medmeme|Armin A.||Weiser|Federal Institute for Risk Assessment|Berlin||Germany||Thoens_Christian:Appel_Bernd:Kaesbohrer_Annemarie:Filter_Matthias
+13477239|1|08/27/2014|Medmeme|Silvia||Weitzman|AASM|Buenos Aires, Capital Federal||Argentina||
+14169921|1|05/14/2014|Medmeme|Alessandra M.||Welker|Neuroscience Graduate Studies Program|||||Beattie_Christine E.:Kaur_Balveen
+14172555|1|07/30/2015|Medmeme|J.||Wells|Institute of Child Health, University College London (UCL)|London||United Kingdom||
+14177958|1|06/19/2015|Medmeme|X.-H.||Wen|Anhui Medical University|Hefei||Switzerland||Huang_H.-Z.:Zhu_R.:Huang_J.-H.:Wang_S.-Y.:Zhu_Y.-E.
+14177473|1|06/19/2015|Medmeme|M.||Wewalka|Landesklinikum Mistelbach|Mistelbach||Switzerland||Uher_E.- M.
+14173217|1|05/19/2014|Medmeme|Jonathan||Weyhenmeyer|Indiana University School of Medicine|||||Sejnowski_Terrence
+14173679|1|12/04/2014|Medmeme|Amanda J||Wheeler|Social Health Research Program, Griffith University|Logan||Australia||Crozier_Michelle:Stewart_Victoria:Roennfeldt_Helena:Walsh_Peter
+14173260|1|05/19/2014|Medmeme|Yasmine N.||White|University of Michigan Medical School|||||Shannon_Kevin
+14177148|1|06/19/2015|Medmeme|A.||Wilson|Department of Respiratory Medicine|||||Langdon_K.:Bear_N.:Blair_E.:Steer_K.:Blackmore_M.
+14173472|1|06/08/2015|Medmeme|Shelby||Wilson|Morehouse College|||||
+14170465|1|03/04/2015|Medmeme|W||Wisuthsarewong|Division of Pediatric Dermatology, Department of Pediatrics, Faculty of Medicine, Siriraj Hospital, Mahidol University|||Thailand||Boonpuen_N:Nitiyarom_R
+14173473|1|06/08/2015|Medmeme|Dominik||Wodarz|University of California, Irvine|||||Komarova_N.
+14173172|1|09/09/2014|Medmeme|Danuta||Wojnar|Seattle University, College of Nursing|||United States||
+14173231|1|05/19/2014|Medmeme|Benjamin J.||Wolpaw|Case Western Reserve University|||||Narla_Goutham
+14169818|1|11/28/2014|Medmeme|Bin||Xiao|McGill University|||||
+14175003|1|06/29/2015|Medmeme|Shunyuan||Xiao|University of Maryland|||United States||Ma_Xianfeng:Berkey_Robert:Zhang_Yi:Zhang_Qiong:King_Harlan:Kale_Shiv:Bittner_Florian:Schmidt_Nadine:Wang_Wenming
+14178276|1|06/19/2015|Medmeme|Z.||Xu|Jilin University|ChangChun||Switzerland||Yu_H.:Hirasawa_E.:Qu_W.
+14178041|1|06/19/2015|Medmeme|T.||Yamaguchi|Fukui Prefectural Hospital|||||Yamamura_O.:Hamano_T.:Nakamoto_Y.
+14177827|1|06/19/2015|Medmeme|S.||Yamamoto|Ukima Central Hospital|Koto||||Furukawa_Y.:Nitta_O.
+14174771|1|06/29/2015|Medmeme|Feng-Yi||Yang|National Yang-Ming University|||Taiwan||Chang_Wen-Yuan:Lin_Wei-Ting:Hwang_Jeng-Jong
+14177409|1|06/19/2015|Medmeme|S. N.||Yang|Korea University Guro Hospital|Seoul||South Korea||Yoon_J. S.
+14174310|1|04/30/2015|Medmeme|Daiwei||Yao||Hannover||||Claaßen_L.:Windhagen_H.:Stukenborg-Colsman_C.:Jakubowitz_E.:Daniilidis_K.
+14174724|1|06/29/2015|Medmeme|Jwu-Lai||Yeh|Department of Pharmacology School of Medicine Kaohsiung Medical University|||Taiwan||Hung_Chen-Ting:Liou_Shu-Fen:Chen_Ing-Jun
+14177653|1|06/19/2015|Medmeme|A.||Yener-Guclu|Ankara Physical Medicine and Rehabiitation Training and Research Hospital|Ankara||Switzerland||Unsal-Delialioglu_S.:Ozel_S.:Culha_C.
+14178202|1|06/19/2015|Medmeme|D.||Yi|Yonsei University Wonju College of Medicine|Wonju||South Korea||Park_J. M.:Lee_J. H.:Park_T. J.:Park_J.
+14170552|1|03/04/2015|Medmeme|Giam||Yoke Chin|National University of Singapore|||||
+14173324|1|05/09/2015|Medmeme|Uzung||Yoon|Thomas Jefferson University Hospital, Department of Anesthesiology|||||Yuan_Ian
+14174976|1|06/29/2015|Medmeme|Ingrid F||Younes|American University of Beirut|||Lebanon||Malkhassian_Lori H:Zahr_Hind C:Mahdi Sleiman_Mohamad:Daoud_Hussein:Al Qraini_Moath:Oweis_Ghanem:Jaalouk_Diana E
+14173261|1|05/19/2014|Medmeme|Andrew C.||Young|K-RITH|||||Sigal_Alex
+14172880|1|07/05/2015|Medmeme|Siming||Yu|Nanoparticles and Nanocomposites Group, Institut de Ciència de Materials de Barcelona, Consejo Superior de Investigaciones Científicas (ICMAB-CSIC), Campus de la UAB|Bellaterra, E-08193, Catalunya||Spain||Gonzalez-Moragas_Laura:Milla_Maria:Laromaine_Anna:Roig_Anna
+14173033|1|07/02/2015|Medmeme|Shen||Yu Helvig|Department of Pharmacy, University of Copenhagen|||||
+14173289|1|05/09/2015|Medmeme|Ian||Yuan|Thomas Jefferson University Hospital|||||Machnicki_Robert:Lukof_Amanda:Torjman_Marc
+14170491|1|03/04/2015|Medmeme|N||Yudhitiara|Division of Pediatric Dermatology, Department of Dermatovenerology, Faculty of Medicine, Dr Hasan Sadikin Hospital, Padjadjaran University|Bandung||Indonesia||Arline_I:Ramali_LM:Prihianti_SP:Dwiyana_RF
+14170475|1|03/04/2015|Medmeme|M||Yunus|Division of Dermatowenereology Department of Medicine. Faculty of Medicine, WahidinSudirohusodo Hospital, Hasanuddin University|Makassar||Indonesia||Tabri_T:Rimayani_S:Utami_IT
+14178453|1|06/19/2015|Medmeme|D.||Zaharieva|NSA|Sofia||Bulgaria||
+14178043|1|06/19/2015|Medmeme|A.||Zão|Centro Hospitalar do Porto|Porto||Switzerland||Ataide_S.:Camelo_A.
+14177904|1|06/19/2015|Medmeme|A.||Zão|Centro Hospitalar do Porto|Porto||Switzerland||Correia_A. R.:Camelo_A.
+14177905|1|06/19/2015|Medmeme|A.||Zão|Centro Hospitalar do Porto|Porto||Switzerland||Moreira_C.:Coutinho_F.:Barroso_P.
+14177251|1|06/19/2015|Medmeme|A.||Zarghi||Tehran||Iran||
+14164982|1|05/31/2015|Medmeme|Adam||Zdeněk|Interní hematologická a onkologická klinika LF MU a FN Brno|||||Szturz_Petr:Pour_Luděk:Krejčí_Marta
+14177948|1|06/19/2015|Medmeme|H.||Zerouga|EHS Pédiatrique Canastel|||||Rebib_N.:Zineb_T.:Fatima_Z.:Douma_N.:Belkadi_A.
+14165890|1|06/21/2015|Medmeme|V||Zevallos|University of Mainz, Institute of Translational Immunology|||Germany||Weinmann-Menke_J:Meineck_M:Schuppan_D
+14173848|1|12/04/2014|Medmeme|Kai||Zhang|School of Medical Science & Griffith Health Institute, Gold Coast Campus, Griffith University|Southport, QLD 4222||Australia||Ping Xu_Zhi:Lu_Ji:Yong Tang_Zhi:Jun Zhao_Hui:Good_David A.:Qian Wei_Ming
+14177817|1|06/19/2015|Medmeme|T.||Zhang|West China Hospital, Sichuan University|Chengdu||Switzerland||Wang_P.:Yang_N.:Liu_E.:He_C.
+14169813|1|11/28/2014|Medmeme|Yichi||Zhang|Carleton University|||||
+14177825|1|06/19/2015|Medmeme|N.||Zhou|The Second Affiliated Hospital of KMU|||||Ao_L.
+14169859|1|05/14/2014|Medmeme|Xinyu||Zhou|Department of Surgery, Davis Heart and Lung Research Institute, Wexner Medical Center, The Ohio State University|||||Ho Park_Ki:Lin_Pei-hui:Sun_Mingzhai:Duann_Pu:Yamazaki_Daiju:Wayne Chen_S.R.:Takeshima_Hiroshi:Ma_Jianjie
+14174313|1|04/30/2015|Medmeme|Timo||Zippelius||Eisenberg||||Perka_C.:Putzier_M.:Matziolis_G.:Strube_P.
+14156566|1|05/09/2015|Medmeme|M.||Zippi|Unit of Gastroenterology and Digestive Endoscopy, Sandro Pertini Hospital|Rome||Italy||Del Citto_B.:Grassi_G.:Cocco_A.:Cassieri_C.:Marzano_C.:Pentassuglio_I.:Parlati_L.:Febbraro_I.
+14172389|1|09/17/2014|Medmeme|Flavia||Zita Francies|Department of Radiation Biophysics, iThemba LABS|Somerset West||||Herd_Olivia:Cairns_Alan:Vral_Anne:Petrus Slabbert_Jacobus:Baeyens_Ans
+14170450|1|03/25/2015|Medmeme|Jitka L||Zobal-Ratner||||||Krishan-Dave_Nisha:Motley_William W:Peragallo_Jason H:Braverman_Rebecca S:Capo_Hilda:Rotberg_Leemor:Rutar_Tina:Schmitt_Melanie
+14173124|1|06/26/2015|Medmeme|Lisa||Zondag|University of Otago, Department of Anatomy, School of Medical Sciences|Dunedin||New Zealand||Rutherford_Kim:Wilson_Megan
+14177757|1|06/19/2015|Medmeme|N.||Zoukeri|MTKassab Institute|Manouba||Switzerland||Dziri_S.:Kharrat_O.:Miri_I.:Lebib_S.:Ben Salah_F. Z.:Dziri_C.
+14173849|1|12/04/2014|Medmeme|Abu Hasanat||Zulfiker|School of Medical Science & Griffith Health Institute, Griffith University|Gold Coast||Australia||Sohrabi_Mohsen:Darren Grice_I.:Wei_Ming Q.
+14172548|1|07/30/2015|Medmeme|H.||zur Hausen|German Cancer Research Center|Heidelberg||Germany||

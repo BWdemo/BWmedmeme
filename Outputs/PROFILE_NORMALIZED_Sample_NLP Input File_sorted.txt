@@ -1,0 +1,956 @@
+1|M.E.A. Abdalsalam|M.E.A.| |Abdalsalam|University of Khartoum|Sudan|null|Sudan| |
+2|N. Abdelkafi|N.| |Abdelkafi|Hopital Sahloul|Sousse|null|Switzerland| |
+3|M. Abolhasani|M.| |Abolhasani|Tehran University Of Medical Sciences|Tehran|null|Iran| |
+4|Khaldoon Abudaqqa|Khaldoon| |Abudaqqa||Markgroningen|null|null| |
+5|David Ackerley|David| |Ackerley|Victoria University of Wellington|Wellington|null|New Zealand| |
+6|Gbenga A Adefolaju|Gbenga A| |Adefolaju|University of Limpopo|null|null|South Africa| |
+7|B. Adeyemo|B.| |Adeyemo|Emory University|Atlanta|Georgia|United States| |
+8|B. Adeyemo|B.| |Adeyemo|Emory University|Atlanta|null|Switzerland| |
+9|Sabrina Adkins|Sabrina| |Adkins||null|null|null| |
+10|Sumita Agarkar|Sumita| |Agarkar|Medical Research Foundation|Chennai|null|India| |
+11|A Ahamad|A| |Ahamad|Century 21|Century|null|United States| |
+12|Nadeem Ahmed|Nadeem| |Ahmed|Combined Military Hospital Attock|Attock|null|Pakistan| |
+13|Sadiyya Ahmed-Hassen|Sadiyya| |Ahmed-Hassen|University of Witwatersrand|null|null|null| |
+14|A. Al Khayer|A.| |Al Khayer|Al Ahli Hospital|Doha|null|Switzerland| |
+15|K. Alabbadi|K.| |Alabbadi||Amman|null|Jordan| |
+16|Aiste Aleliunaite|Aiste| |Aleliunaite|University of Copenhagen|Copenhagen|null|Denmark| |
+17|Shatha H Alfreihi|Shatha H| |Alfreihi|University Of California Los Angeles|Los Angeles|California|United States| |
+18|O. J. Ali Morell|O. J.| |Ali Morell|Fundacion Purisima Concepcion|Concepcion|Concepcion|Paraguay| |
+19|F. Alibrahim|F.| |Alibrahim|King Saud University|Riyadh|Sa|Saudi Arabia| |
+20|Elham Alizadeh Pasdar|Elham| |Alizadeh Pasdar|Griffith University|Southport|null|Australia| |
+21|E. Allart|E.| |Allart|Lille University Hospital|Lille|null|France| |
+22|Ana Allende|Ana| |Allende|CSIC|Murcia|Murcia|Spain| |
+23|Jacob Al-Saleem|Jacob| |Al-Saleem|The Ohio State University|Ohio|Ohio|United States| |
+24|Eliz Amar-Lewis|Eliz| |Amar-Lewis|Ben Gurion University of the Negev|Beer-Sheva|null|Israel| |
+25|Ruchi Amin|Ruchi| |Amin|Wayne State University School of Medicine|State University|null|United States| |
+26|Katie L. Anderson|Katie L.| |Anderson|University of Minnesota College of Veterinary Medicine|null|Minnesota|United States| |
+27|M. Anic|M.| |Anic|Institute for Rehabilitation|Belgrade|RS|Yugoslavia| |
+28|Sandra Andorf|Sandra| |Andorf|Sean n Parker Center for Allergy Research at Stanford University|null|null|United States| |
+29|Nicolas Andre|Nicolas| |Andre|CHU Timone Enfants|Marseille|null|France| |
+30|E. Andrenelli|E.| |Andrenelli|Politecnica delle Marche University|Ancona|Marche|Italy| |
+31|M. Andriana|M.| |Andriana|Airlangga University|null|null|Indonesia| |
+32|Carol Ann Benn|Carol| |Ann Benn|University of the Witwatersrand|null|null|null| |
+33|Aziz Anteena|Aziz| |Anteena|Handicap International Bangladesh|Dhaka|null|Bangladesh| |
+34|F. Anwar|F.| |Anwar|Addenbrooke's Hospital|Cambridge|null|Switzerland| |
+35|L. Ao|L.| |Ao||Kunming|null|China| |
+36|M. Arias Franco|M.| |Arias Franco|Universidad Nacional de Colombia|Bogota|null|Switzerland| |
+37|M. Arias Franco|M.| |Arias Franco|Universidad Nacional de Colombia|Bogota|null|Colombia| |
+38|A. Arnal|A.| |Arnal|CREEC and MIVEGEC|Montpellier|null|France| |
+39|Pravit Asawanonda|Pravit| |Asawanonda|Chulalongkorn University|Bangkok|null|Thailand| |
+40|Muhammad Ashar Malik|Muhammad| |Ashar Malik|Department of Community Health Sciences|null|null|null| |
+41|A. Askin|A.| |Askin|Izmir Katip Celebi University|Izmir|Izmir|Switzerland| |
+42|A. Assucena|A.| |Assucena|Valencia|Requena|null|Spain| |
+43|E. Atabas|E.| |Atabas|ZPRM|Bonn|null|Germany| |
+44|Md Atiqur Rahman|Md| |Atiqur Rahman|Griffith University|Gold Coast|null|Australia| |
+45|C. Atkinson|C.| |Atkinson|Griffith University|Gold Coast|null|Australia| |
+46|Robert A Avery|Robert A| |Avery|Children's National Medical Center|Washington|District Of Columbia|United States| |
+47|D. Avramescu|D.| |Avramescu|National Institute of Physical Medicine and Rehabilitation|Bucharest|Bucuresti|Romania| |
+48|S. B. Ayaz|S. B.| |Ayaz|Armed Forces Institute of Rehabilitation Medicine|Rawalpindi|null|Pakistan| |
+49|David Aylor|David| |Aylor|North Carolina State University|State University|North Carolina|United States| |
+50|A Azminingrum|A| |Azminingrum|Department of Dermato Venereology Faculty of Medicine Airlangga University Dr Soetomo General Hospital Surabaya|Surabaya|null|Indonesia| |
+51|A. Backredee|A.| |Backredee|University of the West Indies|null|Tobago|Trinidad and Tobago| |
+52|S. Baek|S.| |Baek|Kangwon National University Hospital|null|null|null| |
+53|Robert Bai|Robert| |Bai|Jefferson Medical College of Thomas Jefferson University|Jefferson|null|United States| |
+54|D. Bakalidou|D.| |Bakalidou|Technological Educational Institution of Athens|Athens|null|Greece| |
+55|M Bakr|M| |Bakr|Gold Coast Campus Griffith University|Gold Coast|null|Australia| |
+56|Subhasree Balakrishnan|Subhasree| |Balakrishnan|College of Medicine|null|null|null| |
+57|A. Baldi|A.| |Baldi|Servio Immnunotrasfusionale|Massa|null|Italy| |
+58|K Balihar|K| |Balihar|Charles University Medical Faculty and Teaching Hospital|Plzen|null|Czech Republic| |
+59|V Bandoo|V| |Bandoo|Eric Williams Medical Sciences Complex|Trinidad|null|null| |
+60|Ayuna Barlukova|Ayuna| |Barlukova|Aix Marseille University|Marseille|null|France| |
+61|F. Barone|F.| |Barone|Ospedale di Lagonegro|Italy|null|Italy| |
+62|Gerard P Barry|Gerard P| |Barry|Albany Medical College 47 New Scotland Ave|Albany|ny|null| |
+63|Sivasubramanian Baskar|Sivasubramanian| |Baskar|National Cancer Institute|Bethesda|Maryland|United States| |
+64|C. Bassino|C.| |Bassino|UO di Medicina|Italy|null|Italy| |
+65|L. Baumann-Birkbeck|L.| |Baumann-Birkbeck|Griffith University|Gold Coast|null|Australia| |
+66|Brendan Bebington|Brendan| |Bebington|University of the Witwatersrand|null|null|null| |
+67|Mags Beksinska|Mags| |Beksinska|University of the Witwatersrand|null|null|null| |
+68|K Bell|K| |Bell|Bond University|Robina|null|Australia| |
+69|Trevor Bell|Trevor| |Bell|University of Witwatersrand|null|null|null| |
+70|Y. Benchikh El Fegoun|Y.| |Benchikh El Fegoun|Ipsen|Paris|null|France| |
+71|C. Bentivenga|C.| |Bentivenga|Ospedale S Orsola|Bologna|null|Italy| |
+72|Sebastien Benzekry|Sebastien| |Benzekry|INRIA|null|null|null| |
+73|Mark Berneburg|Mark| |Berneburg|University Hospital|Regensburg|null|Germany| |
+74|Shauna E Berry|Shauna E| |Berry|Larkin Community Hospital|Miami|Florida|United States| |
+75|A Bezawork-Geleta|A| |Bezawork-Geleta|La Trobe University|Melbourne|null|Australia| |
+76|Thomas Bieber|Thomas| |Bieber|University of Bonn|Bonn|null|Germany| |
+77|Angeliki Birmpa|Angeliki| |Birmpa|University of Patras|Patras|null|Greece| |
+78|S. D. Birsan|S. D.| |Birsan||Oradea|RO|Romania| |
+79|S. D. Birsan|S. D.| |Birsan||Oradea|RO|Romania| |
+80|SR. Bista|SR.| |Bista|Griffith University|Gold Coast|null|Australia| |
+81|Duane Blaauw|Duane| |Blaauw|University of the Witwatersrand|null|null|null| |
+82|John J. Black|John J.| |Black|University of Pittsburgh School of Medicine|Pittsburgh|null|United States| |
+83|Rosa E Blanco|Rosa E| |Blanco|Institute of Neurobiology and Department of Anatomy University of Puerto Rico|Rico|null|Puerto Rico| |
+84|E. Blasi|E.| |Blasi|Medicina per la Complessita Assistenziale i|Firenze|null|Italy| |
+85|Rachel Blevins|Rachel| |Blevins||null|null|null| |
+86|L. Boaventura|L.| |Boaventura||Maia|null|Portugal| |
+87|L. Boaventura|L.| |Boaventura||Maia|null|Portugal| |
+88|L. Boaventura|L.| |Boaventura||Maia|null|Portugal| |
+89|Magdalena Bogdaska|Magdalena| |Bogdaska|Institute of Applied Mathematics and Mechanics University of Warsaw and Mathematical Oncology Laboratory Universidad de Castilla La Mancha|Warsaw|null|Poland| |
+90|Lennart Bogg|Lennart| |Bogg|Malaradalen University|Vasteras|null|Sweden| |
+91|Marc Bolliger|Marc| |Bolliger|Spinal Cord Injury Center Balgrist|Zurich|Zurich|Switzerland| |
+92|C. Bologna|C.| |Bologna|Association Of Perioperative Registered Nurses A Cardarelli|Napoli|null|Italy| |
+93|M. Bongiovanni|M.| |Bongiovanni|UO Medicina i|null|null|null| |
+94|R. Boni|R.| |Boni|Ospedale a Cardarelli|Napoli|null|Italy| |
+95|Dana-Adriana Botesteanu|Dana-Adriana| |Botesteanu|University of Maryland|Maryland|null|United States| |
+96|J.- B. Bouee|J.- B.| |Bouee|Fondation ILDYS|Roscoff|null|null| |
+97|Tarryn Bourhill|Tarryn| |Bourhill|University of Witwatersrand|null|null|null| |
+98|A. Bovero|A.| |Bovero|Ospedale Santa Corona|Italy|null|Italy| |
+99|David P. Bowles|David P.| |Bowles|Ohio State University|Ohio|Ohio|United States| |
+100|Martin Brand|Martin| |Brand|Cardiovascular Pathophysiology and Genomics Research Unit School of physiology|null|null|null| |
+101|V. Bras da Silva|V.| |Bras da Silva|Hospital Curry Cabral|Lisbon|null|Switzerland| |
+102|Andreas Breil-Wirth|Andreas| |Breil-Wirth||Neuss|null|Germany| |
+103|Zacharias Brimnes Visby Damholt|Zacharias| |Brimnes Visby Damholt|Technical University of Denmark|Denmark|null|Denmark| |
+104|L. Brugioni|L.| |Brugioni|Medicina Interna Area Critica|Modena|null|Italy| |
+105|N. Buaron|N.| |Buaron|Ben Gurion University of the Negev|null|null|Israel| |
+106|N. Buccianti|N.| |Buccianti|Ospedale Madonna delle Grazie|Matera|null|Italy| |
+107|Petra Buchin-Emunds|Petra| |Buchin-Emunds||Markgroningen|null|null| |
+108|T. Bucma|T.| |Bucma|Institute for Physical Therapy and Rehabilitation Dr Miroslav Zotovic Banjaluka|null|null|null| |
+109|E. Bukreeva|E.| |Bukreeva|Child Health Care Research Clinic|Moscow|null|Switzerland| |
+110|Svetlana Bunimovich-Mendrazitsky|Svetlana| |Bunimovich-Mendrazitsky|Ariel University|Ariel|null|United States| |
+111|Warren Burggren|Warren| |Burggren|University of North Texas|null|Texas|United States| |
+112|T. Burkard|T.| |Burkard|University Hospital|Basel|null|Switzerland| |
+113|D. Burke|D.| |Burke|Emory University|Atlanta|Georgia|United States| |
+114|Sophie Butot|Sophie| |Butot|Nestle Research Centre|Lausanne|null|Switzerland| |
+115|R. Cadilha|R.| |Cadilha||Viana do Castelo|Viana do Castelo|Portugal| |
+116|J.M.F. Caeiro|J.M.F.| |Caeiro||null|null|null| |
+117|Kirk E. Cahill|Kirk E.| |Cahill|The University of Chicago Pritzker School of Medicine|Chicago|null|United States| |
+118|Julie K Calderwood|Julie K| |Calderwood|Saint Jude Children's Research Hospital|Memphis|Tennessee|United States| |
+119|Julia Caldwell|Julia| |Caldwell|Penn State Hershey Medical Center|null|null|null| |
+120|R. Calvi|R.| |Calvi|Ospedale di Mondovi ASL CN1|Cuneo|null|Italy| |
+121|Geoffrey Candy|Geoffrey| |Candy|University of the Witwatersrand|null|null|null| |
+122|R. Cant|R.| |Cant|Monash University|Melbourne|null|Australia| |
+123|Vincenzo Capasso|Vincenzo| |Capasso|ADAMSS University degli Studi di Milano|Milano|null|null| |
+124|D. Carballo|D.| |Carballo|University Hospital|Geneve|Geneve|Switzerland| |
+125|O. Cardoso|O.| |Cardoso|Centro Hospitalar do Alto Ave|Porto|Porto|Switzerland| |
+126|P. Carfagna|P.| |Carfagna|Medicina Interna|Roma|null|null| |
+127|A. B. Carli|A. B.| |Carli|Golcuk Military Hospital|Kocaeli|Kocaeli|Turkey| |
+128|Randall S. Carpenter|Randall S.| |Carpenter|The Ohio State University|Columbus|Ohio|United States| |
+129|Cecile Carrere|Cecile| |Carrere|Aix Marseille Universite|Marseille|null|France| |
+130|A. Carter|A.| |Carter|Griffith University|Gold Coast|null|Australia| |
+131|Y. Castaneda|Y.| |Castaneda|Universidad Autonoma del Estado de Mexico|Distrito Federal|Distrito Federal|Switzerland| |
+132|L. Castelnovo|L.| |Castelnovo|UOC Medicina Interna|Italy|null|Italy| |
+133|Liliana Cattenazzi|Liliana| |Cattenazzi|Hospital Gral.de AgudosDr Jm Pennadel GCABA|null|null|Argentina| |
+134|M. Cavaliere|M.| |Cavaliere|Medicina i|Savona|null|Italy| |
+135|C Cave|C| |Cave|University of the West Indies, , Trinidad and Tobago|null|Tobago|Trinidad and Tobago| |
+136|Eleanor Cave|Eleanor| |Cave|University of Witwatersrand|null|null|null| |
+137|Carlos Celentano|Carlos| |Celentano||Buenos Aires|San Martin|Argentina| |
+138|Liliana Celman|Liliana| |Celman|Htal Gral De Agudos Dr Cosme Argerich|Buenos Aires|null|Argentina| |
+139|G. Cerasari|G.| |Cerasari|Epatologia Clinica|Roma|null|null| |
+140|M. G. Ceravolo|M. G.| |Ceravolo|Politecnica delle Marche University|Ancona|Marche|Italy| |
+141|Nattineeporn Chantaranothai|Nattineeporn| |Chantaranothai|Borommarajonani College of Nursing Nakhonratchasima|null|null|null| |
+142|Mark Chaplain|Mark| |Chaplain|School of Mathematics and Statistics University of St Andrews|St Andrews|null|United Kingdom| |
+143|C. Chen|C.| |Chen|Fudan University|null|null|China| |
+144|C.- H. Chen|C.- H.| |Chen||Kaohsiung|null|Taiwan| |
+145|Evan C. Chen|Evan C.| |Chen|Stanford University School of Medicine|null|null|null| |
+146|S.- Y. Chen|S.- Y.| |Chen|National Taiwan University Hospital and National Taiwan University College of Medicine|Taipei|null|Switzerland| |
+147|F.- Y. Cheng|F.- Y.| |Cheng||Taipei|null|Taiwan| |
+148|Jinwoo Cheon|Jinwoo| |Cheon|Yonsei University|null|null|Korea, South| |
+149|H. Cheong|H.| |Cheong|Jeonju Jeollabukdo|null|null|Korea, South| |
+150|Douglas G. Cheung|Douglas G.| |Cheung|Ohio State University|Columbus|Ohio|United States| |
+151|Michael F Chiang|Michael F| |Chiang||null|null|null| |
+152|Lou Chitkushev|Lou| |Chitkushev|Boston University|Boston|null|United States| |
+153|Pradeep Cholan|Pradeep| |Cholan|Gold Coast University Hospital|Southport|null|Australia| |
+154|Pleumjit Chotiga|Pleumjit| |Chotiga|Boromarajonani College of Nursing Chiangmai|null|null|Thailand| |
+155|L. Christophe|L.| |Christophe|Centre de Recherche en Neurosciences de Lyon|Bron|null|null| |
+156|M. Christova|M.| |Christova|Medical University Graz|Graz|null|Switzerland| |
+157|T. H. Chung|T. H.| |Chung|University of Ulsan|Ulsan|null|Korea, South| |
+158|Gary Churchill|Gary| |Churchill|The Jackson Laboratory|Jackson|null|United States| |
+159|R Ciccocioppo|R| |Ciccocioppo|University of Pavia|Italy|null|Italy| |
+160|C. Cicognani|C.| |Cicognani|Ospedale Bellaria|null|null|null| |
+161|Tomasz Cielak|Tomasz| |Cielak||IMPAN|null|null| |
+162|D. Ciervo|D.| |Ciervo|Medicina per la Complessita Assistenziale i|Italy|null|Italy| |
+163|R. Cimino|R.| |Cimino|Society Of Camera Operators Medicina Generale|null|null|null| |
+164|Annika Claesson|Annika| |Claesson||null|null|null| |
+165|Jean Clairambault|Jean| |Clairambault|INRIA|null|null|null| |
+166|C.D.S.G. Cleo Daas|C.D.S.G.| |Cleo Daas|CLEO Rome|Italy|null|Italy| |
+167|Elize Cloete|Elize| |Cloete|University of the Witwatersrand|null|null|null| |
+168|Sheron Cogo|Sheron| |Cogo|PUCPR|Brazil|null|Brazil| |
+169|NJ. Colson|NJ.| |Colson|Griffith University|Gold Coast|null|Australia| |
+170|S. Conroy|S.| |Conroy|Gold Coast University Hospital|Queensland|Queensland|Australia| |
+171|Demitri Constantinou|Demitri| |Constantinou|University of The Witwatersrand|null|null|null| |
+172|Nigel Cook|Nigel| |Cook|The Food and Environment Research Agency|York|null|United Kingdom| |
+173|Grace L. Cooper|Grace L.| |Cooper|The Ohio State University College of Medicine|Columbus|Ohio|United States| |
+174|Jonathan A. Copp|Jonathan A.| |Copp|University of California|California|California|United States| |
+175|Matthew M. Corriveau|Matthew M.| |Corriveau|Geisinger Anesthesiology Residency Program|null|null|null| |
+176|M. Costa|M.| |Costa|SC Medicina Interna|La Spezia|null|Italy| |
+177|N. Costantini|N.| |Costantini|Medicina Interna ed Emocoagulopatie|Italy|null|Italy| |
+178|M. B. Cotter|M. B.| |Cotter|Hospital de Braga|Guimaraes|Braga|Portugal| |
+179|Victor Crivianu-Gaita|Victor| |Crivianu-Gaita|University of Toronto|Toronto|null|Canada| |
+180|A. Crociani|A.| |Crociani|Medicina Interna per la Complessita Assistenziale i|Firenze|null|Italy| |
+181|W Crookendale|W| |Crookendale|Heritage Surgical Services|Saint Michael|Saint Michael|Barbados| |
+182|Brandon Crowe|Brandon| |Crowe||null|null|null| |
+183|A. Cruz|A.| |Cruz|Centro Hospitalar Lisboa Central|Central|Lisboa|Portugal| |
+184|C. Cruz|C.| |Cruz|Hospital de Braga|Braga|Braga|Switzerland| |
+185|L. Cruz|L.| |Cruz||null|null|null| |
+186|Anna Cseke|Anna| |Cseke|Medical University of Vienna|Vienna|null|Austria| |
+187|I. Cunha|I.| |Cunha||Rio Tinto|null|null| |
+188|Michelle Da Costa|Michelle| |Da Costa|Allegheny Health Network|Pittsburgh|Pennsylvania|United States| |
+189|George Q. Daley|George Q.| |Daley|Boston Children's Hospital|Boston|null|United States| |
+190|Amanda Damasceno de Souza|Amanda| |Damasceno de Souza|Federal University of Minas Gerais|Belo Horizonte|Minas Gerais|Brazil| |
+191|Louise Damgaard Thomasen|Louise| |Damgaard Thomasen|Aarhus University Department of Bioscience|Denmark|null|Denmark| |
+192|Kuzilkova Daniela|Kuzilkova| |Daniela|Childhood Leukemia Investigation Prague|Prague|null|Czech Republic| |
+193|P Das|P| |Das|All India Institute of Medical Sciences|New Delhi|null|India| |
+194|A. Datta Gupta|A.| |Datta Gupta|University of Adelaide|Adelaide|null|Australia| |
+195|Alejandro De Feria-Alsina|Alejandro| |De Feria-Alsina|Vanderbilt University School of Medicine|null|null|null| |
+196|C. De Miguel Benadiba|C.| |De Miguel Benadiba|Hospital Ramon y Cajal|null|null|null| |
+197|Ann De Rice|Ann| |De Rice|Hennepin County Medical Center|null|null|United States| |
+198|Julie E. De Vore|Julie E.| |De Vore|University of Pittsburgh Medical Center|Pittsburgh|null|United States| |
+199|P. De Vriendt|P.| |De Vriendt|Vrije University Brussel|Brussels|Brussels|Switzerland| |
+200|F. De Wolfe Miller|F.| |De Wolfe Miller|University of Hawaii|Honolulu|Hawaii|United States| |
+201|G. Degl'Innocenti|G.| |Degl'Innocenti|Medicina della Complessita Assistenziale i|Firenze|null|Italy| |
+202|M.T. Del Genio|M.T.| |Del Genio|UOSC Medicina Interna III|Napoli|null|Italy| |
+203|Maria Del Pilar Vendrell|Maria| |Del Pilar Vendrell|Profesionales Latinoamericanos/as c/ el Abuso de Poder|CABA|null|Argentina| |
+204|Marcello Delitala|Marcello| |Delitala|Politecnico di Torino|Torino|null|Italy| |
+205|E. Delsignore|E.| |Delsignore|Ospedale s Andrea|Vercelli|null|Italy| |
+206|Aurelie Deroubaix|Aurelie| |Deroubaix|University of the Witwatersrand|null|null|null| |
+207|Ray Devine|Ray| |Devine|Nationwide Research Institute|null|null|null| |
+208|Wilawan Dhanawan|Wilawan| |Dhanawan|Boromarajonani College of Nursing Suphanburi|null|null|null| |
+209|I. Di Milo|I.| |Di Milo|Ospedale Mondovi|Cuneo|null|Italy| |
+210|A. Diana|A.| |Diana|Ospedale Civile di Legnano|Italy|null|Italy| |
+211|A. Diaz|A.| |Diaz|Federal University of Santa Catarina|Catarina|null|United States| |
+212|A. Dikici|A.| |Dikici|Afyon State Hospital|null|Afyon|Turkey| |
+213| Djohan|| |Djohan|Division of Dermatology Faculty of Medicine H Adam MalikGeneral Hospital Sumatera Utara University|null|Sumatera Utara|Indonesia| |
+214|Gunther Dohlemann|Gunther| |Dohlemann|University of Cologne|Cologne|null|Germany| |
+215|S. Domingues|S.| |Domingues|Hospital de Santa Maria|Lisboa|Lisboa|Switzerland| |
+216|Sean P Donahue|Sean P| |Donahue||null|null|null| |
+217|P. Doruk|P.| |Doruk|Baskent University|Adana|Adana|Switzerland| |
+218|Y. Dovgalyuk|Y.| |Dovgalyuk|Ivanovo State Medical Academy|Ivanovo|null|Switzerland| |
+219|C. Doyle|C.| |Doyle|Indiana University Southeast|New Albany|Indiana|United States| |
+220|Melanie Drace|Melanie| |Drace|University of Witwatersrand|null|null|null| |
+221|Timothy Dreyer|Timothy| |Dreyer|University of Witwatersrand|null|null|null| |
+222|Sybille Duhring|Sybille| |Duhring|Friedrich Schiller University Jena|Jena|null|Germany| |
+223|Dominique Duncan|Dominique| |Duncan|UC Davis|Davis|null|null| |
+224|Vania Duxbury|Vania| |Duxbury|University of the Witwatersrand|null|null|null| |
+225|S Edwards-Bennett|S| |Edwards-Bennett|21st Century Oncology|null|null|United States| |
+226|E.- A. Efstratiadou|E.- A.| |Efstratiadou|Iatriki Askisi|Athens|GR|Greece| |
+227|Daniel Eichberg|Daniel| |Eichberg|University of Maryland School of Medicine|Maryland|null|United States| |
+228|Hala El Asmy|Hala| |El Asmy|National Institute For Scientific Research|null|null|null| |
+229|Mohamad Elbaz|Mohamad| |Elbaz|Pathology OSU|null|null|null| |
+230|Dean Elizabeth|Dean| |Elizabeth|University of British Columbia|Canada|British Columbia|Canada| |
+231|MH Emami|MH| |Emami|Poursina hakim research institution|Isfahan|null|Iran| |
+232|B.B. Endaya|B.B.| |Endaya|Griffith University|Gold Coast|Queensland|Australia| |
+233|S. Ergul|S.| |Ergul|Research Hospital|Ankara|Ankara|Switzerland| |
+234|S. Eroglu|S.| |Eroglu|Afyon Kocatepe University|Afyonkarahisar|Afyon|Turkey| |
+235|Afenya Evans|Afenya| |Evans|Elmhurst College|null|null|null| |
+236|Ellen Evans|Ellen| |Evans|Cardiff Metropolitan University|Cardiff|null|United Kingdom| |
+237|O Evans|O| |Evans|Griffith University|null|Queensland|Australia| |
+238|P. Ewald|P.| |Ewald|University of Louisville|null|null|United States| |
+239|Marco Ezechieli|Marco| |Ezechieli||Hannover|null|Germany| |
+240|A. Fabbri|A.| |Fabbri|Azienda Ospedaliera Universitaria Careggi|Firenze|null|Italy| |
+241|P. Faggioli|P.| |Faggioli|AO Ospedale Civile di Legnano|Italy|null|Italy| |
+242|Gennae Falconer|Gennae| |Falconer||null|null|null| |
+243|Sora Fallaha|Sora| |Fallaha|Griffith University|Southport|Queensland|Australia| |
+244|Rano Faltas|Rano| |Faltas|Sidney Kimmel Medical College of Thomas Jefferson University Hospital|Jefferson|null|United States| |
+245|Ni Fan|Ni| |Fan|Laboratory of Mechanistic Glycobiology|null|null|null| |
+246|S Farr|S| |Farr|Bond University|null|Coast|Kenya| |
+247|H. Fernandes|H.| |Fernandes||Porto|Porto|Portugal| |
+248|K. Ferrat|K.| |Ferrat|CRSTDLA|Algiers|null|Switzerland| |
+249| Ffrench-Constant|| |Ffrench-Constant||null|null|null| |
+250|M. Fiorani|M.| |Fiorani|Ospedale Sandro Pertini|Roma|null|null| |
+251|S. Fiorino|S.| |Fiorino|Ospedale di Budrio|null|null|null| |
+252|Gregory Firth|Gregory| |Firth|University of the Witwatersrand|null|null|null| |
+253|J. Floris|J.| |Floris|University of Zurich|Zurich|Zurich|Switzerland| |
+254|Joanna AM Flynn|Joanna AM| |Flynn|Medical Board of Australia|null|null|Australia| |
+255|Kyle Foerster|Kyle| |Foerster||null|null|null| |
+256|Oladayo S Folasire|Oladayo S| |Folasire|Faculty of Health Sciences& Medicine Bond University|Gold Coast|Queensland|Australia| |
+257|YW Foong|YW| |Foong|Dermatology Service KK Women's and Children's Hospital|Singapore|null|Singapore| |
+258|Urszula Fory|Urszula| |Fory|Faculty of Mathematics, Informatics and Mechanics University of Warsaw|Warsaw|null|Poland| |
+259|W Francis|W| |Francis||null|null|null| |
+260|G. Francisco|G.| |Francisco|University of Texas Health Science Center and TIRR Memorial Hermann|Houston|null|Switzerland| |
+261|R Francois|R| |Francois|University of the West Indies|Bridgetown|null|Barbados| |
+262|S. Freitas|S.| |Freitas|University of Porto|Porto|Porto|Portugal| |
+263|Avner Friedman|Avner| |Friedman|Ohio State University|Ohio|Ohio|United States| |
+264|S. Frioui|S.| |Frioui|Medecine Sousse|Sousse|null|Switzerland| |
+265|Krzysztof Fujarewicz|Krzysztof| |Fujarewicz|Silesian University of Technology|null|null|Poland| |
+266|Philipp Funovics|Philipp| |Funovics||Wien|Wien|Austria| |
+267|Eva Gajdosova|Eva| |Gajdosova|Manchester Royal Eye Hospital|Manchester|null|United Kingdom| |
+268|S. Galliazzo|S.| |Galliazzo|University degli Studi di Padova|Treviso|null|Italy| |
+269|M. Gamauf|M.| |Gamauf|LKNOE Mistelbach|Vienna|null|Switzerland| |
+270|O. Ganenko|O.| |Ganenko|Federal Medical Investigation Almazov's Center|null|null|null| |
+271|J. Garcia Gomez|J.| |Garcia Gomez|University of Almeria|Almeria|null|Spain| |
+272|E. Garlatti Costa|E.| |Garlatti Costa|Dipartimento Medicina Interna|Pordenone|null|Italy| |
+273|H. Gassner|H.| |Gassner|Universitatsklinikum Erlangen|Erlangen|null|Germany| |
+274|Shachar Gat|Shachar| |Gat|Ben Gurion University of the Negev|null|null|Israel| |
+275|Maradona Gatara|Maradona| |Gatara|University of the Witwatersrand|null|null|null| |
+276|A. Gatti|A.| |Gatti|San Gennaro Hospital|Naples|null|null| |
+277|R George|R| |George||null|null|null| |
+278|Andrius Giedraitis|Andrius| |Giedraitis|University of Pittsburgh Medical Center|Pittsburgh|Pennsylvania|United States| |
+279|Z. A. Gill|Z. A.| |Gill|CMH Hospital Malir Cantt|Karachi|null|Pakistan| |
+280|M. Gimenez Alcantara|M.| |Gimenez Alcantara|Hospital Universitario Virgen del Rocio|Sevilla|null|Spain| |
+281|F. Gimigliano|F.| |Gimigliano|Second University of Naples|Naples|null|Italy| |
+282|R. Giorgio|R.| |Giorgio|Azienda Ospedaliera s Anna e s Sebastiano|Caserta|null|Italy| |
+283|A Glasgow|A| |Glasgow|Eric Williams Medical Sciences Complex|Trinidad|null|null| |
+284|I. Gowacka|I.| |Gowacka|Nicolaus Copernicus University in Torun|Bydgoszcz|null|Switzerland| |
+285|Bridgette Goeieman|Bridgette| |Goeieman|University of the Witwatersrand|null|null|null| |
+286|Z. Gok Metin|Z.| |Gok Metin|Hacettepe University|Ankara|Ankara|Switzerland| |
+287|JM. Goldstein|JM.| |Goldstein|Gold Coast University Hospital|Queensland|Queensland|Australia| |
+288|F. Gonzalez Candelas|F.| |Gonzalez Candelas|Unidad Mixta Infeccion y Salud Publica FISABIO Univ|Valencia|null|null| |
+289|V Gopalan|V| |Gopalan|Griffith University|Gold Coast|null|Australia| |
+290|Louisa G Gordon|Louisa G| |Gordon|Prostate Cancer Foundation of Australia|Sydney|null|Australia| |
+291|M. Goruleva|M.| |Goruleva|Federal Medical Investigation Almazov's Center|null|null|null| |
+292|Hazel Gowland|Hazel| |Gowland|Allergy Action|Saint Albans|null|United Kingdom| |
+293|Sara F Grace|Sara F| |Grace|Bascom Palmer Eye Institute|Miami|Florida|United States| |
+294|H. Green|H.| |Green|Griffith University|Gold Coast|null|Australia| |
+295|Michael Green|Michael| |Green|Drexel University College of Medicine Department of Anesthesiology|null|null|null| |
+296|Benjamin A. Greenberger|Benjamin A.| |Greenberger|Massachusetts Institute of Technology|null|Massachusetts|United States| |
+297|C. Greenidge|C.| |Greenidge||null|null|Saint Lucia| |
+298|Andrew M. Gregg|Andrew M.| |Gregg|The Rockefeller University|null|null|United States| |
+299|Victor Greiff|Victor| |Greiff|ETH Zurich|Basel|Zurich|Switzerland| |
+300|Fabio Grizzi|Fabio| |Grizzi|Humanitas Clinical and Research Hospital|null|null|null| |
+301|Nan Guo|Nan| |Guo|Stanford University School of Medicine|null|null|null| |
+302|Annelie Gusdal|Annelie| |Gusdal|Malardalen University|null|null|null| |
+303|Lena-Karin Gustafsson|Lena-Karin| |Gustafsson|Malardalen University|null|null|null| |
+304|Edward Guy|Edward| |Guy|Public Health Wales|Swansea|Wales|United Kingdom| |
+305|Aram Gyulkhandanyan|Aram| |Gyulkhandanyan|Department of Pathological Biochemistry of the Institute of Biochemistry of the National Academy of Sciences of Armenia|Armenia|null|Armenia| |
+306|Rachel Hadler|Rachel| |Hadler|the University of Pennsylvania|null|Pennsylvania|United States| |
+307|N. Haga|N.| |Haga|The University of Tokyo Hospital|Tokyo|Tokyo|Switzerland| |
+308|S. Hajialiasgar|S.| |Hajialiasgar||Tehran|null|Iran| |
+309|Susan Hall|Susan| |Hall|Griffith University|Queensland|Queensland|Australia| |
+310|William Hallman|William| |Hallman|Rutgers University|New Brunswick|New Jersey|United States| |
+311|BM Hammond|BM| |Hammond|Temple University School of Medicine|Philadelphia|null|United States| |
+312|DA Handamari|DA| |Handamari|Airlangga University|Surabaya|null|Indonesia| |
+313|Leonid Hanin|Leonid| |Hanin|Idaho State University|State University|Idaho|United States| |
+314|Lawrence Harris|Lawrence| |Harris|Victoria University of Wellington|Wellington|null|New Zealand| |
+315|Morton H. Harwood|Morton H.| |Harwood||null|null|null| |
+316|Muzamil Hassan|Muzamil| |Hassan|School of Clinical Medicine|null|null|null| |
+317|Haralampos Hatzikirou|Haralampos| |Hatzikirou|TU Dresden|Dresden|null|null| |
+318|Z. Hawamdeh|Z.| |Hawamdeh||Amman|null|Jordan| |
+319|Steffen Heck|Steffen| |Heck||Koln|null|null| |
+320|Gena Heidary|Gena| |Heidary|Boston Children's Hospital|Boston|Massachusetts|United States| |
+321|Gena Heidary|Gena| |Heidary||null|null|null| |
+322|Sebastian Heise|Sebastian| |Heise|Humboldt University Of zu Berlin|Berlin|null|Germany| |
+323|I. Henchiri|I.| |Henchiri|Farhat Hached|Ariana|null|null| |
+324|Olivia Herd|Olivia| |Herd|WITS University|Johannesburg|null|South Africa| |
+325|Beatriz Hernandez|Beatriz| |Hernandez|Universidad Nacional de San Luis|San Luis|San Luis|Argentina| |
+326|A. Hernandez-Rivera|A.| |Hernandez-Rivera|Universidad Nacional de Colombia|null|null|Switzerland| |
+327|Anthony JR Hickey|Anthony JR| |Hickey|University of Auckland|Auckland|Auckland|New Zealand| |
+328|Thomas Hillen|Thomas| |Hillen|University of Alberta|Alberta|Alberta|Canada| |
+329|T. Hinrichs|T.| |Hinrichs|Swiss Paraplegic Research|null|null|Switzerland| |
+330|Helen H. Hobbs|Helen H.| |Hobbs|University of Texas Southwestern Medical Center|Eugene|Texas|United States| |
+331|Christopher Hoffman|Christopher| |Hoffman|Drexel University College of Medicine|Philadelphia|Pennsylvania|United States| |
+332|K. Hojan|K.| |Hojan|Greater Poland Cancer Centre|Poznan|null|Switzerland| |
+333|K. Hojan|K.| |Hojan|Greater Poland Cancer Centre|null|null|Poland| |
+334|Shamillah Holland|Shamillah| |Holland|University of Witwatersrand|null|null|null| |
+335|E. Hollox|E.| |Hollox|University of Leicester|Leicester|null|United Kingdom| |
+336| Holmes|| |Holmes||null|null|null| |
+337|KL Hon|KL| |Hon|The Chinese Univeristy of Hong Kong|Hong Kong|null|Hong Kong (sar)| |
+338|K. Honggeum|K.| |Honggeum|Catholic University|Seoul|null|Korea, South| |
+339|Sarah C. Hopp|Sarah C.| |Hopp|The Ohio State University|Ohio|Ohio|United States| |
+340|Sarah Hopson|Sarah| |Hopson||null|null|null| |
+341|Hadley Horch|Hadley| |Horch|Bowdoin College|Brunswick|Maine|United States| |
+342|T. Hornik-Lurie|T.| |Hornik-Lurie||Jerusalem|null|Switzerland| |
+343|Charles R. Horres|Charles R.| |Horres|Duke University School of Medicine|null|null|null| |
+344|Steven Houser|Steven| |Houser|Temple University|Philadelphia|Pennsylvania|United States| |
+345|Cheng-ying Hsieh|Cheng-ying| |Hsieh|Department of pharmacology College of Medicine Taipei medical university|Taipei|null|Taiwan| |
+346|W.- Y. Hsu|W.- Y.| |Hsu|Taipei Medical University|Taipei|null|Taiwan| |
+347|Xiaomeng Huang|Xiaomeng| |Huang|MCDB|null|null|null| |
+348|Florence Hubert|Florence| |Hubert|University of Aix Marseille|Marseille|null|France| |
+349|T. Huellein|T.| |Huellein|University of Zurich|Zurich|Zurich|Switzerland| |
+350|Andrew Huggins|Andrew| |Huggins||null|null|null| |
+351|Andrew Hulme|Andrew| |Hulme|UPMC|null|null|null| |
+352|N Husain|N| |Husain|Lancashire Care National Honor Society And The National Junior Honor Society Foundation Trust|null|null|null| |
+353|A. Iliadis|A.| |Iliadis|Euromedica Arogi Thessaloniki|Thessaloniki|Thessaloniki|Greece| |
+354|O. Ilic Stojanovic|O.| |Ilic Stojanovic|University of Belgrade|Belgrade|rs|Yugoslavia| |
+355|K. Imene|K.| |Imene||Ariana|null|null| |
+356|Andrew Immelman|Andrew| |Immelman|University of the Witwatersrand|null|null|null| |
+357|Muhammad Imran Sohail|Muhammad| |Imran Sohail|Medical University of Vienna|Vienna|null|Austria| |
+358|R. Irzmanski|R.| |Irzmanski|Medical University of Lodz|Lodz|null|Switzerland| |
+359|Farhadul Islam|Farhadul| |Islam|Griffith University|Gold Coast|null|Australia| |
+360|Hajira Ismail|Hajira| |Ismail|University of the Witwatersrand|null|null|South Africa| |
+361|Zeenat Ismail|Zeenat| |Ismail|School of Therapeutic Sciences|null|null|null| |
+362|Venkataraman Iyer|Venkataraman| |Iyer|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+363|Y. Izaki|Y.| |Izaki|Kanazawa Medical University Hospital|Ishikawa|Ishikawa|Japan| |
+364|Aishwarya G Jacob|Aishwarya G| |Jacob|Nationwide Childrens Hospital|null|null|null| |
+365|Nicole Jaff|Nicole| |Jaff|University of Witwatersrand|null|null|null| |
+366|Harsh Jain|Harsh| |Jain|Florida State University|State University|null|United States| |
+367|Rajan Jain|Rajan| |Jain|Perelman School of Medicine at the University of Pennsylvania|Philadelphia|Pennsylvania|United States| |
+368|Novak Jan|Novak| |Jan|IHK Vinohrady Teaching Hospital Praha|null|null|null| |
+369|S. Jandric|S.| |Jandric|University of Banjaluka|Banja luka|Ba|Bosnia And Herzegovina| |
+370|S. Jansen|S.| |Jansen|Griffith University|Queensland|Queensland|Australia| |
+371|Yanny Jaritonsky|Yanny| |Jaritonsky|AASM|CABA|null|Argentina| |
+372|M Jatla|M| |Jatla|Texas A& M/McLane Childrens Baylor Scott And White|Georgetown|Texas|United States| |
+373|Afraa M. Jawad|Afraa M.| |Jawad|Griffith University|Gold Coast|null|Australia| |
+374|Azmat Jehan Khan|Azmat| |Jehan Khan|Aga Khan University|Karachi|null|Pakistan| |
+375|M. Jensen|M.| |Jensen|University of Washington|Seattle|Washington|United States| |
+376|H. R. Jeon|H. R.| |Jeon|NHIS Ilsan Hospital|null|null|null| |
+377|Young-Jun Jeon|Young-Jun| |Jeon|The Ohio State University|Columbus|Ohio|United States| |
+378|D. Jesus|D.| |Jesus|Funchal Central Hospital|Santa Cruz|Santa Cruz|Portugal| |
+379|Jingfeng Jiang|Jingfeng| |Jiang||null|null|null| |
+380|I. M. Jimenez Cubero|I. M.| |Jimenez Cubero|Hospital 2 de Octubre|Madrid|null|Spain| |
+381|Kim Jiramongkolchai|Kim| |Jiramongkolchai|Duke University Eye Center|Durham|North Carolina|United States| |
+382|Monika Joanna Piotrowska|Monika| |Joanna Piotrowska|University of Warsaw|Warsaw|null|Poland| |
+383|Ann M John|Ann M| |John|Rutgers New Jersey Medical School|Newark|New Jersey|United States| |
+384|Lisa B Jrgensen|Lisa B| |Jrgensen|Aarhus University|Denmark|null|Denmark| |
+385|Pooja Joshi|Pooja| |Joshi|Ohio State University|Ohio|Ohio|United States| |
+386|L. Jubair|L.| |Jubair|Griffith University|Gold Coast|null|Australia| |
+387|K.- I. Jung|K.- I.| |Jung|Gwangju Veterans Hospital|null|null|Korea, South| |
+388|K. Kagechika|K.| |Kagechika|Kanazawa Medical University|null|null|Switzerland| |
+389|Natta Kajatanavin|Natta| |Kajatanavin|Mahidol University|Bangkok|null|Thailand| |
+390|B. Kara|B.| |Kara|Gulhane Military Medical Academy|Ankara|Ankara|Switzerland| |
+391|G. Kara|G.| |Kara|Pamukkale University|Denizli|Denizli|Switzerland| |
+392|Anna Karpeta|Anna| |Karpeta|Department of Physiology and Toxicology of Reproduction Jagiellonian University in Krakow|Poland|null|Poland| |
+393|Jenna R. Karras|Jenna R.| |Karras|The Ohio State University|Ohio|Ohio|United States| |
+394|Eugene Kashdan|Eugene| |Kashdan|University College Dublin|Dublin|null|Ireland| |
+395|S. Katpattil|S.| |Katpattil|Yenepoya University|Mangalore|null|Switzerland| |
+396|Balveen Kaur|Balveen| |Kaur||null|null|null| |
+397|Mark Kavesh|Mark| |Kavesh|Northwestern University|null|null|United States| |
+398|Soya Kawabata|Soya| |Kawabata|Keio University School of Medicine|Tokyo|null|Japan| |
+399|Samir Kelada|Samir| |Kelada|University of North Carolina|Carolina|North Carolina|United States| |
+400|M Kelly|M| |Kelly|Griffith University|Gold Coast|null|Australia| |
+401| Keshav|| |Keshav||null|null|null| |
+402|S. Kesikburun|S.| |Kesikburun||Ankara|null|Turkey| |
+403|F. Khan|F.| |Khan|Royal Melbourne Hospital|Parkville|null|Australia| |
+404|Qurat Khan|Qurat| |Khan|Aga Khan University Karachi|Karachi|null|Pakistan| |
+405|Narakorn Khunweeraphong|Narakorn| |Khunweeraphong|Medical University of Vienna MFPL|Vienna|null|Austria| |
+406|Can J. Kiessling|Can J.| |Kiessling|Bond University|null|Queensland|Australia| |
+407|Anna Kim|Anna| |Kim|University of California Los Angeles|Los Angeles|Angeles|Philippines| |
+408|D. Kim|D.| |Kim|Temple University Hospital|Philadelphia|Pennsylvania|United States| |
+409|J. H. Kim|J. H.| |Kim||Daejeon|null|Korea, South| |
+410|Peter Kim|Peter| |Kim|University of Sydney|Sydney|null|null| |
+411|S. H. Kim|S. H.| |Kim|Yonsei University Wonju College of Medicine|Wonju|null|Korea, South| |
+412|Y.- H. Kim|Y.- H.| |Kim|Sungkyunkwan University School of Medicine|Seoul|null|Korea, South| |
+413|Yangjin Kim|Yangjin| |Kim|Department of Mathematics Konkuk University|null|null|null| |
+414|Benjamin L. King|Benjamin L.| |King|University of Maine|Orono|Maine|United States| |
+415|J King|J| |King|Gold Coast University Hospital|Southport|Queensland|Australia| |
+416|J King|J| |King||null|null|null| |
+417|J King|J| |King||null|null|null| |
+418|K. Knox|K.| |Knox||null|null|null| |
+419|M.-J. Ko|M.-J.| |Ko|CHI MEI Medical Center|null|null|Taiwan| |
+420|Franz-Walter Koch|Franz-Walter| |Koch||Troisdorf|null|Germany| |
+421|F. Kocyigit|F.| |Kocyigit||Denizli|Denizli|Turkey| |
+422|F. Kocyigit|F.| |Kocyigit||Denizli|Denizli|Turkey| |
+423|Mark Koh Jean Aan|Mark| |Koh Jean Aan|KK Women's And Children's Hospital|Singapore|null|Singapore| |
+424|Sebastian Kohler|Sebastian| |Kohler|University of Bonn|Bonn|null|Germany| |
+425|T. Koleganova|T.| |Koleganova|FGBI Treatment Rehabilitation Center|Moscow|null|Switzerland| |
+426|Karin Komposch|Karin| |Komposch|Medical University of Vienna|Vienna|null|Austria| |
+427|Pierre Kondiah|Pierre| |Kondiah|University of Witwatersrand|null|null|null| |
+428|Genevieve Konopka|Genevieve| |Konopka|University of Texas Southwestern Medical Center|null|Texas|United States| |
+429|K.- I. Koo|K.- I.| |Koo|University of Ulsan|Ulsan|null|Korea, South| |
+430|B. Kopliku|B.| |Kopliku|Ospedale Santa Maria Nuova|Reggio Emilia|null|Italy| |
+431|D. J. Kopsky|D. J.| |Kopsky|VU University Medical Center|Amsterdam|null|Switzerland| |
+432|N. Kos|N.| |Kos|University Medical Centre Ljubljana|Ljubljana|null|Slovenia| |
+433|Vasiliki Kosmidou|Vasiliki| |Kosmidou|Information Technologies Institute|null|null|null| |
+434|Swapnil Kothari|Swapnil| |Kothari|University of Southern California|Los Angeles|California|United States| |
+435|Daisy Kotsane|Daisy| |Kotsane|University of Witwatersrand|null|null|null| |
+436|Athanosios Koulousakis|Athanosios| |Koulousakis||Koln|null|null| |
+437|S. Kozomara|S.| |Kozomara||Nis|null|Yugoslavia| |
+438|Stefanie Kraege|Stefanie| |Kraege|University of Bonn|Bonn|null|Germany| |
+439|Anna Kranzlein|Anna| |Kranzlein||null|null|null| |
+440|Michael Krapf|Michael| |Krapf|University of Bonn|Bonn|null|Germany| |
+441|J. Kroon|J.| |Kroon|Griffith University|Gold Coast|null|Australia| |
+442|Yang Kuang|Yang| |Kuang|Arizona State University|State University|Arizona|United States| |
+443|Ralf Kubitz|Ralf| |Kubitz|Bethanien Krankenhaus Moers|Moers|null|Germany| |
+444| Kudryck|| |Kudryck||null|null|null| |
+445|Naveen Kumar|Naveen| |Kumar|Robert Jones and Agnes Hunt Orthopaedic Hospital|Oswestry|null|United Kingdom| |
+446|P. Kumar|P.| |Kumar|Jawaharlal Nehru University|New Delhi|null|Switzerland| |
+447|Avinash R. Kundur|Avinash R.| |Kundur|Griffith University|Gold Coast|Queensland|Australia| |
+448|Tsholofelo Kungoane|Tsholofelo| |Kungoane|University of Witwatersrand|null|null|null| |
+449|Taurai Kurebwa|Taurai| |Kurebwa|School of Therapeutic Sciences|null|null|null| |
+450|Hiroyuki Kusuhara|Hiroyuki| |Kusuhara|University of Tokyo|Tokyo|null|Japan| |
+451|Sabine L Lague|Sabine L| |Lague|University of British Columbia|Canada|British Columbia|Canada| |
+452|Aparna Lakshmanan|Aparna| |Lakshmanan|COLLEGE OF MEDICINE|null|null|null| |
+453|A Lalji|A| |Lalji|Griffith university|Gold Coast|Queensland|Australia| |
+454|Alfred Lam|Alfred| |Lam|Gold Coast University Hospital|Gold Coast|null|Australia| |
+455|James Lamberg|James| |Lamberg|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+456|Kim Lamont|Kim| |Lamont|University Medical Centre Utrecht|Utrecht|Utrecht|Netherlands| |
+457|D. Lane|D.| |Lane|National Rehabilitation Hospital|Dublin|null|Ireland| |
+458|U. Lange|U.| |Lange|University Of Giessen|Giessen|null|Germany| |
+459|Oliver Langer|Oliver| |Langer|MUW|null|null|Austria| |
+460|Derek S. Lauter|Derek S.| |Lauter|University of Pittsburgh Medical Center Anesthesiology Residency|Pittsburgh|Pennsylvania|United States| |
+461|J. Leal|J.| |Leal|Centro Hospitalar Entre Douro Vouga|null|null|Switzerland| |
+462|P.N. Leao|P.N.| |Leao|University of Porto|Porto|Porto|Portugal| |
+463|Urszula Ledzewicz|Urszula| |Ledzewicz|Department of Mathematics and Statistics Southern Illinois University|null|Illinois|United States| |
+464|Cindy Lee|Cindy| |Lee|The Ohio State University|Ohio|Ohio|United States| |
+465|J. H. Lee|J. H.| |Lee|Wooridul Spine Hospital|Seoul|null|Korea, South| |
+466|Jaewon Lee|Jaewon| |Lee|Harvard Medical School|null|null|null| |
+467|W. Lee|W.| |Lee|Seoul National University|Seoul|null|Korea, South| |
+468|Jean-Paul Lellouche|Jean-Paul| |Lellouche|Bar Ilan University|Ramat Gan|null|Israel| |
+469|KF Leong|KF| |Leong|Pediatric Institute|Kuala Lumpur|null|Malaysia| |
+470|A Lerner|A| |Lerner|Technion Israel institute of Technology|Haifa|null|Israel| |
+471|Maxime Leroy|Maxime| |Leroy|University Of Quebec Montreal|null|null|null| |
+472|Preston Leung|Preston| |Leung|UNSW Australia|null|null|Australia| |
+473|Alex V Levin|Alex V| |Levin||null|null|null| |
+474|Gregory Levin|Gregory| |Levin|FDA|null|null|null| |
+475|Doron Levy|Doron| |Levy|University of Maryland|Maryland|null|United States| |
+476|Andrew A. Li|Andrew A.| |Li|Harvard Medical School|null|null|null| |
+477|Michael Li|Michael| |Li|Icahn School of Medicine at Mount Sinai|Mount Sinai|null|United States| |
+478|Puzhen Li|Puzhen| |Li|Concordia University|null|null|Canada| |
+479|Q. Li|Q.| |Li||Tianjin|Tianjin|China| |
+480|Ran Li|Ran| |Li|The Ohio State University|Columbus|Ohio|United States| |
+481|Y.- J. Li|Y.- J.| |Li|National Yang Ming University|Taipei|null|Switzerland| |
+482|S. Liao|S.| |Liao|Changhua Christian Hospital|Changhua|null|Switzerland| |
+483|Rinat Lifshiz|Rinat| |Lifshiz|Ben Gurion University of the Negev|null|null|Israel| |
+484|Chun-Mao Lin|Chun-Mao| |Lin|College of Medicine Taipei Medical University|Taipei|null|Taiwan| |
+485|Wan-Wan Lin|Wan-Wan| |Lin|National Taiwan University|null|null|Taiwan| |
+486|Yajuan Lin|Yajuan| |Lin|Duke University|Earth|null|United States| |
+487|James Lincoln|James| |Lincoln|Drexel University College of Medicine|null|null|null| |
+488|Ta-Ming Liu|Ta-Ming| |Liu|Wexner Medical Center|null|null|null| |
+489|Z. Liu|Z.| |Liu|Nanhai Maternity and Children's Hospital Affiliated to Guangzhou University of Chinese Medicine|Foshan|null|Switzerland| |
+490|Z. Liu|Z.| |Liu||Foshan|null|Switzerland| |
+491|Z. Liu|Z.| |Liu||Foshan|null|Switzerland| |
+492|Billy J. Lockhart|Billy J.| |Lockhart|Yale School of Medicine|null|null|null| |
+493|H. Lohse-Busch|H.| |Lohse-Busch|Rheintalklinik|Bad Krozingen|null|Germany| |
+494|M. Longacre|M.| |Longacre|Harvard|Cambridge|null|null| |
+495|K. Loubani|K.| |Loubani|Haifa University|Nazareth illit|null|Switzerland| |
+496|Tony Lourey|Tony| |Lourey||null|null|null| |
+497|Wan-Jung Lu|Wan-Jung| |Lu|Taipei Medical University|Taipei|null|Taiwan| |
+498|X. Lu|X.| |Lu||Nanjing|null|China| |
+499|Olivia M. Lucero|Olivia M.| |Lucero|University of Washington School of Medicine|Washington|Washington|United States| |
+500|Semrova Lucie|Semrova| |Lucie|Hematologicko Onkologicke Oddeleni FN Plzen|Plzen|null|Czech Republic| |
+501|Ethan B. Ludmir|Ethan B.| |Ludmir|Duke University School of Medicine|null|null|null| |
+502|Smolej Lukas|Smolej| |Lukas|IV Interni Hematologicka klinika|Hradec Kralove|null|Czech Republic| |
+503|Amanda Lukof|Amanda| |Lukof||null|null|null| |
+504|Emma Lundsmith|Emma| |Lundsmith|Perelman School of Medicine at the University of Pennsylvania|null|Pennsylvania|United States| |
+505|Pieternel Luning|Pieternel| |Luning|Wageningen University|Wageningen|null|Netherlands| |
+506|Yinjiao Ma|Yinjiao| |Ma|Saint Louis University|Saint Louis|Missouri|United States| |
+507|K. Mabilin-Prieto|K.| |Mabilin-Prieto|East Axenue Medical Center|Quezon City|Quezon City|Philippines| |
+508|Andrea Macaluso|Andrea| |Macaluso|Istituto Zooprofilattico Sperimentale della Sicilia|Palermo|Sicilia|Italy| |
+509|C. MacDonell|C.| |MacDonell|Commission On Accreditation Of Rehabilitation Facilities International|Washington|Washington|Switzerland| |
+510|P Macinga|P| |Macinga|Institute for Clinical and Experimental Medicine|Prague|null|Czech Republic| |
+511|E MacKay|E| |MacKay|Thomas Jefferson University Hospital|Philadelphia|Pennsylvania|United States| |
+512|Andrew Macklin|Andrew| |Macklin|Carleton University|null|null|Canada| |
+513|Hermenegilda Madeira|Hermenegilda| |Madeira|University of the Witwatersrand|null|null|null| |
+514|Chris D. Madsen|Chris D.| |Madsen|University of Copenhagen|Copenhagen|null|Denmark| |
+515|S. Maeshima|S.| |Maeshima|Fujita Health University|null|null|Switzerland| |
+516|Mhlengi Magubane|Mhlengi| |Magubane|University of Witwatersrand|null|null|null| |
+517|Faiza Mahomed|Faiza| |Mahomed|School of Nuclear Medicine and Radiation|null|null|null| |
+518|Farzana Mahomed|Farzana| |Mahomed|School of Oral Health Sciences|null|null|null| |
+519|Nasreen Mahomed|Nasreen| |Mahomed|University of Witwatersrand|null|null|null| |
+520|Kavita Makan|Kavita| |Makan|University of the Witwatersrand|null|null|null| |
+521|S. Makita|S.| |Makita|Saitama Medical University|Hidaka|null|Switzerland| |
+522|D. Makiura|D.| |Makiura|Kobe University Hospital|Kobe|null|Japan| |
+523|Rui Malho|Rui| |Malho|Universidade de Lisboa|null|Lisboa|Portugal| |
+524|Yasmin P Mali|Yasmin P| |Mali|Albany Medical College/Lions Eye Institute|Albany|New York|United States| |
+525|R. Malishev|R.| |Malishev|Ben Gurion University of the Negev|null|null|Israel| |
+526|A. Mameli|A.| |Mameli|Medicina Interna ed Emocoagulopatie|Cagliari|null|Italy| |
+527|J. Mamo|J.| |Mamo|Solent National Honor Society And The National Junior Honor Society|Southampton|Southampton|Bermuda| |
+528|J. Mamo|J.| |Mamo|Solent National Honor Society And The National Junior Honor Society|Southampton|Southampton|Switzerland| |
+529|Patience Mapunda|Patience| |Mapunda|University of the Witwatersrand|null|null|null| |
+530|Norfjord Zidar Maria|Norfjord Zidar| |Maria|Malardalen University|null|null|null| |
+531|R Maria|R| |Maria|Padjadjaran University|Bandung|null|Indonesia| |
+532|Musa Marimani|Musa| |Marimani|University of Witwatersrand|null|null|null| |
+533|S Marin|S| |Marin|Srinakharinwirot University|null|null|Thailand| |
+534|Hamidreza Maroof|Hamidreza| |Maroof|Griffith University|null|null|Australia| |
+535|S. Marquez|S.| |Marquez|SUNY Downstate Medical Center|New York|New York|United States| |
+536|J. Marsden|J.| |Marsden|Plymouth University|Plymouth|null|Switzerland| |
+537|M. Martin Lopez de Abajo|M.| |Martin Lopez de Abajo|Hospital Ramon y Cajal|Madrid|null|Spain| |
+538|Natalia Martinez Acero|Natalia| |Martinez Acero|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+539|T. Martins|T.| |Martins|University of Porto|Porto|Porto|Portugal| |
+540|Muzi Maseko|Muzi| |Maseko|University of the Witwatersrand|null|null|null| |
+541|Roseline Massicotte|Roseline| |Massicotte|University du Quebec a Montreal|Montreal|Quebec|Canada| |
+542|Biena Mathew|Biena| |Mathew|GoeUniversity Frankfurt|Frankfurt|null|Germany| |
+543|Anisha Mathur|Anisha| |Mathur|Ohio State University|Ohio|Ohio|United States| |
+544|C. Matos|C.| |Matos|Hospital Santo Antonio|Pedroso|null|United States| |
+545|E. Mauro|E.| |Mauro|Pordenone General Hospital|Pordenone|null|Italy| |
+546|B. Mayer|B.| |Mayer|Jewish Hospital Berlin|Berlin|null|Germany| |
+547|C. Mazzaro|C.| |Mazzaro|Department of Oncology Haematology|Aviano|null|null| |
+548|Connor McCarthy|Connor| |McCarthy||null|null|null| |
+549|Vuyokazi Mcebula|Vuyokazi| |Mcebula|University of Witwatersrand|null|null|null| |
+550|A.J. McFarland|A.J.| |McFarland|Griffith University|Gold Coast|null|Australia| |
+551|F.A. McLeary|F.A.| |McLeary|Griffith University|Nathan|null|Australia| |
+552|VV McPhee|VV| |McPhee|Princess Margaret Hospital|Nassau|null|The Bahamas| |
+553|I. Mechlenburg|I.| |Mechlenburg|Aarhus C|Aarhus|null|Denmark| |
+554|Shabnum Meer|Shabnum| |Meer|University of Witwatersrand|null|null|null| |
+555|George D. Mellick|George D.| |Mellick|Eskitits Institute for Drug Discovery Griffith University|null|null|null| |
+556|M. Menaker Raskin|M.| |Menaker Raskin|Technion Israel Institute of Technology|Haifa|null|Israel| |
+557|J. Merritt|J.| |Merritt|University of South Florida|null|null|United States| |
+558|Macichova Michaela|Macichova| |Michaela|OLM POKH|Kosice|null|Slovakia| |
+559|J. J. Michiels|J. J.| |Michiels|Goodheart Institute|Rotterdam|null|Netherlands| |
+560|H. Migaou|H.| |Migaou|University Hospital of Monastir|Monastir|null|Switzerland| |
+561|M. Mikkelsson|M.| |Mikkelsson|Paijat Hame Social and Health Care Group|Lahti|FI|Finland| |
+562|Aletta Millen|Aletta| |Millen|University of Witwatersrand|null|null|null| |
+563|John H. Miller|John H.| |Miller|Victoria University of Wellington|Wellington|null|New Zealand| |
+564|Linda Millyard|Linda| |Millyard|Durham University|null|null|United Kingdom| |
+565|Seung Min Kim|Seung| |Min Kim|Korea Food Research Institute|null|null|Korea, South| |
+566|Jacqui Miot|Jacqui| |Miot|University of Witwatersrand|null|null|null| |
+567|M. Miura|M.| |Miura|Tsukuba University of Technology|Tsukuba|null|Japan| |
+568|S. Mlicevic|S.| |Mlicevic|Clinic for Rehabilitation Dr M Zotovic|null|null|null| |
+569|A. Moghtaderi|A.| |Moghtaderi|Isfahan Medical University|Isfahan|null|Switzerland| |
+570|Rahaba Mojakgomo|Rahaba| |Mojakgomo|University of Witwatersrand|null|null|null| |
+571|Kealeboga Mokolobate|Kealeboga| |Mokolobate|University of The Witwatersrand|null|null|null| |
+572|L Mona|L| |Mona|Siunatera Utara University|null|null|Indonesia| |
+573|Lucia Monici|Lucia| |Monici||null|null|null| |
+574|Silvia Monteiro|Silvia| |Monteiro|Instituto Superior Tecnico|Lisbon|null|Portugal| |
+575|Kiashanee Moodley|Kiashanee| |Moodley|University of the Witwatersrand|null|null|null| |
+576|Nishila Moodley|Nishila| |Moodley|University of Witwatersrand|null|null|null| |
+577|A. Mooventhan|A.| |Mooventhan|Ujire|null|null|Switzerland| |
+578|Cristian Morales-Rodrigo|Cristian| |Morales-Rodrigo|Univ de Sevilla|Sevilla|null|Spain| |
+579|C. Moreira|C.| |Moreira||Porto|Porto|Portugal| |
+580|L.O.R. Moreti|L.O.R.| |Moreti|Universidade Estadual de Maringa|Maringa|Parana|Brazil| |
+581|J. Morgan|J.| |Morgan|National Rehabilitation Hospital|null|null|null| |
+582|Y. Morishita|Y.| |Morishita|Saitama Prefectural University|Saitama|Saitama|Japan| |
+583|Ramin A. Morshed|Ramin A.| |Morshed|The University of Chicago Pritzker School of Medicine|Chicago|null|United States| |
+584|D. Moser|D.| |Moser|University Of Zurich|Zurich|Zurich|Switzerland| |
+585|Matshediso Mothopi|Matshediso| |Mothopi|University of the Witwatersrand|null|null|null| |
+586|E. Moumtzi|E.| |Moumtzi|Asklipieion General Hospital|Athens|GR|Greece| |
+587|Lisa Mouscher|Lisa| |Mouscher|Sogence Training and Consulting|null|null|null| |
+588|Buhle Moyo|Buhle| |Moyo|University of The Witwatersrand|Johannesburg|null|South Africa| |
+589|Ndaye Mpangula|Ndaye| |Mpangula|University of Witwatersrand|null|null|null| |
+590|Thandiwe Msibi|Thandiwe| |Msibi|University of the Witwatersrand|null|null|null| |
+591|Shumaila Muhammad Iqbal|Shumaila| |Muhammad Iqbal||null|null|null| |
+592|N. Mujovic|N.| |Mujovic|University of Belgrade|Belgrade|null|Yugoslavia| |
+593|Michael Muller|Michael| |Muller||Berlin|null|Germany| |
+594|Jacques D. Muller-Broich|Jacques D.| |Muller-Broich|Domagen|null|null|null| |
+595|Fraser S Murphy|Fraser S| |Murphy|James Hutton Institute|null|null|United Kingdom| |
+596|Thommas Musyoka|Thommas| |Musyoka|Depart of Biochemistry and Microbiology, Forestry and Agricultural Biotechnology Institute University of Pretoria|Pretoria|null|South Africa| |
+597|S Nancarrow|S| |Nancarrow|Southern Cross University|Gold Coast|New South Wales|Australia| |
+598|Sukhendu Nandi|Sukhendu| |Nandi|Ben Gurion University of the Negev|null|null|Israel| |
+599|C. Nardin|C.| |Nardin|University degli Studi Di Padova|Treviso|null|Italy| |
+600|D. S. Nasir Mansoor|D. S.| |Nasir Mansoor|CMH Pano Aqil Sindh Pakistan|Pano Aqil|null|Switzerland| |
+601|H. Naug|H.| |Naug|Griffith University|Gold Coast|null|Australia| |
+602|Christin Naumann|Christin| |Naumann|IPB|Halle|null|Germany| |
+603|Ntombizodwa Ndlovu|Ntombizodwa| |Ndlovu|University of Witwatersrand|null|null|null| |
+604|I.- S. Neagoie|I.- S.| |Neagoie|National Institute of Rehabilitation|null|null|null| |
+605|U. Nedeljkovic|U.| |Nedeljkovic||null|null|null| |
+606|Gill Nelson|Gill| |Nelson|University of the Witwatersrand|null|null|null| |
+607|Kristopher Nelson|Kristopher| |Nelson||null|null|null| |
+608|Olivia Newman|Olivia| |Newman||null|null|null| |
+609|A. Ng|A.| |Ng|UT MD Anderson Cancer Center|Houston|Texas|United States| |
+610|Sizakele Ngwenya|Sizakele| |Ngwenya|University of Witwatersrand|null|null|null| |
+611|Samantha Nicholson|Samantha| |Nicholson|University of the Witwatersrand|null|null|null| |
+612|V. Nieswandt|V.| |Nieswandt|Clinica Medica II|Pavia|null|Italy| |
+613|L. Nikcevic|L.| |Nikcevic|Spetial Hospital for Prevention and Treatment of Cerebrovascular Diseases St Sava|null|null|null| |
+614|Philip Niles|Philip| |Niles|University of Iowa Department of Ophthalmology and Visual Sciences|Iowa City|Iowa|United States| |
+615|Estefania Noriega Fernandez|Estefania| |Noriega Fernandez|KU Leuven|Leuven|null|Belgium| |
+616|A. Nouira|A.| |Nouira|Farhat Hached|null|null|null| |
+617|Richard Nowakowski|Richard| |Nowakowski|Florida State University College of Medicine|State University|null|United States| |
+618|D. Nowik|D.| |Nowik|Hanover Medical School|Hanover|Hanover|Germany| |
+619|Henriette Ntumba|Henriette| |Ntumba|University of Witwatersrand|null|null|null| |
+620|S Nugraeni|S| |Nugraeni|Hasanuddin University|Makassar|null|Indonesia| |
+621|B. M. Nunez-Garcia|B. M.| |Nunez-Garcia|SAP Mataro Maresme|Mataro|null|Spain| |
+622|D Nurasrifah|D| |Nurasrifah|Department of Dermatovenereology Faculty of Medicine Airlangga University Dr Soetomo General Hospital|null|null|Indonesia| |
+623|T. Ohmi|T.| |Ohmi|Tokyo Metropolitan University|Arakawa|Tokyo|Switzerland| |
+624|M Oi|M| |Oi|Griffith University|null|Queensland|Australia| |
+625|A. Olsen|A.| |Olsen|Bond University Faculty of Health Sciences and Medicine|Bond|null|United States| |
+626|Aadilah Omar|Aadilah| |Omar|University of the Witwatersrand|null|null|null| |
+627|Michael Onah|Michael| |Onah|University of Witwatersrand|Johannesburg|null|South Africa| |
+628|C. O'Riordan|C.| |O'Riordan|University of Limerick|Macroom|null|Switzerland| |
+629|M. R. Ortega|M. R.| |Ortega|University General Hospital Foundation Jimenez Diaz|Diaz|null|United States| |
+630|Taryn Osmond|Taryn| |Osmond|Malaghan Institute of Medical Research|null|null|New Zealand| |
+631|Semih Ozdemir|Semih| |Ozdemir||Herne|null|Germany| |
+632|L. Ozgonenel|L.| |Ozgonenel|Istanbul Bilim University|Istanbul|Istanbul|Turkey| |
+633|Marina Pais|Marina| |Pais|Sainsbury Laboratory|null|null|United Kingdom| |
+634|J. Palominos|J.| |Palominos|Military Hospital|null|null|null| |
+635|O. Para|O.| |Para|Dipartimento Emergenza e Accettazione|Firenze|null|Italy| |
+636|S Parekh|S| |Parekh|Griffith University|Logan|null|Australia| |
+637|C. Park|C.| |Park|Yonsei University College of Medicine/Severance Hospital|Seoul|null|Korea, South| |
+638|Ch.-I. Park|Ch.-I.| |Park|La Tour Hospital|Meyrin|null|null| |
+639|Dongju Park|Dongju| |Park|The Ohio State University|Ohio|Ohio|United States| |
+640|Woong-Yang Park|Woong-Yang| |Park|SungKyunKwan University|null|null|Korea, South| |
+641|Arihant Patawari|Arihant| |Patawari|University of Southern California|Los Angeles|California|United States| |
+642|David Patch|David| |Patch||null|null|null| |
+643|Salma Patel|Salma| |Patel|University of Warwick|Warwick|null|United Kingdom| |
+644|S. Patil|S.| |Patil|University of Leeds|Leeds|null|Chile| |
+645|Velvet Patterson|Velvet| |Patterson|Drexel University College of Medicine|null|null|null| |
+646|P. Peanpadungrat|P.| |Peanpadungrat|Thammasat|null|null|Switzerland| |
+647|L. Pedro|L.| |Pedro|Politecnic of Lisbon ESTeSL|Lisbon|null|Portugal| |
+648|Kevin J. Peine|Kevin J.| |Peine|The Ohio State University|Ohio|Ohio|United States| |
+649|M. Peczynska|M.| |Peczynska|Institute of Immunology and Experimental Therapy|null|null|Switzerland| |
+650|E Penick|E| |Penick|Thomas Jefferson University Hospitals|Philadelphia|Pennsylvania|United States| |
+651|V. Perfetti|V.| |Perfetti|Fondazione IRCCS Policlinico San Matteo|Pavia|null|Italy| |
+652|S Persaud|S| |Persaud||null|null|null| |
+653|S. Persoon|S.| |Persoon|Academic Medical Center|null|null|Netherlands| |
+654|Jorg Petermann|Jorg| |Petermann||Grosswallstadt|null|null| |
+655|Vernice Peterson|Vernice| |Peterson|University of the Witwatersrand|null|null|null| |
+656|Tichakova Petra|Tichakova| |Petra|3 Lekarska fakulta Univerzity Karlovy v Praze|null|null|null| |
+657|A. Petrichenko|A.| |Petrichenko|Child Health Care Research Clinic|Moscow|null|Switzerland| |
+658|V. Petukhova|V.| |Petukhova|Medical and Rehabilitation Center|Moscow|null|Switzerland| |
+659|G.A. Piccillo|G.A.| |Piccillo|Azienda Ospedaliera per l'Emergenza Cannizzaro|Catania|null|Italy| |
+660|Suja Pillai|Suja| |Pillai|Griffith University|Gold Coast|null|Australia| |
+661|Venesa Pillay|Venesa| |Pillay|National Health Laboratory Service and University of the Witwatersrand|Johannesburg|null|South Africa| |
+662|Stacy L Pineles|Stacy L| |Pineles|University of California|Los Angeles|California|United States| |
+663|A. Pinheiro|A.| |Pinheiro|University of Porto|Porto|Porto|Portugal| |
+664|M. Pinto|M.| |Pinto|Istituto Nazionale Tumori Fondazione Giovanni Pascale IRCCS|Naples|null|Italy| |
+665|J. Pires|J.| |Pires|Centro de Medicina de Reabilitacao da Regiao Centro Rovisco Pais|Tocha|null|null| |
+666|A. Pishgahi|A.| |Pishgahi|Tabriz Medical Science University|Tabriz|null|Switzerland| |
+667|Janos G. Pitter|Janos G.| |Pitter|Syreon Research Institute|Budapest|null|Hungary| |
+668|Matthew R Plumb|Matthew R| |Plumb|The Ohio State University|Ohio|Ohio|United States| |
+669|Julia Ponomarenko|Julia| |Ponomarenko|La Jolla Institute for Allergy and Immunology|La Jolla|null|United States| |
+670|M. Pontinha|M.| |Pontinha|Centro Hospitalar do Alto Ave|Braga|Braga|Portugal| |
+671|Brennan Poonkwong|Brennan| |Poonkwong||null|null|null| |
+672|E. Postma|E.| |Postma|University of Zurich|Zurich|Zurich|Switzerland| |
+673|Houman Pourhassan|Houman| |Pourhassan|Technical University of Denmark|Denmark|null|Denmark| |
+674|R. Pramanik|R.| |Pramanik|University of Calcutta|Kolkata|null|Switzerland| |
+675|C Prashad|C| |Prashad|Georgetown Public Hospital Corporation|Georgetown|null|Guyana| |
+676|Christina Preiss|Christina| |Preiss||null|null|null| |
+677|Kathryn Price|Kathryn| |Price|Allegheny Health Network|null|null|null| |
+678| Prinja|| |Prinja||null|null|null| |
+679|Caroline Protin|Caroline| |Protin|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+680|Krzysztof Psiuk-Maksymowicz|Krzysztof| |Psiuk-Maksymowicz|Silesian University of Technology|null|null|Poland| |
+681|AT Pujiastuti|AT| |Pujiastuti|Department of Dermatology and Venereology Faculty of Medicine Airlangga University Dr Soetomo General Hospital|Surabaya|null|Indonesia| |
+682|D Puspitorini|D| |Puspitorini|Airlangga University|Surabaya|null|Indonesia| |
+683|Brooke Puttergill|Brooke| |Puttergill|University of the Witwatersrand|null|null|null| |
+684|M. Pyrgeli|M.| |Pyrgeli|Medical Rehabilitation Center Lamia's Clinic|null|null|null| |
+685|F. Quaglia|F.| |Quaglia|Department of Internal Medicine|null|null|null| |
+686|Stephen Quake|Stephen| |Quake|Stanford University and Howard Hughes Medical Institute|null|null|null| |
+687|F. Quintas|F.| |Quintas|Centro Hospitalar Baixo Vouga|Ponte de Lima|null|Switzerland| |
+688|Z. Racil|Z.| |Racil|Masaryk University and University Hospital Brno|Republic|null|Czech Republic| |
+689|R. Radford|R.| |Radford|Griffith University|Gold Coast|null|Australia| |
+690|R Raghunanan|R| |Raghunanan|San Fernando General Hospital|Trinidad|San Fernando|Trinidad and Tobago| |
+691|Somayya Ragie|Somayya| |Ragie|School of Therapeutic Sciences|null|null|null| |
+692|R. Rahman|R.| |Rahman|Kaiser Franz Joseph Spital SMZ Sud|Kaiser|null|United States| |
+693|I Rahmayunita|I| |Rahmayunita|Faculty of Medicine University of Indonesia|Jakarta|null|Indonesia| |
+694|V. Raj|V.| |Raj|Carolinas Rehabilitation|Charlotte|North Carolina|United States| |
+695|Aparna Ramasubramanian|Aparna| |Ramasubramanian||null|null|null| |
+696|A Ramdin|A| |Ramdin|San Fernando General Hospital, , Trinidad and Tobago|null|Tobago|Trinidad and Tobago| |
+697|David A Rand|David A| |Rand|University of Warwick|Warwick|null|United Kingdom| |
+698|Janani Ravi|Janani| |Ravi|Pathology|OSU|null|null| |
+699|Sarah Rayne|Sarah| |Rayne|University of the Witwatersrand|null|null|null| |
+700|A.N. Rcom-H'Cheo-Gauthier|A.N.| |Rcom-H'Cheo-Gauthier|Griffith University|Gold Coast|null|Australia| |
+701|Denasha Reddy|Denasha| |Reddy|University of Witwatersrand|null|null|null| |
+702|Katarzyna Rejniak|Katarzyna| |Rejniak|Moffitt Cancer Research Institute|null|null|null| |
+703|Michael X. Repka|Michael X.| |Repka|For the Pediatric Eye Disease Investigator Group|Tampa|Florida|United States| |
+704|Natalya N.M. Riek|Natalya N.M.| |Riek|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+705|Anshika Rimal|Anshika| |Rimal||null|null|null| |
+706|Kristine Rinke|Kristine| |Rinke|OVGU Magdeburg|Magdeburg|null|Germany| |
+707|Christine Ritter|Christine| |Ritter|University of Copenhagen|Copenhagen|null|Denmark| |
+708|P. Ritter|P.| |Ritter|Hospital del Salvador|Salvador|null|Brazil| |
+709|Susan Robinson|Susan| |Robinson||null|null|null| |
+710|J. A. Rocha|J. A.| |Rocha|Centro Hospitalar Sao Joao/fmup|null|null|null| |
+711|S. Rodic|S.| |Rodic|Clinic for Rehabilitation Dr M Zotovic|null|null|null| |
+712|NR Roem|NR| |Roem|Medical Faculty of Hasamtddin University|null|null|Indonesia| |
+713|H. Rogers|H.| |Rogers|University of Deusto|Bilbao|null|Spain| |
+714|O. Rogoveanu|O.| |Rogoveanu||Craiova|null|Romania| |
+715|Kaileen Rohr|Kaileen| |Rohr|University of Washington School of Medicine|Washington|Washington|United States| |
+716|Joen Rong Sheu|Joen| |Rong Sheu|Taipei Medical University|Taipei|null|Taiwan| |
+717|I. Ronga|I.| |Ronga|UOSC Medicina Interna III|Napoli|null|Italy| |
+718|John Rossi|John| |Rossi|Penn State Hershey Medical Center|Hershey|pa|null| |
+719|E. Rosulescu|E.| |Rosulescu|University of Craiova|Craiova|RO|Romania| |
+720|I. Rudakov|I.| |Rudakov||Moscow|null|Switzerland| |
+721|Luke Russell|Luke| |Russell|Neurological Surgery|null|null|null| |
+722|V. Russo|V.| |Russo|American Ornithologists Union Federico II|Napoli|null|Italy| |
+723|Erica Rutter|Erica| |Rutter|Arizona State University|State University|Arizona|United States| |
+724|Edrone Rwakaikara|Edrone| |Rwakaikara|University of the Witwatersrand|null|null|null| |
+725|Tiffiny D. Rye-McCurdy|Tiffiny D.| |Rye-McCurdy|Ohio State University|Columbus|Ohio|United States| |
+726|H. Saadallah|H.| |Saadallah|Alexandria University|Alexandria|EG|Egypt| |
+727|C. Sacco|C.| |Sacco|University of Pavia|Pavia|null|Italy| |
+728|K. Sachaphibulkij|K.| |Sachaphibulkij|Griffith University|Gold Coast|null|Australia| |
+729|W. Said|W.| |Said|Unit of PRM Mahdia|Mahdia|null|null| |
+730|W. Said Lahmar|W.| |Said Lahmar|Tahar Sfar Hospital of Mahdia|Mahdia|null|null| |
+731|Alpana Saini|Alpana| |Saini|Drexel University College of Medicine|null|null|null| |
+732|Col Sajjad|Col| |Sajjad||Attock|null|Pakistan| |
+733|S. Salah|S.| |Salah|FB University Hospital|null|null|null| |
+734|P. Sale|P.| |Sale|IRCCS San Raffaele Pisana|Rome|null|Italy| |
+735|V. C. Sales|V. C.| |Sales|University of Sao Paulo|Sao Paulo|Sao Paulo|Switzerland| |
+736|P. Sanchez-Tarifa|P.| |Sanchez-Tarifa|Hospital Ramon y Cajal|Madrid|null|Spain| |
+737|Susanna Sandelius|Susanna| |Sandelius|Karolinska Institute|null|null|null| |
+738|J. Sanmugarajah|J.| |Sanmugarajah|Gold Coast University Hospital|Gold Coast|null|Australia| |
+739|J. Santoalha|J.| |Santoalha|Centro Hospitalar de Sao Joao|Porto|Porto|Switzerland| |
+740|A. Saraf|A.| |Saraf|Saraswati Institute of Medical Sciences|Ghaziabad|null|Switzerland| |
+741|Kapil Saxena|Kapil| |Saxena|Baylor College of Medicine|null|null|United States| |
+742|Eli T. Sayegh|Eli T.| |Sayegh|Northwestern University|null|null|United States| |
+743|R. Scagliola|R.| |Scagliola|University of Genoa|Genoa|null|Italy| |
+744|I. Scalisi|I.| |Scalisi|UO di Medicina Interna Ospedale Vittorio Emanuele II|Italy|null|Italy| |
+745|F. Schasfoort|F.| |Schasfoort|Erasmus Medical Center|null|null|null| |
+746|H. Scherf|H.| |Scherf|Eberhard Karls University|Tubingen|null|Germany| |
+747|Juliane Schick|Juliane| |Schick|Vectura GmbH|null|null|null| |
+748|Avner Schlessinger|Avner| |Schlessinger|Icahn School of Medicine at Mount Sinai|NY|New York|United States| |
+749|K. Schmitt|K.| |Schmitt|Swiss Paraplegic Center|Nottwil|null|Switzerland| |
+750|Kathryn Schnippel|Kathryn| |Schnippel|Health Economics And Epidemiology Research Office|null|null|null| |
+751|Nicholas J Schott|Nicholas J| |Schott|University of Pittsburg Medical Center|null|null|null| |
+752|Tristan Scott|Tristan| |Scott|University of Witwatersrand|null|null|null| |
+753|E. Segal|E.| |Segal|Technion Israel Institute of technology|Haifa|null|Israel| |
+754|Tizian Sehmsdorf|Tizian| |Sehmsdorf||Greifswald|null|Germany| |
+755|R. Seiler|R.| |Seiler|University of Zurich|Zurich|Zurich|Switzerland| |
+756|M. Selas Armenteros|M.| |Selas Armenteros||Seville|null|null| |
+757|Yi Seok Chang|Yi| |Seok Chang|Department of Molecular and Cellular Biochemistry, Molecular, Cellular and Developmental Biology program|null|null|null| |
+758|Adelia Sequeira|Adelia| |Sequeira|University of Lisbon|Lisbon|null|Portugal| |
+759|S. Serrano|S.| |Serrano|Department of Physical and Rehabilitation Medicine Coimbra Hospital and University Center|Coimbra|Coimbra|Switzerland| |
+760|M. Sezgin|M.| |Sezgin|Mersin University Medical Faculty|Mersin|null|Turkey| |
+761|M. Sghir|M.| |Sghir|Facuty of Medicine of Monastir|Monastir|null|Tunisia| |
+762|A. Sha|A.| |Sha|Mother Hospital|Thrissur|null|Switzerland| |
+763|Ahmed Shabana|Ahmed| |Shabana|National Institute For Scientific Research|null|null|null| |
+764|Manish Shah|Manish| |Shah|Penn State Milton s Hershey Medical Center|null|null|null| |
+765|Ron Shah|Ron| |Shah|University of Ottawa|Ottawa|null|Canada| |
+766|Ronak Shah|Ronak| |Shah||null|null|null| |
+767|Leili Shahriyari|Leili| |Shahriyari|Mathematical Biosciences Institute Ohio State University|Ohio|Ohio|United States| |
+768|Mushfiq H. Shaikh|Mushfiq H.| |Shaikh|Griffith University|Gold coast|null|Australia| |
+769|S. K. Shakouri|S. K.| |Shakouri|Tabriz Medical Sscience University|Tabriz|null|Iran| |
+770|Vinay Sharma|Vinay| |Sharma|University of Witwatersrand|null|null|null| |
+771| Sharp|| |Sharp||null|null|null| |
+772|Tim Shaw|Tim| |Shaw|VIDRL|null|null|Australia| |
+773|Emily Shearier|Emily| |Shearier||null|null|null| |
+774|Vikram Shettigar|Vikram| |Shettigar|The Ohio State University|Ohio|Ohio|United States| |
+775|Carol L Shields|Carol L| |Shields|Wills Eye Hospital|Philadelphia|Pennsylvania|United States| |
+776|Jerry A Shields|Jerry A| |Shields|Wills Eye Hospital 840 Walnut Street|Philadelphia|Pennsylvania|United States| |
+777|Jerry A Shields|Jerry A| |Shields||null|null|null| |
+778|Y. B. Shin|Y. B.| |Shin|Pusan National University Hospital|Pusan|null|Korea, South| |
+779|N Shoraya|N| |Shoraya|Harapan Kita Women and Children Hospital|Jakarta|null|Indonesia| |
+780|WMU Siahaan|WMU| |Siahaan|University of Sumatera Utara|Medan|Sumatera Utara|Indonesia| |
+781|M. Silva|M.| |Silva|Hospital da Prelada|Porto|Porto|Switzerland| |
+782|Y Singh|Y| |Singh|General Hospital San Fernando|San Fernando|Tobago|Trinidad and Tobago| |
+783|A Smith|A| |Smith||null|null|null| |
+784|Sadie Smith|Sadie| |Smith|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+785|P. Snopkov|P.| |Snopkov|FGBI|Moscow|null|Switzerland| |
+786|Neha M. Soares|Neha M.| |Soares|Penn State Hershey Medical Center|Hershey|Pennsylvania|United States| |
+787|Mohsen Sohrabi|Mohsen| |Sohrabi|Griffith University|Gold Coast|null|Australia| |
+788|Jieun Song|Jieun| |Song|Department of Neurological Surgery|OSU|null|null| |
+789|Stefanie Sonner|Stefanie| |Sonner|Felix Klein Zentrum Fur Mathematik TU Kaiserslautern|Kaiserslautern|null|Germany| |
+790|Christiane E. Srensen|Christiane E.| |Srensen|University of Copenhagen|Copenhagen|null|Denmark| |
+791|K. Sotiropoulos|K.| |Sotiropoulos|Centre Hospitalier Universitaire Vaudois|Lausanne|null|Switzerland| |
+792|Randal J. Soukup|Randal J.| |Soukup|The Ohio State University|Ohio|Ohio|United States| |
+793|L. Spadaro|L.| |Spadaro|Ospedale Garibaldi Nesima|Catania|null|Italy| |
+794|Marko Spasic|Marko| |Spasic|David Geffen School of Medicine at University Of California Los Angeles|null|null|null| |
+795|A. Sponchiado|A.| |Sponchiado|University degli Studi di Padova|Treviso|null|Italy| |
+796|K. Sprouffske|K.| |Sprouffske|University of Zurich|Zurich|Zurich|Switzerland| |
+797|S. Stearns|S.| |Stearns|Yale University|null|null|United States| |
+798|Katja Stefan|Katja| |Stefan|University of Bonn|Bonn|null|Germany| |
+799|Tracy Stepien|Tracy| |Stepien|Arizona State University|State University|Arizona|United States| |
+800|Michele Sterling|Michele| |Sterling|Griffith Health Institute|null|null|null| |
+801|Christian Stinner|Christian| |Stinner|Felix Klein Center for Mathematics TU Kaiserslautern|Kaiserslautern|null|Germany| |
+802|M. Stoickov|M.| |Stoickov|Institute For Treatment and Rehabilitation Niska Banja|null|null|null| |
+803|E.- M. Strasser|E.- M.| |Strasser|Kaiser Franz Joseph Spital|Kaiser|null|United States| |
+804|E.- M. Strasser|E.- M.| |Strasser|Social Medical Center South|null|null|null| |
+805|Nadhiya Subramony|Nadhiya| |Subramony|University of the Witwatersrand|null|null|null| |
+806|K. Sugawara|K.| |Sugawara|Kanagawa University of Human Services|Yokosuka|Kanagawa|Japan| |
+807|R. Suksathien|R.| |Suksathien|Maharat Nakhon Ratchasima Hospital|Nakhon Ratchasima|Nakhon Ratchasima|Switzerland| |
+808|Ilyssa Summer|Ilyssa| |Summer|Arizona State University|State University|Arizona|United States| |
+809|Kruthika Sundaram|Kruthika| |Sundaram|Ohio State University Medical Center|Columbus|Ohio|United States| |
+810|Benjamin Sunkel|Benjamin| |Sunkel|the Ohio State University College of Medicine|Ohio|Ohio|United States| |
+811|M. Supervia Pola|M.| |Supervia Pola|Miguel Servet Hospital|Zaragoza|null|Spain| |
+812|Christina Surulescu|Christina| |Surulescu|Felix Klein Zentrum Fur Mathematik TU Kaiserslautern|Kaiserslautern|null|Germany| |
+813|T. Suzuki|T.| |Suzuki|Kansai University of Health Sciences|null|null|null| |
+814|Marzena Szwed|Marzena| |Szwed|University of Lodz|Poland|null|Poland| |
+815|M. Tabata|M.| |Tabata|Toyohashi SOZO University|Toyohashi|null|Switzerland| |
+816|I. Taboas|I.| |Taboas|Centro Hospitalar Tondela Viseu|Oliveira de Azemeis|Viseu|Portugal| |
+817|FA Tamarina|FA| |Tamarina|Department of Dermatology and Venereology Faculty of Medicine Airlangga University Dr Soetomo General Hospital|Surabaya|null|Indonesia| |
+818|A. Tamburello|A.| |Tamburello|AO Ospedale Civile di Legnano|Italy|null|Italy| |
+819|C. Tana|C.| |Tana|Unita Internistica Multidisciplinare|Reggio Emilia|null|Italy| |
+820|H.-W. Tang|H.-W.| |Tang|Changhua Christian Hospital|Changhua|null|Switzerland| |
+821|Szabolcs Tarapcsak|Szabolcs| |Tarapcsak|University of Debrecen|Debrecen|Debrecen|Hungary| |
+822|Somayeh S. Tarighat|Somayeh S.| |Tarighat|The Ohio State University Comprehensive Cancer Center|Columbus|Ohio|United States| |
+823|N. Tarquinio|N.| |Tarquinio|Ospedale Ss Benvenuto e Rocco|Osimo|null|Italy| |
+824|A. Tarroni|A.| |Tarroni|Medicina Interna e Reumatologia|Rimini|null|Italy| |
+825|D. Tate|D.| |Tate|University of Michigan|Novi|Michigan|United States| |
+826|G.D. te Raa|G.D.| |te Raa||null|null|null| |
+827|D. Tecer|D.| |Tecer|Gazi University Medical Faculty|Ankara|null|Turkey| |
+828|Leelawadee Techasatian|Leelawadee| |Techasatian|Khon Kaen University|Khon Kaen|Khon Kaen|Thailand| |
+829|Paul Teesdale-Spittle|Paul| |Teesdale-Spittle|Victoria University of Wellington|Wellington|null|New Zealand| |
+830|Daniel C Terveen|Daniel C| |Terveen|University of South Dakota Sanford School of Medicine 1400 W 22nd St|Sioux Falls|South Dakota|United States| |
+831|Myriane Tetrault|Myriane| |Tetrault|Services de Sante et des Services sociaux du Quebec|Montreal|Quebec|Canada| |
+832|N Thamsakulsirin|N| |Thamsakulsirin|Queen Sirikit National Institute of Child Health|Bangkok|null|Thailand| |
+833|Katie Thies|Katie| |Thies|The Ohio State University|Ohio|Ohio|United States| |
+834|P Thitthiwong|P| |Thitthiwong|Division of Dermatofogy|null|null|null| |
+835|Austin Thompson|Austin| |Thompson||null|null|null| |
+836|Michael S. Thompson|Michael S.| |Thompson|University of Pittsburgh School of Medicine|Pittsburgh|Pennsylvania|United States| |
+837|John Thomson|John| |Thomson|University of the Witwatersrand|null|null|null| |
+838|Laura Thorner|Laura| |Thorner|Universidad CAECE|Buenos Aires|null|Argentina| |
+839|N. Tico-Falguera|N.| |Tico-Falguera|Althaia Xarxa Assistencial Universitaria de Manresa|Manresa|SB|Spain| |
+840|Jens Timmer|Jens| |Timmer|University of Freiburg|null|null|Germany| |
+841|Emily Tinsley|Emily| |Tinsley|MedStar National Rehabilitation Hospital|Washington|District Of Columbia|United States| |
+842|D. Tirotta|D.| |Tirotta|Ospedale Cervesi di Cattolica|Cattolica|null|Italy| |
+843|Florine Tissier|Florine| |Tissier|ORPHY laboratory EA4324 UBO|Brest|null|France| |
+844|T. Tissot|T.| |Tissot|CREEC|Montpellier|null|France| |
+845|KUPSA Tomas|KUPSA| |Tomas|Katedra Vojenskeho Vnitrniho Lekarstvi a Vojenske hygieny|Hradec Kralove|null|Czech Republic| |
+846|J. Toohill|J.| |Toohill|Griffith University|Meadowbrook|null|Australia| |
+847|Michele Torlutter|Michele| |Torlutter|University of Witwatersrand|null|null|null| |
+848|R. Tortini|R.| |Tortini||null|null|null| |
+849|Marco Tozzi|Marco| |Tozzi|University of Copenhagen|Copenhagen|null|Denmark| |
+850|R. Traistaru|R.| |Traistaru|University of Medicine and Pharmacy of Craiova|Craiova|RO|Romania| |
+851|A.V. Trinh|A.V.| |Trinh|Griffith University|Gold Coast|null|Australia| |
+852|Amanda Trommello-Lukof|Amanda| |Trommello-Lukof||null|null|null| |
+853|Albert Tsai|Albert| |Tsai|University of Pennsylvania|null|Pennsylvania|United States| |
+854|S.- W. Tsai|S.- W.| |Tsai|Tzu Chi University|Taichung|null|Switzerland| |
+855|Mai Tsukikawa|Mai| |Tsukikawa|Wills Eye Hospital|Philadelphia|Pennsylvania|United States| |
+856|S. Tuna|S.| |Tuna|Akdeniz University|Antalya|Antalya|Switzerland| |
+857|M. Turrin|M.| |Turrin|UOC Medicina Interna|Padova|Veneto|Italy| |
+858|Jack Tuszynski|Jack| |Tuszynski|University of Alberta|Alberta|Alberta|Canada| |
+859|M Udompataikul|M| |Udompataikul|Srinakharinwirot University|Bangkok|null|Thailand| |
+860|A. M. Ulasli|A. M.| |Ulasli|Kocatepe University|Afyonkarahisar|null|Switzerland| |
+861|S. Ullah|S.| |Ullah||Riyadh|SA|Saudi Arabia| |
+862|S Ullyana|S| |Ullyana|University of Sumatera Utara H Adam Malik General Hospital|Medan|Sumatera Utara|Indonesia| |
+863|S. Unsal-delialioglu|S.| |Unsal-delialioglu|Ankara Physical Medicine and Rehabilitation Training and Research Hospital|Ankara|Ankara|Switzerland| |
+864|Stephan Urban|Stephan| |Urban|University of Heidelberg|Heidelberg|null|Germany| |
+865|R Utami|R| |Utami|Hasanuddin University|Makassar|null|Indonesia| |
+866|B. Uvjari|B.| |Uvjari|University of Sydney|Camperdown|New South Wales|Australia| |
+867|K. Valkenet|K.| |Valkenet|University Medical Center Utrecht|Utrecht|Utrecht|Switzerland| |
+868|S. Valle|S.| |Valle|Universidad Autonoma de Madrid Departamento de Biologia Campus de Cantoblanco|Madrid|null|Spain| |
+869|Esther van Asselt|Esther| |van Asselt|RIKILT Wageningen UR|Wageningen|null|Netherlands| |
+870|H. Van de Meent|H.| |Van de Meent|Radboudumc University|Nijmegen|null|Switzerland| |
+871|Wendy Van der Spuy|Wendy| |Van der Spuy|University of Witwatersrand|null|null|null| |
+872|Robyn Van Zyl|Robyn| |Van Zyl|Wits Research Institute For Malaria|null|null|null| |
+873|Bhavana S. Vangara|Bhavana S.| |Vangara|University of Pittsburgh School of Medicine|Pittsburgh|null|United States| |
+874|K. Vanikova|K.| |Vanikova|Je Purkyne University|Usti nad Labem|null|Switzerland| |
+875|S. Varagic-Markovic|S.| |Varagic-Markovic||Belgrade|null|Yugoslavia| |
+876|G. Vassallo|G.| |Vassallo|University Cattolica|Roma|null|Italy| |
+877|PA Vegt|PA| |Vegt|Albert Schweitzer Hospital|Dordrecht|null|Netherlands| |
+878|H. Verbelen|H.| |Verbelen|University of Antwerp|Wilrijk|null|Switzerland| |
+879|B. Vieira|B.| |Vieira|Griffith University|Gold Coast|null|Australia| |
+880|S Vijayakumaran|S| |Vijayakumaran|Griffith University|Gold Coast|null|Australia| |
+881|P. Vinodbhai|P.| |Vinodbhai|Indian Astrobiology Research Centre|null|null|India| |
+882|C. Virgillito|C.| |Virgillito|UO Medicina Interna|Catania|null|Italy| |
+883|Olga Vitavska|Olga| |Vitavska|University of Osnabruck|Osnabruck|null|Germany| |
+884|F. Vitelli|F.| |Vitelli|Divisione Di Medicina Interna v|null|null|null| |
+885|H. Vogel|H.| |Vogel|University of Wuerzburg|Wuerzburg|null|Germany| |
+886|Haleh Vosgha|Haleh| |Vosgha|Griffith University|Queensland|Queensland|Australia| |
+887|Ann-Katrine Vrans West|Ann-Katrine| |Vrans West|University of Copenhagen|Copenhagen|null|Denmark| |
+888|Andreas Wagner|Andreas| |Wagner||Munchen|null|null| |
+889|Riajul Wahab|Riajul| |Wahab|Griffith University|Gold Coast|null|Australia| |
+890|Tasha Wainstein|Tasha| |Wainstein|University of Witwatersrand|null|null|null| |
+891|Samson Wakibi|Samson| |Wakibi|Mbarara University|null|Mbarara|Uganda| |
+892|Graeme Walker|Graeme| |Walker|QIMR Berghofer Medical Research Institute|null|null|null| |
+893|Jason D. Walls|Jason D.| |Walls||null|null|null| |
+894|C. Wan|C.| |Wan|Tianjin Medical University General Hospital|Tianjin|Tianjin|Switzerland| |
+895|C. Wan|C.| |Wan|Tianjin Medical University General Hospital|Tianjin|Tianjin|China| |
+896|Chaojie Wang|Chaojie| |Wang|Ohio State Biochemistry Program|Ohio|Ohio|United States| |
+897|Ying-Syuan Wang|Ying-Syuan| |Wang|Taipei City Hospital|Taipei|null|Taiwan| |
+898|Rungsima Wanitphakdeedecha|Rungsima| |Wanitphakdeedecha|Mahidol University|Bangkok|null|Thailand| |
+899|William Waring|William| |Waring|Medical College of Wisconsin|Milwaukee|Wisconsin|United States| |
+900|T. Warlop|T.| |Warlop|Cliniques Universitaires Saint Luc|null|null|null| |
+901|N. J. Warner|N. J.| |Warner|Warner Consulting|null|null|United States| |
+902|Jonathan Watson|Jonathan| |Watson|Minnesota Association of Community Health Centers|null|Minnesota|United States| |
+903|Armin A. Weiser|Armin A.| |Weiser|Federal Institute for Risk Assessment|Berlin|null|Germany| |
+904|Silvia Weitzman|Silvia| |Weitzman|AASM|Buenos Aires|null|Argentina| |
+905|Alessandra M. Welker|Alessandra M.| |Welker|Neuroscience Graduate Studies Program|null|null|null| |
+906|J. Wells|J.| |Wells|University College London|London|null|United Kingdom| |
+907|X.-H. Wen|X.-H.| |Wen|Anhui Medical University|Hefei|null|Switzerland| |
+908|M. Wewalka|M.| |Wewalka|Landesklinikum Mistelbach|Mistelbach|null|Switzerland| |
+909|Jonathan Weyhenmeyer|Jonathan| |Weyhenmeyer|Indiana University School of Medicine|Indiana|Indiana|United States| |
+910|Amanda J Wheeler|Amanda J| |Wheeler|Griffith University|Logan|null|Australia| |
+911|Yasmine N. White|Yasmine N.| |White|University of Michigan Medical School|Michigan|Michigan|United States| |
+912|A. Wilson|A.| |Wilson|Department of Respiratory Medicine|null|null|null| |
+913|Shelby Wilson|Shelby| |Wilson|Morehouse College|Morehouse|null|United States| |
+914|W Wisuthsarewong|W| |Wisuthsarewong|Mahidol University|null|null|Thailand| |
+915|Dominik Wodarz|Dominik| |Wodarz|University of California|Irvine|California|United States| |
+916|Danuta Wojnar|Danuta| |Wojnar|Seattle University|null|null|United States| |
+917|Benjamin J. Wolpaw|Benjamin J.| |Wolpaw|Case Western Reserve University|Western|null|United States| |
+918|Bin Xiao|Bin| |Xiao|McGill University|null|null|Canada| |
+919|Shunyuan Xiao|Shunyuan| |Xiao|University of Maryland|null|null|United States| |
+920|Z. Xu|Z.| |Xu|Jilin University|ChangChun|null|Switzerland| |
+921|T. Yamaguchi|T.| |Yamaguchi|Fukui Prefectural Hospital|Fukui|Fukui|Japan| |
+922|S. Yamamoto|S.| |Yamamoto|Ukima Central Hospital|Koto|null|null| |
+923|Feng-Yi Yang|Feng-Yi| |Yang|National Yang Ming University|null|null|Taiwan| |
+924|S. N. Yang|S. N.| |Yang|Korea University Guro Hospital|Seoul|null|Korea, South| |
+925|Daiwei Yao|Daiwei| |Yao||Hannover|null|Germany| |
+926|Jwu-Lai Yeh|Jwu-Lai| |Yeh|Department of Pharmacology School of Medicine Kaohsiung Medical University|Kaohsiung|null|Taiwan| |
+927|A. Yener-Guclu|A.| |Yener-Guclu|Ankara Physical Medicine and Rehabiitation Training and Research Hospital|Ankara|Ankara|Switzerland| |
+928|D. Yi|D.| |Yi|Yonsei University Wonju College of Medicine|Wonju|null|Korea, South| |
+929|Giam Yoke Chin|Giam| |Yoke Chin|National University of Singapore|Singapore|null|Singapore| |
+930|Uzung Yoon|Uzung| |Yoon|Thomas Jefferson University Hospital|Jefferson|null|United States| |
+931|Ingrid F Younes|Ingrid F| |Younes|American University of Beirut|Lebanon|null|Lebanon| |
+932|Andrew C. Young|Andrew C.| |Young|K RITH|null|null|null| |
+933|Siming Yu|Siming| |Yu|Institut de Ciencia de Materials de Barcelona|Barcelona|null|Spain| |
+934|Shen Yu Helvig|Shen| |Yu Helvig|University of Copenhagen|Copenhagen|null|Denmark| |
+935|Ian Yuan|Ian| |Yuan|Thomas Jefferson University Hospital|Jefferson|null|United States| |
+936|N Yudhitiara|N| |Yudhitiara|Padjadjaran University|Bandung|null|Indonesia| |
+937|M Yunus|M| |Yunus|Hasanuddin University|Makassar|null|Indonesia| |
+938|D. Zaharieva|D.| |Zaharieva|NSA|Sofia|null|Bulgaria| |
+939|A. Zao|A.| |Zao|Centro Hospitalar do Porto|Porto|Porto|Switzerland| |
+940|A. Zarghi|A.| |Zarghi||Tehran|null|Iran| |
+941|Adam Zdenek|Adam| |Zdenek|Interni Hematologicka a Onkologicka klinika LF MU a FN Brno|Brno|null|Czech Republic| |
+942|H. Zerouga|H.| |Zerouga|EHS Pediatrique Canastel|null|null|null| |
+943|V Zevallos|V| |Zevallos|University of Mainz|Mainz|null|Germany| |
+944|Kai Zhang|Kai| |Zhang|Griffith University|Southport|null|Australia| |
+945|T. Zhang|T.| |Zhang|Sichuan University|Chengdu|null|Switzerland| |
+946|Yichi Zhang|Yichi| |Zhang|Carleton University|null|null|Canada| |
+947|N. Zhou|N.| |Zhou|The Second Affiliated Hospital of KMU|null|null|null| |
+948|Xinyu Zhou|Xinyu| |Zhou|The Ohio State University|Ohio|Ohio|United States| |
+949|Timo Zippelius|Timo| |Zippelius||Eisenberg|null|null| |
+950|M. Zippi|M.| |Zippi|Sandro Pertini Hospital|Rome|null|Italy| |
+951|Flavia Zita Francies|Flavia| |Zita Francies|iThemba LABS|Somerset West|null|South Africa| |
+952|Jitka L Zobal-Ratner|Jitka L| |Zobal-Ratner||null|null|null| |
+953|Lisa Zondag|Lisa| |Zondag|University of Otago|Dunedin|Otago|New Zealand| |
+954|N. Zoukeri|N.| |Zoukeri|MTKassab Institute|Manouba|Manouba|Switzerland| |
+955|Abu Hasanat Zulfiker|Abu Hasanat| |Zulfiker|Griffith University|Gold Coast|null|Australia| |
+956|H. zur Hausen|H.| |zur Hausen|German Cancer Research Center|Heidelberg|null|Germany| |
